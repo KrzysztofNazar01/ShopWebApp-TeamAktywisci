@@ -166,12 +166,27 @@ def adjustCSVfile(filename):
     return df
 
 
-if __name__ == '__main__':
-    # getDataUsingWebScrapping()
-    newDf = adjustCSVfile('OBI_products_1.csv')
-    newDf.to_csv('OBI_products_2.csv', index=False, encoding='utf-16')
+def saveDataframe(df, filenumber):
+    df.to_csv('OBI_products_' + str(filenumber) + '.csv', index=False, encoding='utf-16')
 
     import numpy as np
+    my_numpy = df.to_numpy()
+    np.savetxt('OBI_products_' + str(filenumber) + '_delimiter.csv', my_numpy, fmt='%s', delimiter='|')
 
-    my_numpy = newDf.to_numpy()
-    np.savetxt('OBI_products_2_delimiter.csv', my_numpy, fmt='%s', delimiter='|')
+if __name__ == '__main__':
+    # getDataUsingWebScrapping()
+    df = adjustCSVfile('OBI_products_1.csv')
+    # saveDataframe(df,2)
+    with open('dataWithCategories_2.csv') as f:
+        print(f)
+    df_cat = pd.read_csv('dataWithCategories_2.csv', index_col=False, encoding='utf-8', delimiter=", ")
+    print(df_cat)
+    df_final = pd.merge(df, df_cat, left_on='img', right_on='img', how='left')
+    df_final = df_final.drop('name_y', axis=1)
+    df_final = df_final.drop('price', axis=1)
+    df_final = df_final[df_final['ratingCount'].notna()]
+    df_final = df_final[df_final['ratingScore'].notna()]
+    print(df_final)
+    saveDataframe(df_final, 3)
+
+
