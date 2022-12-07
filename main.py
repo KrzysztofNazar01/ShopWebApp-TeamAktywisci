@@ -173,6 +173,7 @@ def saveDataframe(df, filenumber):
     my_numpy = df.to_numpy()
     np.savetxt('OBI_products_' + str(filenumber) + '_delimiter.csv', my_numpy, fmt='%s', delimiter='|')
 
+
 if __name__ == '__main__':
     # getDataUsingWebScrapping()
     df = adjustCSVfile('OBI_products_1.csv')
@@ -186,6 +187,7 @@ if __name__ == '__main__':
     df_final = df_final.drop('price', axis=1)
     df_final = df_final[df_final['ratingCount'].notna()]
     df_final = df_final[df_final['ratingScore'].notna()]
+    df_final['idProduktu'] = range(0, len(df_final))
     print(df_final)
     saveDataframe(df_final, 3)
 
