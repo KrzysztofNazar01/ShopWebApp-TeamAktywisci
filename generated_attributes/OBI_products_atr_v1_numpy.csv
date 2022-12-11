@@ -1,0 +1,1932 @@
+0|Kolor:select:0|Pomarañczowy:0|1
+0|Kolor:select:1|Czerwony:1|2
+0|Wielkoœæ:select:0|Œredni:0|1
+0|Wielkoœæ:select:1|Ma³y:1|2
+1|Kolor:select:0|Niebieski:0|1
+1|Kolor:select:1|Pomarañczowy:1|2
+1|Wielkoœæ:select:0|Bardzo du¿y:0|1
+1|Wielkoœæ:select:1|Bardzo ma³y:1|2
+2|Kolor:select:0|Lazurowy:0|1
+2|Wielkoœæ:select:0|Du¿y:0|1
+3|Kolor:select:0|Niebieski:0|1
+3|Kolor:select:1|Czerwony:1|2
+3|Wielkoœæ:select:0|Ma³y:0|1
+3|Wielkoœæ:select:1|Bardzo ma³y:1|2
+4|Kolor:select:0|Niebieski:0|1
+4|Kolor:select:1|Burgundowy:1|2
+4|Kolor:select:2|Czerwony:2|3
+4|Wielkoœæ:select:0|Bardzo ma³y:0|1
+5|Kolor:select:0|Czerwony:0|1
+5|Wielkoœæ:select:0|Bardzo ma³y:0|1
+6|Kolor:select:0|Niebieski:0|1
+6|Kolor:select:1|Czerwony:1|2
+6|Wielkoœæ:select:0|Œredni:0|1
+7|Kolor:select:0|Burgundowy:0|1
+7|Kolor:select:1|Niebieski:1|2
+7|Kolor:select:2|Czerwony:2|3
+7|Wielkoœæ:select:0|Bardzo ma³y:0|1
+7|Wielkoœæ:select:1|Du¿y:1|2
+8|Kolor:select:0|Czerwony:0|1
+8|Wielkoœæ:select:0|Du¿y:0|1
+8|Wielkoœæ:select:1|Ma³y:1|2
+9|Kolor:select:0|Czerwony:0|1
+9|Wielkoœæ:select:0|Œredni:0|1
+9|Wielkoœæ:select:1|Du¿y:1|2
+10|Kolor:select:0|B³êkitny:0|1
+10|Kolor:select:1|Niebieski:1|2
+10|Wielkoœæ:select:0|Œredni:0|1
+10|Wielkoœæ:select:1|Ma³y:1|2
+11|Kolor:select:0|Pomarañczowy:0|1
+11|Kolor:select:1|B³êkitny:1|2
+11|Wielkoœæ:select:0|Bardzo du¿y:0|1
+12|Kolor:select:0|B³êkitny:0|1
+12|Kolor:select:1|Czerwony:1|2
+12|Kolor:select:2|Niebieski:2|3
+12|Wielkoœæ:select:0|Bardzo du¿y:0|1
+12|Wielkoœæ:select:1|Œredni:1|2
+13|Kolor:select:0|Zielony:0|1
+13|Wielkoœæ:select:0|Œredni:0|1
+13|Wielkoœæ:select:1|Ma³y:1|2
+14|Kolor:select:0|Lazurowy:0|1
+14|Kolor:select:1|Burgundowy:1|2
+14|Wielkoœæ:select:0|Du¿y:0|1
+15|Kolor:select:0|B³êkitny:0|1
+15|Wielkoœæ:select:0|Bardzo du¿y:0|1
+16|Kolor:select:0|Pomarañczowy:0|1
+16|Kolor:select:1|Zielony:1|2
+16|Kolor:select:2|Lazurowy:2|3
+16|Wielkoœæ:select:0|Bardzo du¿y:0|1
+16|Wielkoœæ:select:1|Du¿y:1|2
+17|Kolor:select:0|Burgundowy:0|1
+17|Kolor:select:1|Lazurowy:1|2
+17|Kolor:select:2|Pomarañczowy:2|3
+17|Wielkoœæ:select:0|Du¿y:0|1
+17|Wielkoœæ:select:1|Bardzo du¿y:1|2
+18|Kolor:select:0|Czerwony:0|1
+18|Wielkoœæ:select:0|Ma³y:0|1
+19|Kolor:select:0|Pomarañczowy:0|1
+19|Wielkoœæ:select:0|Œredni:0|1
+19|Wielkoœæ:select:1|Ma³y:1|2
+20|Kolor:select:0|Pomarañczowy:0|1
+20|Wielkoœæ:select:0|Bardzo ma³y:0|1
+20|Wielkoœæ:select:1|Du¿y:1|2
+21|Kolor:select:0|Czerwony:0|1
+21|Kolor:select:1|Niebieski:1|2
+21|Kolor:select:2|Pomarañczowy:2|3
+21|Wielkoœæ:select:0|Œredni:0|1
+21|Wielkoœæ:select:1|Bardzo ma³y:1|2
+22|Kolor:select:0|Pomarañczowy:0|1
+22|Kolor:select:1|Lazurowy:1|2
+22|Wielkoœæ:select:0|Bardzo ma³y:0|1
+23|Kolor:select:0|Pomarañczowy:0|1
+23|Wielkoœæ:select:0|Bardzo ma³y:0|1
+23|Wielkoœæ:select:1|Ma³y:1|2
+24|Kolor:select:0|Lazurowy:0|1
+24|Wielkoœæ:select:0|Œredni:0|1
+24|Wielkoœæ:select:1|Ma³y:1|2
+25|Kolor:select:0|Lazurowy:0|1
+25|Kolor:select:1|B³êkitny:1|2
+25|Kolor:select:2|Zielony:2|3
+25|Wielkoœæ:select:0|Ma³y:0|1
+25|Wielkoœæ:select:1|Du¿y:1|2
+26|Kolor:select:0|Burgundowy:0|1
+26|Kolor:select:1|Czerwony:1|2
+26|Kolor:select:2|Niebieski:2|3
+26|Wielkoœæ:select:0|Bardzo ma³y:0|1
+26|Wielkoœæ:select:1|Du¿y:1|2
+27|Kolor:select:0|Niebieski:0|1
+27|Kolor:select:1|Czerwony:1|2
+27|Kolor:select:2|B³êkitny:2|3
+27|Wielkoœæ:select:0|Bardzo du¿y:0|1
+27|Wielkoœæ:select:1|Ma³y:1|2
+28|Kolor:select:0|Czerwony:0|1
+28|Wielkoœæ:select:0|Du¿y:0|1
+28|Wielkoœæ:select:1|Bardzo du¿y:1|2
+29|Kolor:select:0|Niebieski:0|1
+29|Kolor:select:1|Burgundowy:1|2
+29|Wielkoœæ:select:0|Œredni:0|1
+29|Wielkoœæ:select:1|Bardzo ma³y:1|2
+30|Kolor:select:0|Pomarañczowy:0|1
+30|Wielkoœæ:select:0|Bardzo ma³y:0|1
+31|Kolor:select:0|B³êkitny:0|1
+31|Wielkoœæ:select:0|Du¿y:0|1
+32|Kolor:select:0|Zielony:0|1
+32|Wielkoœæ:select:0|Du¿y:0|1
+33|Kolor:select:0|Niebieski:0|1
+33|Wielkoœæ:select:0|Du¿y:0|1
+34|Kolor:select:0|Zielony:0|1
+34|Kolor:select:1|B³êkitny:1|2
+34|Kolor:select:2|Pomarañczowy:2|3
+34|Wielkoœæ:select:0|Bardzo du¿y:0|1
+34|Wielkoœæ:select:1|Œredni:1|2
+35|Kolor:select:0|Pomarañczowy:0|1
+35|Kolor:select:1|Burgundowy:1|2
+35|Kolor:select:2|Lazurowy:2|3
+35|Wielkoœæ:select:0|Du¿y:0|1
+36|Kolor:select:0|B³êkitny:0|1
+36|Kolor:select:1|Niebieski:1|2
+36|Kolor:select:2|Czerwony:2|3
+36|Wielkoœæ:select:0|Ma³y:0|1
+36|Wielkoœæ:select:1|Œredni:1|2
+37|Kolor:select:0|Pomarañczowy:0|1
+37|Kolor:select:1|B³êkitny:1|2
+37|Kolor:select:2|Burgundowy:2|3
+37|Wielkoœæ:select:0|Du¿y:0|1
+37|Wielkoœæ:select:1|Ma³y:1|2
+38|Kolor:select:0|Burgundowy:0|1
+38|Kolor:select:1|B³êkitny:1|2
+38|Wielkoœæ:select:0|Du¿y:0|1
+38|Wielkoœæ:select:1|Bardzo du¿y:1|2
+39|Kolor:select:0|B³êkitny:0|1
+39|Kolor:select:1|Pomarañczowy:1|2
+39|Kolor:select:2|Czerwony:2|3
+39|Wielkoœæ:select:0|Bardzo ma³y:0|1
+40|Kolor:select:0|Lazurowy:0|1
+40|Wielkoœæ:select:0|Bardzo ma³y:0|1
+40|Wielkoœæ:select:1|Bardzo du¿y:1|2
+41|Kolor:select:0|B³êkitny:0|1
+41|Wielkoœæ:select:0|Ma³y:0|1
+41|Wielkoœæ:select:1|Bardzo du¿y:1|2
+42|Kolor:select:0|Zielony:0|1
+42|Wielkoœæ:select:0|Ma³y:0|1
+43|Kolor:select:0|Lazurowy:0|1
+43|Kolor:select:1|Niebieski:1|2
+43|Wielkoœæ:select:0|Bardzo du¿y:0|1
+44|Kolor:select:0|Lazurowy:0|1
+44|Kolor:select:1|Zielony:1|2
+44|Kolor:select:2|Niebieski:2|3
+44|Wielkoœæ:select:0|Œredni:0|1
+44|Wielkoœæ:select:1|Bardzo ma³y:1|2
+45|Kolor:select:0|Zielony:0|1
+45|Kolor:select:1|B³êkitny:1|2
+45|Wielkoœæ:select:0|Bardzo ma³y:0|1
+45|Wielkoœæ:select:1|Ma³y:1|2
+46|Kolor:select:0|Zielony:0|1
+46|Wielkoœæ:select:0|Bardzo ma³y:0|1
+47|Kolor:select:0|Czerwony:0|1
+47|Wielkoœæ:select:0|Du¿y:0|1
+47|Wielkoœæ:select:1|Bardzo du¿y:1|2
+48|Kolor:select:0|Zielony:0|1
+48|Kolor:select:1|Czerwony:1|2
+48|Kolor:select:2|Niebieski:2|3
+48|Wielkoœæ:select:0|Œredni:0|1
+49|Kolor:select:0|Burgundowy:0|1
+49|Kolor:select:1|Lazurowy:1|2
+49|Kolor:select:2|Niebieski:2|3
+49|Wielkoœæ:select:0|Œredni:0|1
+49|Wielkoœæ:select:1|Bardzo ma³y:1|2
+50|Kolor:select:0|B³êkitny:0|1
+50|Kolor:select:1|Niebieski:1|2
+50|Kolor:select:2|Czerwony:2|3
+50|Wielkoœæ:select:0|Bardzo ma³y:0|1
+50|Wielkoœæ:select:1|Œredni:1|2
+51|Kolor:select:0|Pomarañczowy:0|1
+51|Kolor:select:1|Czerwony:1|2
+51|Kolor:select:2|Niebieski:2|3
+51|Wielkoœæ:select:0|Œredni:0|1
+52|Kolor:select:0|Czerwony:0|1
+52|Kolor:select:1|B³êkitny:1|2
+52|Kolor:select:2|Niebieski:2|3
+52|Wielkoœæ:select:0|Bardzo ma³y:0|1
+53|Kolor:select:0|Czerwony:0|1
+53|Kolor:select:1|Zielony:1|2
+53|Kolor:select:2|Pomarañczowy:2|3
+53|Wielkoœæ:select:0|Du¿y:0|1
+53|Wielkoœæ:select:1|Bardzo du¿y:1|2
+54|Kolor:select:0|Burgundowy:0|1
+54|Wielkoœæ:select:0|Œredni:0|1
+54|Wielkoœæ:select:1|Bardzo ma³y:1|2
+55|Kolor:select:0|Czerwony:0|1
+55|Kolor:select:1|Burgundowy:1|2
+55|Wielkoœæ:select:0|Du¿y:0|1
+56|Kolor:select:0|Niebieski:0|1
+56|Wielkoœæ:select:0|Œredni:0|1
+57|Kolor:select:0|B³êkitny:0|1
+57|Wielkoœæ:select:0|Du¿y:0|1
+58|Kolor:select:0|Zielony:0|1
+58|Kolor:select:1|Pomarañczowy:1|2
+58|Kolor:select:2|Lazurowy:2|3
+58|Wielkoœæ:select:0|Ma³y:0|1
+59|Kolor:select:0|Zielony:0|1
+59|Kolor:select:1|Lazurowy:1|2
+59|Kolor:select:2|Niebieski:2|3
+59|Wielkoœæ:select:0|Bardzo ma³y:0|1
+59|Wielkoœæ:select:1|Bardzo du¿y:1|2
+60|Kolor:select:0|Burgundowy:0|1
+60|Kolor:select:1|Pomarañczowy:1|2
+60|Wielkoœæ:select:0|Du¿y:0|1
+60|Wielkoœæ:select:1|Œredni:1|2
+61|Kolor:select:0|Niebieski:0|1
+61|Wielkoœæ:select:0|Bardzo du¿y:0|1
+62|Kolor:select:0|Burgundowy:0|1
+62|Kolor:select:1|Czerwony:1|2
+62|Wielkoœæ:select:0|Œredni:0|1
+62|Wielkoœæ:select:1|Ma³y:1|2
+63|Kolor:select:0|Zielony:0|1
+63|Kolor:select:1|Pomarañczowy:1|2
+63|Wielkoœæ:select:0|Bardzo ma³y:0|1
+64|Kolor:select:0|Zielony:0|1
+64|Wielkoœæ:select:0|Œredni:0|1
+65|Kolor:select:0|B³êkitny:0|1
+65|Kolor:select:1|Niebieski:1|2
+65|Wielkoœæ:select:0|Ma³y:0|1
+65|Wielkoœæ:select:1|Bardzo ma³y:1|2
+66|Kolor:select:0|B³êkitny:0|1
+66|Kolor:select:1|Niebieski:1|2
+66|Wielkoœæ:select:0|Bardzo ma³y:0|1
+66|Wielkoœæ:select:1|Bardzo du¿y:1|2
+67|Kolor:select:0|Zielony:0|1
+67|Wielkoœæ:select:0|Bardzo ma³y:0|1
+68|Kolor:select:0|Lazurowy:0|1
+68|Kolor:select:1|Burgundowy:1|2
+68|Kolor:select:2|B³êkitny:2|3
+68|Wielkoœæ:select:0|Ma³y:0|1
+68|Wielkoœæ:select:1|Œredni:1|2
+69|Kolor:select:0|Zielony:0|1
+69|Wielkoœæ:select:0|Du¿y:0|1
+70|Kolor:select:0|Pomarañczowy:0|1
+70|Kolor:select:1|Czerwony:1|2
+70|Wielkoœæ:select:0|Bardzo du¿y:0|1
+71|Kolor:select:0|Burgundowy:0|1
+71|Kolor:select:1|Zielony:1|2
+71|Wielkoœæ:select:0|Ma³y:0|1
+71|Wielkoœæ:select:1|Bardzo ma³y:1|2
+72|Kolor:select:0|Czerwony:0|1
+72|Wielkoœæ:select:0|Ma³y:0|1
+72|Wielkoœæ:select:1|Bardzo ma³y:1|2
+73|Kolor:select:0|Niebieski:0|1
+73|Kolor:select:1|B³êkitny:1|2
+73|Wielkoœæ:select:0|Bardzo ma³y:0|1
+73|Wielkoœæ:select:1|Ma³y:1|2
+74|Kolor:select:0|Niebieski:0|1
+74|Kolor:select:1|Pomarañczowy:1|2
+74|Kolor:select:2|Czerwony:2|3
+74|Wielkoœæ:select:0|Bardzo ma³y:0|1
+75|Kolor:select:0|B³êkitny:0|1
+75|Kolor:select:1|Pomarañczowy:1|2
+75|Wielkoœæ:select:0|Du¿y:0|1
+75|Wielkoœæ:select:1|Ma³y:1|2
+76|Kolor:select:0|Zielony:0|1
+76|Wielkoœæ:select:0|Bardzo du¿y:0|1
+77|Kolor:select:0|Niebieski:0|1
+77|Wielkoœæ:select:0|Ma³y:0|1
+77|Wielkoœæ:select:1|Œredni:1|2
+78|Kolor:select:0|Czerwony:0|1
+78|Kolor:select:1|Niebieski:1|2
+78|Wielkoœæ:select:0|Œredni:0|1
+78|Wielkoœæ:select:1|Bardzo du¿y:1|2
+79|Kolor:select:0|Niebieski:0|1
+79|Kolor:select:1|Zielony:1|2
+79|Wielkoœæ:select:0|Bardzo ma³y:0|1
+80|Kolor:select:0|Niebieski:0|1
+80|Kolor:select:1|Burgundowy:1|2
+80|Kolor:select:2|Czerwony:2|3
+80|Wielkoœæ:select:0|Œredni:0|1
+80|Wielkoœæ:select:1|Ma³y:1|2
+81|Kolor:select:0|B³êkitny:0|1
+81|Wielkoœæ:select:0|Bardzo du¿y:0|1
+82|Kolor:select:0|Lazurowy:0|1
+82|Kolor:select:1|Pomarañczowy:1|2
+82|Wielkoœæ:select:0|Œredni:0|1
+83|Kolor:select:0|Niebieski:0|1
+83|Kolor:select:1|Pomarañczowy:1|2
+83|Wielkoœæ:select:0|Bardzo du¿y:0|1
+83|Wielkoœæ:select:1|Ma³y:1|2
+84|Kolor:select:0|Burgundowy:0|1
+84|Kolor:select:1|Czerwony:1|2
+84|Kolor:select:2|Zielony:2|3
+84|Wielkoœæ:select:0|Ma³y:0|1
+84|Wielkoœæ:select:1|Bardzo du¿y:1|2
+85|Kolor:select:0|Burgundowy:0|1
+85|Kolor:select:1|Czerwony:1|2
+85|Kolor:select:2|Niebieski:2|3
+85|Wielkoœæ:select:0|Du¿y:0|1
+86|Kolor:select:0|Lazurowy:0|1
+86|Wielkoœæ:select:0|Ma³y:0|1
+87|Kolor:select:0|B³êkitny:0|1
+87|Kolor:select:1|Czerwony:1|2
+87|Kolor:select:2|Burgundowy:2|3
+87|Wielkoœæ:select:0|Bardzo du¿y:0|1
+87|Wielkoœæ:select:1|Ma³y:1|2
+88|Kolor:select:0|Czerwony:0|1
+88|Kolor:select:1|Lazurowy:1|2
+88|Kolor:select:2|Niebieski:2|3
+88|Wielkoœæ:select:0|Bardzo du¿y:0|1
+88|Wielkoœæ:select:1|Du¿y:1|2
+89|Kolor:select:0|Czerwony:0|1
+89|Kolor:select:1|Zielony:1|2
+89|Kolor:select:2|Niebieski:2|3
+89|Wielkoœæ:select:0|Bardzo ma³y:0|1
+89|Wielkoœæ:select:1|Œredni:1|2
+90|Kolor:select:0|Czerwony:0|1
+90|Kolor:select:1|Lazurowy:1|2
+90|Wielkoœæ:select:0|Œredni:0|1
+90|Wielkoœæ:select:1|Ma³y:1|2
+91|Kolor:select:0|Zielony:0|1
+91|Wielkoœæ:select:0|Bardzo ma³y:0|1
+92|Kolor:select:0|Zielony:0|1
+92|Kolor:select:1|Czerwony:1|2
+92|Kolor:select:2|Pomarañczowy:2|3
+92|Wielkoœæ:select:0|Œredni:0|1
+93|Kolor:select:0|Niebieski:0|1
+93|Kolor:select:1|Lazurowy:1|2
+93|Wielkoœæ:select:0|Bardzo ma³y:0|1
+94|Kolor:select:0|Pomarañczowy:0|1
+94|Kolor:select:1|Lazurowy:1|2
+94|Kolor:select:2|Czerwony:2|3
+94|Wielkoœæ:select:0|Bardzo ma³y:0|1
+94|Wielkoœæ:select:1|Du¿y:1|2
+95|Kolor:select:0|Czerwony:0|1
+95|Kolor:select:1|Niebieski:1|2
+95|Wielkoœæ:select:0|Ma³y:0|1
+95|Wielkoœæ:select:1|Du¿y:1|2
+96|Kolor:select:0|Niebieski:0|1
+96|Wielkoœæ:select:0|Bardzo ma³y:0|1
+96|Wielkoœæ:select:1|Ma³y:1|2
+97|Kolor:select:0|Pomarañczowy:0|1
+97|Wielkoœæ:select:0|Œredni:0|1
+97|Wielkoœæ:select:1|Ma³y:1|2
+98|Kolor:select:0|Zielony:0|1
+98|Wielkoœæ:select:0|Bardzo ma³y:0|1
+99|Kolor:select:0|B³êkitny:0|1
+99|Wielkoœæ:select:0|Œredni:0|1
+99|Wielkoœæ:select:1|Du¿y:1|2
+100|Kolor:select:0|Pomarañczowy:0|1
+100|Kolor:select:1|Niebieski:1|2
+100|Wielkoœæ:select:0|Ma³y:0|1
+101|Kolor:select:0|Niebieski:0|1
+101|Kolor:select:1|Lazurowy:1|2
+101|Kolor:select:2|Czerwony:2|3
+101|Wielkoœæ:select:0|Du¿y:0|1
+101|Wielkoœæ:select:1|Œredni:1|2
+102|Kolor:select:0|Pomarañczowy:0|1
+102|Kolor:select:1|Zielony:1|2
+102|Wielkoœæ:select:0|Œredni:0|1
+102|Wielkoœæ:select:1|Du¿y:1|2
+103|Kolor:select:0|Niebieski:0|1
+103|Wielkoœæ:select:0|Bardzo ma³y:0|1
+104|Kolor:select:0|Czerwony:0|1
+104|Kolor:select:1|Niebieski:1|2
+104|Wielkoœæ:select:0|Bardzo du¿y:0|1
+105|Kolor:select:0|Niebieski:0|1
+105|Kolor:select:1|Czerwony:1|2
+105|Kolor:select:2|Burgundowy:2|3
+105|Wielkoœæ:select:0|Bardzo du¿y:0|1
+106|Kolor:select:0|Lazurowy:0|1
+106|Kolor:select:1|Czerwony:1|2
+106|Wielkoœæ:select:0|Ma³y:0|1
+107|Kolor:select:0|Burgundowy:0|1
+107|Wielkoœæ:select:0|Œredni:0|1
+107|Wielkoœæ:select:1|Ma³y:1|2
+108|Kolor:select:0|B³êkitny:0|1
+108|Kolor:select:1|Pomarañczowy:1|2
+108|Kolor:select:2|Niebieski:2|3
+108|Wielkoœæ:select:0|Ma³y:0|1
+109|Kolor:select:0|Burgundowy:0|1
+109|Kolor:select:1|Czerwony:1|2
+109|Kolor:select:2|B³êkitny:2|3
+109|Wielkoœæ:select:0|Œredni:0|1
+109|Wielkoœæ:select:1|Bardzo du¿y:1|2
+110|Kolor:select:0|Niebieski:0|1
+110|Kolor:select:1|Lazurowy:1|2
+110|Kolor:select:2|Czerwony:2|3
+110|Wielkoœæ:select:0|Bardzo ma³y:0|1
+110|Wielkoœæ:select:1|Du¿y:1|2
+111|Kolor:select:0|Zielony:0|1
+111|Kolor:select:1|B³êkitny:1|2
+111|Kolor:select:2|Czerwony:2|3
+111|Wielkoœæ:select:0|Du¿y:0|1
+112|Kolor:select:0|Czerwony:0|1
+112|Kolor:select:1|Zielony:1|2
+112|Kolor:select:2|Lazurowy:2|3
+112|Wielkoœæ:select:0|Bardzo du¿y:0|1
+112|Wielkoœæ:select:1|Bardzo ma³y:1|2
+113|Kolor:select:0|Czerwony:0|1
+113|Wielkoœæ:select:0|Ma³y:0|1
+113|Wielkoœæ:select:1|Bardzo du¿y:1|2
+114|Kolor:select:0|Burgundowy:0|1
+114|Kolor:select:1|B³êkitny:1|2
+114|Kolor:select:2|Niebieski:2|3
+114|Wielkoœæ:select:0|Ma³y:0|1
+114|Wielkoœæ:select:1|Du¿y:1|2
+115|Kolor:select:0|Burgundowy:0|1
+115|Kolor:select:1|Lazurowy:1|2
+115|Wielkoœæ:select:0|Du¿y:0|1
+115|Wielkoœæ:select:1|Bardzo du¿y:1|2
+116|Kolor:select:0|Lazurowy:0|1
+116|Kolor:select:1|Czerwony:1|2
+116|Kolor:select:2|Pomarañczowy:2|3
+116|Wielkoœæ:select:0|Œredni:0|1
+116|Wielkoœæ:select:1|Bardzo du¿y:1|2
+117|Kolor:select:0|Niebieski:0|1
+117|Wielkoœæ:select:0|Bardzo ma³y:0|1
+117|Wielkoœæ:select:1|Œredni:1|2
+118|Kolor:select:0|Niebieski:0|1
+118|Kolor:select:1|Zielony:1|2
+118|Wielkoœæ:select:0|Du¿y:0|1
+119|Kolor:select:0|Czerwony:0|1
+119|Kolor:select:1|B³êkitny:1|2
+119|Kolor:select:2|Burgundowy:2|3
+119|Wielkoœæ:select:0|Œredni:0|1
+120|Kolor:select:0|Niebieski:0|1
+120|Wielkoœæ:select:0|Du¿y:0|1
+121|Kolor:select:0|Niebieski:0|1
+121|Kolor:select:1|Pomarañczowy:1|2
+121|Kolor:select:2|B³êkitny:2|3
+121|Wielkoœæ:select:0|Bardzo ma³y:0|1
+122|Kolor:select:0|Burgundowy:0|1
+122|Kolor:select:1|Niebieski:1|2
+122|Kolor:select:2|Pomarañczowy:2|3
+122|Wielkoœæ:select:0|Du¿y:0|1
+122|Wielkoœæ:select:1|Œredni:1|2
+123|Kolor:select:0|Zielony:0|1
+123|Kolor:select:1|B³êkitny:1|2
+123|Kolor:select:2|Pomarañczowy:2|3
+123|Wielkoœæ:select:0|Bardzo du¿y:0|1
+124|Kolor:select:0|Czerwony:0|1
+124|Wielkoœæ:select:0|Bardzo du¿y:0|1
+124|Wielkoœæ:select:1|Ma³y:1|2
+125|Kolor:select:0|Zielony:0|1
+125|Kolor:select:1|B³êkitny:1|2
+125|Wielkoœæ:select:0|Œredni:0|1
+125|Wielkoœæ:select:1|Bardzo du¿y:1|2
+126|Kolor:select:0|B³êkitny:0|1
+126|Wielkoœæ:select:0|Bardzo ma³y:0|1
+127|Kolor:select:0|Pomarañczowy:0|1
+127|Kolor:select:1|Niebieski:1|2
+127|Kolor:select:2|Lazurowy:2|3
+127|Wielkoœæ:select:0|Œredni:0|1
+127|Wielkoœæ:select:1|Bardzo du¿y:1|2
+128|Kolor:select:0|Pomarañczowy:0|1
+128|Kolor:select:1|B³êkitny:1|2
+128|Kolor:select:2|Niebieski:2|3
+128|Wielkoœæ:select:0|Ma³y:0|1
+129|Kolor:select:0|Niebieski:0|1
+129|Wielkoœæ:select:0|Bardzo du¿y:0|1
+129|Wielkoœæ:select:1|Œredni:1|2
+130|Kolor:select:0|Burgundowy:0|1
+130|Kolor:select:1|Czerwony:1|2
+130|Kolor:select:2|Lazurowy:2|3
+130|Wielkoœæ:select:0|Bardzo du¿y:0|1
+131|Kolor:select:0|Czerwony:0|1
+131|Kolor:select:1|Burgundowy:1|2
+131|Kolor:select:2|Pomarañczowy:2|3
+131|Wielkoœæ:select:0|Du¿y:0|1
+132|Kolor:select:0|Czerwony:0|1
+132|Wielkoœæ:select:0|Œredni:0|1
+133|Kolor:select:0|Pomarañczowy:0|1
+133|Kolor:select:1|Czerwony:1|2
+133|Wielkoœæ:select:0|Du¿y:0|1
+133|Wielkoœæ:select:1|Ma³y:1|2
+134|Kolor:select:0|Burgundowy:0|1
+134|Kolor:select:1|Pomarañczowy:1|2
+134|Wielkoœæ:select:0|Du¿y:0|1
+134|Wielkoœæ:select:1|Ma³y:1|2
+135|Kolor:select:0|Czerwony:0|1
+135|Kolor:select:1|B³êkitny:1|2
+135|Wielkoœæ:select:0|Œredni:0|1
+135|Wielkoœæ:select:1|Du¿y:1|2
+136|Kolor:select:0|Niebieski:0|1
+136|Kolor:select:1|Pomarañczowy:1|2
+136|Wielkoœæ:select:0|Ma³y:0|1
+136|Wielkoœæ:select:1|Du¿y:1|2
+137|Kolor:select:0|Lazurowy:0|1
+137|Kolor:select:1|Burgundowy:1|2
+137|Kolor:select:2|B³êkitny:2|3
+137|Wielkoœæ:select:0|Ma³y:0|1
+138|Kolor:select:0|Lazurowy:0|1
+138|Kolor:select:1|B³êkitny:1|2
+138|Wielkoœæ:select:0|Œredni:0|1
+138|Wielkoœæ:select:1|Du¿y:1|2
+139|Kolor:select:0|Niebieski:0|1
+139|Kolor:select:1|Pomarañczowy:1|2
+139|Kolor:select:2|Lazurowy:2|3
+139|Wielkoœæ:select:0|Œredni:0|1
+140|Kolor:select:0|Niebieski:0|1
+140|Kolor:select:1|Czerwony:1|2
+140|Kolor:select:2|Zielony:2|3
+140|Wielkoœæ:select:0|Bardzo du¿y:0|1
+141|Kolor:select:0|Czerwony:0|1
+141|Kolor:select:1|B³êkitny:1|2
+141|Kolor:select:2|Zielony:2|3
+141|Wielkoœæ:select:0|Bardzo ma³y:0|1
+142|Kolor:select:0|Zielony:0|1
+142|Kolor:select:1|Czerwony:1|2
+142|Kolor:select:2|Lazurowy:2|3
+142|Wielkoœæ:select:0|Bardzo du¿y:0|1
+143|Kolor:select:0|Burgundowy:0|1
+143|Wielkoœæ:select:0|Bardzo ma³y:0|1
+143|Wielkoœæ:select:1|Œredni:1|2
+144|Kolor:select:0|Czerwony:0|1
+144|Kolor:select:1|Lazurowy:1|2
+144|Wielkoœæ:select:0|Œredni:0|1
+145|Kolor:select:0|Niebieski:0|1
+145|Kolor:select:1|Lazurowy:1|2
+145|Kolor:select:2|Czerwony:2|3
+145|Wielkoœæ:select:0|Bardzo du¿y:0|1
+146|Kolor:select:0|Zielony:0|1
+146|Wielkoœæ:select:0|Œredni:0|1
+147|Kolor:select:0|Burgundowy:0|1
+147|Kolor:select:1|B³êkitny:1|2
+147|Wielkoœæ:select:0|Œredni:0|1
+148|Kolor:select:0|Zielony:0|1
+148|Kolor:select:1|Burgundowy:1|2
+148|Kolor:select:2|Lazurowy:2|3
+148|Wielkoœæ:select:0|Ma³y:0|1
+148|Wielkoœæ:select:1|Bardzo ma³y:1|2
+149|Kolor:select:0|Burgundowy:0|1
+149|Kolor:select:1|Niebieski:1|2
+149|Kolor:select:2|Lazurowy:2|3
+149|Wielkoœæ:select:0|Ma³y:0|1
+150|Kolor:select:0|B³êkitny:0|1
+150|Wielkoœæ:select:0|Du¿y:0|1
+150|Wielkoœæ:select:1|Œredni:1|2
+151|Kolor:select:0|B³êkitny:0|1
+151|Kolor:select:1|Burgundowy:1|2
+151|Kolor:select:2|Czerwony:2|3
+151|Wielkoœæ:select:0|Bardzo ma³y:0|1
+152|Kolor:select:0|Zielony:0|1
+152|Kolor:select:1|B³êkitny:1|2
+152|Kolor:select:2|Niebieski:2|3
+152|Wielkoœæ:select:0|Bardzo ma³y:0|1
+152|Wielkoœæ:select:1|Œredni:1|2
+153|Kolor:select:0|B³êkitny:0|1
+153|Kolor:select:1|Burgundowy:1|2
+153|Wielkoœæ:select:0|Œredni:0|1
+154|Kolor:select:0|Niebieski:0|1
+154|Kolor:select:1|Pomarañczowy:1|2
+154|Wielkoœæ:select:0|Du¿y:0|1
+155|Kolor:select:0|Burgundowy:0|1
+155|Wielkoœæ:select:0|Bardzo du¿y:0|1
+155|Wielkoœæ:select:1|Du¿y:1|2
+156|Kolor:select:0|Niebieski:0|1
+156|Wielkoœæ:select:0|Bardzo du¿y:0|1
+157|Kolor:select:0|B³êkitny:0|1
+157|Kolor:select:1|Zielony:1|2
+157|Kolor:select:2|Niebieski:2|3
+157|Wielkoœæ:select:0|Du¿y:0|1
+157|Wielkoœæ:select:1|Bardzo du¿y:1|2
+158|Kolor:select:0|Niebieski:0|1
+158|Wielkoœæ:select:0|Ma³y:0|1
+159|Kolor:select:0|B³êkitny:0|1
+159|Kolor:select:1|Zielony:1|2
+159|Wielkoœæ:select:0|Bardzo ma³y:0|1
+160|Kolor:select:0|Czerwony:0|1
+160|Kolor:select:1|Lazurowy:1|2
+160|Kolor:select:2|Zielony:2|3
+160|Wielkoœæ:select:0|Ma³y:0|1
+160|Wielkoœæ:select:1|Bardzo du¿y:1|2
+161|Kolor:select:0|Zielony:0|1
+161|Kolor:select:1|Burgundowy:1|2
+161|Kolor:select:2|Czerwony:2|3
+161|Wielkoœæ:select:0|Œredni:0|1
+161|Wielkoœæ:select:1|Ma³y:1|2
+162|Kolor:select:0|Zielony:0|1
+162|Kolor:select:1|Niebieski:1|2
+162|Wielkoœæ:select:0|Ma³y:0|1
+163|Kolor:select:0|Lazurowy:0|1
+163|Kolor:select:1|Pomarañczowy:1|2
+163|Wielkoœæ:select:0|Œredni:0|1
+164|Kolor:select:0|B³êkitny:0|1
+164|Kolor:select:1|Burgundowy:1|2
+164|Wielkoœæ:select:0|Ma³y:0|1
+165|Kolor:select:0|Pomarañczowy:0|1
+165|Wielkoœæ:select:0|Du¿y:0|1
+166|Kolor:select:0|Lazurowy:0|1
+166|Kolor:select:1|Pomarañczowy:1|2
+166|Wielkoœæ:select:0|Bardzo ma³y:0|1
+166|Wielkoœæ:select:1|Ma³y:1|2
+167|Kolor:select:0|Pomarañczowy:0|1
+167|Kolor:select:1|Czerwony:1|2
+167|Kolor:select:2|Niebieski:2|3
+167|Wielkoœæ:select:0|Ma³y:0|1
+168|Kolor:select:0|Pomarañczowy:0|1
+168|Wielkoœæ:select:0|Bardzo ma³y:0|1
+169|Kolor:select:0|B³êkitny:0|1
+169|Wielkoœæ:select:0|Du¿y:0|1
+170|Kolor:select:0|Zielony:0|1
+170|Wielkoœæ:select:0|Ma³y:0|1
+171|Kolor:select:0|Pomarañczowy:0|1
+171|Kolor:select:1|Zielony:1|2
+171|Wielkoœæ:select:0|Du¿y:0|1
+171|Wielkoœæ:select:1|Œredni:1|2
+172|Kolor:select:0|Pomarañczowy:0|1
+172|Kolor:select:1|Niebieski:1|2
+172|Kolor:select:2|Czerwony:2|3
+172|Wielkoœæ:select:0|Ma³y:0|1
+172|Wielkoœæ:select:1|Bardzo du¿y:1|2
+173|Kolor:select:0|Czerwony:0|1
+173|Kolor:select:1|Burgundowy:1|2
+173|Kolor:select:2|B³êkitny:2|3
+173|Wielkoœæ:select:0|Œredni:0|1
+173|Wielkoœæ:select:1|Du¿y:1|2
+174|Kolor:select:0|B³êkitny:0|1
+174|Kolor:select:1|Zielony:1|2
+174|Kolor:select:2|Pomarañczowy:2|3
+174|Wielkoœæ:select:0|Bardzo du¿y:0|1
+174|Wielkoœæ:select:1|Ma³y:1|2
+175|Kolor:select:0|Zielony:0|1
+175|Wielkoœæ:select:0|Bardzo du¿y:0|1
+175|Wielkoœæ:select:1|Bardzo ma³y:1|2
+176|Kolor:select:0|Zielony:0|1
+176|Wielkoœæ:select:0|Œredni:0|1
+177|Kolor:select:0|Burgundowy:0|1
+177|Kolor:select:1|Czerwony:1|2
+177|Kolor:select:2|Niebieski:2|3
+177|Wielkoœæ:select:0|Du¿y:0|1
+178|Kolor:select:0|Niebieski:0|1
+178|Wielkoœæ:select:0|Ma³y:0|1
+178|Wielkoœæ:select:1|Bardzo ma³y:1|2
+179|Kolor:select:0|Pomarañczowy:0|1
+179|Kolor:select:1|Niebieski:1|2
+179|Kolor:select:2|Burgundowy:2|3
+179|Wielkoœæ:select:0|Bardzo ma³y:0|1
+179|Wielkoœæ:select:1|Bardzo du¿y:1|2
+180|Kolor:select:0|Czerwony:0|1
+180|Wielkoœæ:select:0|Ma³y:0|1
+180|Wielkoœæ:select:1|Œredni:1|2
+181|Kolor:select:0|Burgundowy:0|1
+181|Wielkoœæ:select:0|Œredni:0|1
+181|Wielkoœæ:select:1|Ma³y:1|2
+182|Kolor:select:0|Zielony:0|1
+182|Wielkoœæ:select:0|Bardzo du¿y:0|1
+182|Wielkoœæ:select:1|Ma³y:1|2
+183|Kolor:select:0|Zielony:0|1
+183|Kolor:select:1|B³êkitny:1|2
+183|Wielkoœæ:select:0|Bardzo du¿y:0|1
+183|Wielkoœæ:select:1|Œredni:1|2
+184|Kolor:select:0|B³êkitny:0|1
+184|Kolor:select:1|Czerwony:1|2
+184|Kolor:select:2|Burgundowy:2|3
+184|Wielkoœæ:select:0|Bardzo du¿y:0|1
+185|Kolor:select:0|B³êkitny:0|1
+185|Kolor:select:1|Zielony:1|2
+185|Wielkoœæ:select:0|Bardzo ma³y:0|1
+186|Kolor:select:0|Burgundowy:0|1
+186|Kolor:select:1|Lazurowy:1|2
+186|Kolor:select:2|B³êkitny:2|3
+186|Wielkoœæ:select:0|Ma³y:0|1
+187|Kolor:select:0|Zielony:0|1
+187|Wielkoœæ:select:0|Bardzo ma³y:0|1
+187|Wielkoœæ:select:1|Œredni:1|2
+188|Kolor:select:0|Zielony:0|1
+188|Wielkoœæ:select:0|Du¿y:0|1
+189|Kolor:select:0|Zielony:0|1
+189|Kolor:select:1|Pomarañczowy:1|2
+189|Wielkoœæ:select:0|Bardzo ma³y:0|1
+190|Kolor:select:0|Czerwony:0|1
+190|Kolor:select:1|Lazurowy:1|2
+190|Wielkoœæ:select:0|Du¿y:0|1
+190|Wielkoœæ:select:1|Bardzo du¿y:1|2
+191|Kolor:select:0|B³êkitny:0|1
+191|Wielkoœæ:select:0|Du¿y:0|1
+192|Kolor:select:0|Zielony:0|1
+192|Kolor:select:1|Czerwony:1|2
+192|Wielkoœæ:select:0|Œredni:0|1
+192|Wielkoœæ:select:1|Ma³y:1|2
+193|Kolor:select:0|Czerwony:0|1
+193|Kolor:select:1|Niebieski:1|2
+193|Kolor:select:2|Lazurowy:2|3
+193|Wielkoœæ:select:0|Du¿y:0|1
+194|Kolor:select:0|Lazurowy:0|1
+194|Kolor:select:1|Niebieski:1|2
+194|Wielkoœæ:select:0|Du¿y:0|1
+195|Kolor:select:0|Zielony:0|1
+195|Kolor:select:1|Burgundowy:1|2
+195|Kolor:select:2|Lazurowy:2|3
+195|Wielkoœæ:select:0|Œredni:0|1
+196|Kolor:select:0|Niebieski:0|1
+196|Kolor:select:1|B³êkitny:1|2
+196|Wielkoœæ:select:0|Ma³y:0|1
+196|Wielkoœæ:select:1|Bardzo du¿y:1|2
+197|Kolor:select:0|B³êkitny:0|1
+197|Wielkoœæ:select:0|Du¿y:0|1
+197|Wielkoœæ:select:1|Bardzo du¿y:1|2
+198|Kolor:select:0|Burgundowy:0|1
+198|Wielkoœæ:select:0|Bardzo du¿y:0|1
+198|Wielkoœæ:select:1|Bardzo ma³y:1|2
+199|Kolor:select:0|Lazurowy:0|1
+199|Kolor:select:1|Zielony:1|2
+199|Kolor:select:2|Burgundowy:2|3
+199|Wielkoœæ:select:0|Ma³y:0|1
+199|Wielkoœæ:select:1|Œredni:1|2
+200|Kolor:select:0|Lazurowy:0|1
+200|Kolor:select:1|Pomarañczowy:1|2
+200|Wielkoœæ:select:0|Ma³y:0|1
+200|Wielkoœæ:select:1|Œredni:1|2
+201|Kolor:select:0|Zielony:0|1
+201|Kolor:select:1|Niebieski:1|2
+201|Wielkoœæ:select:0|Ma³y:0|1
+201|Wielkoœæ:select:1|Bardzo du¿y:1|2
+202|Kolor:select:0|Burgundowy:0|1
+202|Kolor:select:1|Lazurowy:1|2
+202|Kolor:select:2|Niebieski:2|3
+202|Wielkoœæ:select:0|Ma³y:0|1
+203|Kolor:select:0|Czerwony:0|1
+203|Wielkoœæ:select:0|Bardzo ma³y:0|1
+203|Wielkoœæ:select:1|Du¿y:1|2
+204|Kolor:select:0|Pomarañczowy:0|1
+204|Kolor:select:1|Lazurowy:1|2
+204|Kolor:select:2|Zielony:2|3
+204|Wielkoœæ:select:0|Bardzo ma³y:0|1
+205|Kolor:select:0|Czerwony:0|1
+205|Wielkoœæ:select:0|Ma³y:0|1
+206|Kolor:select:0|Czerwony:0|1
+206|Kolor:select:1|Lazurowy:1|2
+206|Wielkoœæ:select:0|Œredni:0|1
+206|Wielkoœæ:select:1|Bardzo du¿y:1|2
+207|Kolor:select:0|B³êkitny:0|1
+207|Kolor:select:1|Niebieski:1|2
+207|Kolor:select:2|Lazurowy:2|3
+207|Wielkoœæ:select:0|Du¿y:0|1
+207|Wielkoœæ:select:1|Œredni:1|2
+208|Kolor:select:0|Niebieski:0|1
+208|Wielkoœæ:select:0|Du¿y:0|1
+209|Kolor:select:0|Zielony:0|1
+209|Wielkoœæ:select:0|Œredni:0|1
+210|Kolor:select:0|Pomarañczowy:0|1
+210|Wielkoœæ:select:0|Ma³y:0|1
+211|Kolor:select:0|Pomarañczowy:0|1
+211|Kolor:select:1|Niebieski:1|2
+211|Wielkoœæ:select:0|Bardzo ma³y:0|1
+211|Wielkoœæ:select:1|Du¿y:1|2
+212|Kolor:select:0|Czerwony:0|1
+212|Kolor:select:1|Zielony:1|2
+212|Kolor:select:2|Burgundowy:2|3
+212|Wielkoœæ:select:0|Œredni:0|1
+212|Wielkoœæ:select:1|Bardzo du¿y:1|2
+213|Kolor:select:0|Pomarañczowy:0|1
+213|Kolor:select:1|Burgundowy:1|2
+213|Kolor:select:2|Zielony:2|3
+213|Wielkoœæ:select:0|Bardzo du¿y:0|1
+214|Kolor:select:0|Pomarañczowy:0|1
+214|Wielkoœæ:select:0|Du¿y:0|1
+214|Wielkoœæ:select:1|Œredni:1|2
+215|Kolor:select:0|Burgundowy:0|1
+215|Wielkoœæ:select:0|Ma³y:0|1
+215|Wielkoœæ:select:1|Bardzo du¿y:1|2
+216|Kolor:select:0|B³êkitny:0|1
+216|Wielkoœæ:select:0|Bardzo du¿y:0|1
+216|Wielkoœæ:select:1|Œredni:1|2
+217|Kolor:select:0|Lazurowy:0|1
+217|Kolor:select:1|Czerwony:1|2
+217|Kolor:select:2|B³êkitny:2|3
+217|Wielkoœæ:select:0|Du¿y:0|1
+218|Kolor:select:0|B³êkitny:0|1
+218|Wielkoœæ:select:0|Du¿y:0|1
+219|Kolor:select:0|Czerwony:0|1
+219|Kolor:select:1|Zielony:1|2
+219|Wielkoœæ:select:0|Bardzo du¿y:0|1
+220|Kolor:select:0|Burgundowy:0|1
+220|Kolor:select:1|Lazurowy:1|2
+220|Wielkoœæ:select:0|Du¿y:0|1
+221|Kolor:select:0|Niebieski:0|1
+221|Kolor:select:1|Pomarañczowy:1|2
+221|Wielkoœæ:select:0|Bardzo ma³y:0|1
+222|Kolor:select:0|Pomarañczowy:0|1
+222|Kolor:select:1|Niebieski:1|2
+222|Kolor:select:2|Zielony:2|3
+222|Wielkoœæ:select:0|Ma³y:0|1
+223|Kolor:select:0|Zielony:0|1
+223|Wielkoœæ:select:0|Ma³y:0|1
+224|Kolor:select:0|Zielony:0|1
+224|Kolor:select:1|Niebieski:1|2
+224|Wielkoœæ:select:0|Œredni:0|1
+225|Kolor:select:0|Niebieski:0|1
+225|Kolor:select:1|Burgundowy:1|2
+225|Kolor:select:2|B³êkitny:2|3
+225|Wielkoœæ:select:0|Du¿y:0|1
+226|Kolor:select:0|Burgundowy:0|1
+226|Kolor:select:1|Czerwony:1|2
+226|Wielkoœæ:select:0|Bardzo du¿y:0|1
+227|Kolor:select:0|Niebieski:0|1
+227|Wielkoœæ:select:0|Bardzo du¿y:0|1
+228|Kolor:select:0|Pomarañczowy:0|1
+228|Wielkoœæ:select:0|Du¿y:0|1
+228|Wielkoœæ:select:1|Bardzo du¿y:1|2
+229|Kolor:select:0|B³êkitny:0|1
+229|Kolor:select:1|Lazurowy:1|2
+229|Wielkoœæ:select:0|Ma³y:0|1
+230|Kolor:select:0|Pomarañczowy:0|1
+230|Wielkoœæ:select:0|Bardzo ma³y:0|1
+230|Wielkoœæ:select:1|Œredni:1|2
+231|Kolor:select:0|B³êkitny:0|1
+231|Kolor:select:1|Zielony:1|2
+231|Wielkoœæ:select:0|Œredni:0|1
+231|Wielkoœæ:select:1|Bardzo du¿y:1|2
+232|Kolor:select:0|Zielony:0|1
+232|Kolor:select:1|Niebieski:1|2
+232|Kolor:select:2|Burgundowy:2|3
+232|Wielkoœæ:select:0|Bardzo du¿y:0|1
+232|Wielkoœæ:select:1|Bardzo ma³y:1|2
+233|Kolor:select:0|Zielony:0|1
+233|Kolor:select:1|Niebieski:1|2
+233|Kolor:select:2|Czerwony:2|3
+233|Wielkoœæ:select:0|Ma³y:0|1
+234|Kolor:select:0|Zielony:0|1
+234|Kolor:select:1|Pomarañczowy:1|2
+234|Kolor:select:2|Czerwony:2|3
+234|Wielkoœæ:select:0|Œredni:0|1
+235|Kolor:select:0|Pomarañczowy:0|1
+235|Wielkoœæ:select:0|Œredni:0|1
+235|Wielkoœæ:select:1|Ma³y:1|2
+236|Kolor:select:0|Lazurowy:0|1
+236|Kolor:select:1|Niebieski:1|2
+236|Kolor:select:2|Pomarañczowy:2|3
+236|Wielkoœæ:select:0|Du¿y:0|1
+237|Kolor:select:0|Pomarañczowy:0|1
+237|Kolor:select:1|Zielony:1|2
+237|Wielkoœæ:select:0|Du¿y:0|1
+238|Kolor:select:0|Czerwony:0|1
+238|Kolor:select:1|Burgundowy:1|2
+238|Kolor:select:2|Pomarañczowy:2|3
+238|Wielkoœæ:select:0|Bardzo du¿y:0|1
+239|Kolor:select:0|Burgundowy:0|1
+239|Kolor:select:1|B³êkitny:1|2
+239|Wielkoœæ:select:0|Bardzo du¿y:0|1
+239|Wielkoœæ:select:1|Ma³y:1|2
+240|Kolor:select:0|Pomarañczowy:0|1
+240|Wielkoœæ:select:0|Œredni:0|1
+241|Kolor:select:0|B³êkitny:0|1
+241|Kolor:select:1|Burgundowy:1|2
+241|Wielkoœæ:select:0|Du¿y:0|1
+241|Wielkoœæ:select:1|Bardzo ma³y:1|2
+242|Kolor:select:0|Lazurowy:0|1
+242|Wielkoœæ:select:0|Œredni:0|1
+243|Kolor:select:0|Czerwony:0|1
+243|Wielkoœæ:select:0|Œredni:0|1
+244|Kolor:select:0|Lazurowy:0|1
+244|Kolor:select:1|Czerwony:1|2
+244|Kolor:select:2|Zielony:2|3
+244|Wielkoœæ:select:0|Bardzo du¿y:0|1
+244|Wielkoœæ:select:1|Du¿y:1|2
+245|Kolor:select:0|Burgundowy:0|1
+245|Kolor:select:1|Czerwony:1|2
+245|Wielkoœæ:select:0|Bardzo du¿y:0|1
+246|Kolor:select:0|Pomarañczowy:0|1
+246|Wielkoœæ:select:0|Ma³y:0|1
+246|Wielkoœæ:select:1|Bardzo du¿y:1|2
+247|Kolor:select:0|Burgundowy:0|1
+247|Kolor:select:1|B³êkitny:1|2
+247|Wielkoœæ:select:0|Ma³y:0|1
+247|Wielkoœæ:select:1|Œredni:1|2
+248|Kolor:select:0|Niebieski:0|1
+248|Kolor:select:1|Lazurowy:1|2
+248|Kolor:select:2|B³êkitny:2|3
+248|Wielkoœæ:select:0|Ma³y:0|1
+248|Wielkoœæ:select:1|Œredni:1|2
+249|Kolor:select:0|Pomarañczowy:0|1
+249|Kolor:select:1|Zielony:1|2
+249|Kolor:select:2|Czerwony:2|3
+249|Wielkoœæ:select:0|Ma³y:0|1
+249|Wielkoœæ:select:1|Du¿y:1|2
+250|Kolor:select:0|Pomarañczowy:0|1
+250|Wielkoœæ:select:0|Bardzo du¿y:0|1
+250|Wielkoœæ:select:1|Ma³y:1|2
+251|Kolor:select:0|B³êkitny:0|1
+251|Kolor:select:1|Lazurowy:1|2
+251|Kolor:select:2|Niebieski:2|3
+251|Wielkoœæ:select:0|Ma³y:0|1
+252|Kolor:select:0|B³êkitny:0|1
+252|Kolor:select:1|Niebieski:1|2
+252|Kolor:select:2|Zielony:2|3
+252|Wielkoœæ:select:0|Du¿y:0|1
+253|Kolor:select:0|B³êkitny:0|1
+253|Kolor:select:1|Lazurowy:1|2
+253|Wielkoœæ:select:0|Œredni:0|1
+254|Kolor:select:0|Niebieski:0|1
+254|Kolor:select:1|Czerwony:1|2
+254|Wielkoœæ:select:0|Du¿y:0|1
+254|Wielkoœæ:select:1|Ma³y:1|2
+255|Kolor:select:0|B³êkitny:0|1
+255|Kolor:select:1|Pomarañczowy:1|2
+255|Kolor:select:2|Zielony:2|3
+255|Wielkoœæ:select:0|Bardzo ma³y:0|1
+256|Kolor:select:0|Czerwony:0|1
+256|Kolor:select:1|Pomarañczowy:1|2
+256|Wielkoœæ:select:0|Ma³y:0|1
+257|Kolor:select:0|Pomarañczowy:0|1
+257|Wielkoœæ:select:0|Œredni:0|1
+258|Kolor:select:0|Pomarañczowy:0|1
+258|Wielkoœæ:select:0|Du¿y:0|1
+258|Wielkoœæ:select:1|Œredni:1|2
+259|Kolor:select:0|Czerwony:0|1
+259|Kolor:select:1|Burgundowy:1|2
+259|Wielkoœæ:select:0|Œredni:0|1
+259|Wielkoœæ:select:1|Bardzo ma³y:1|2
+260|Kolor:select:0|Zielony:0|1
+260|Kolor:select:1|Pomarañczowy:1|2
+260|Wielkoœæ:select:0|Du¿y:0|1
+260|Wielkoœæ:select:1|Ma³y:1|2
+261|Kolor:select:0|Lazurowy:0|1
+261|Wielkoœæ:select:0|Œredni:0|1
+262|Kolor:select:0|Zielony:0|1
+262|Kolor:select:1|Niebieski:1|2
+262|Kolor:select:2|Czerwony:2|3
+262|Wielkoœæ:select:0|Ma³y:0|1
+262|Wielkoœæ:select:1|Bardzo ma³y:1|2
+263|Kolor:select:0|Niebieski:0|1
+263|Kolor:select:1|Pomarañczowy:1|2
+263|Kolor:select:2|Lazurowy:2|3
+263|Wielkoœæ:select:0|Bardzo du¿y:0|1
+263|Wielkoœæ:select:1|Bardzo ma³y:1|2
+264|Kolor:select:0|B³êkitny:0|1
+264|Kolor:select:1|Zielony:1|2
+264|Kolor:select:2|Lazurowy:2|3
+264|Wielkoœæ:select:0|Bardzo du¿y:0|1
+264|Wielkoœæ:select:1|Du¿y:1|2
+265|Kolor:select:0|Lazurowy:0|1
+265|Wielkoœæ:select:0|Du¿y:0|1
+266|Kolor:select:0|Pomarañczowy:0|1
+266|Wielkoœæ:select:0|Bardzo du¿y:0|1
+266|Wielkoœæ:select:1|Bardzo ma³y:1|2
+267|Kolor:select:0|Burgundowy:0|1
+267|Kolor:select:1|Lazurowy:1|2
+267|Wielkoœæ:select:0|Du¿y:0|1
+267|Wielkoœæ:select:1|Ma³y:1|2
+268|Kolor:select:0|B³êkitny:0|1
+268|Wielkoœæ:select:0|Œredni:0|1
+268|Wielkoœæ:select:1|Du¿y:1|2
+269|Kolor:select:0|Zielony:0|1
+269|Kolor:select:1|Lazurowy:1|2
+269|Kolor:select:2|Pomarañczowy:2|3
+269|Wielkoœæ:select:0|Bardzo du¿y:0|1
+270|Kolor:select:0|Zielony:0|1
+270|Wielkoœæ:select:0|Du¿y:0|1
+270|Wielkoœæ:select:1|Œredni:1|2
+271|Kolor:select:0|Lazurowy:0|1
+271|Kolor:select:1|Pomarañczowy:1|2
+271|Wielkoœæ:select:0|Œredni:0|1
+272|Kolor:select:0|Zielony:0|1
+272|Wielkoœæ:select:0|Ma³y:0|1
+272|Wielkoœæ:select:1|Bardzo du¿y:1|2
+273|Kolor:select:0|Lazurowy:0|1
+273|Kolor:select:1|Czerwony:1|2
+273|Kolor:select:2|Burgundowy:2|3
+273|Wielkoœæ:select:0|Ma³y:0|1
+274|Kolor:select:0|B³êkitny:0|1
+274|Wielkoœæ:select:0|Bardzo du¿y:0|1
+275|Kolor:select:0|B³êkitny:0|1
+275|Kolor:select:1|Niebieski:1|2
+275|Wielkoœæ:select:0|Œredni:0|1
+276|Kolor:select:0|Czerwony:0|1
+276|Kolor:select:1|Pomarañczowy:1|2
+276|Kolor:select:2|Lazurowy:2|3
+276|Wielkoœæ:select:0|Bardzo ma³y:0|1
+276|Wielkoœæ:select:1|Bardzo du¿y:1|2
+277|Kolor:select:0|Pomarañczowy:0|1
+277|Kolor:select:1|Lazurowy:1|2
+277|Kolor:select:2|Czerwony:2|3
+277|Wielkoœæ:select:0|Ma³y:0|1
+278|Kolor:select:0|Zielony:0|1
+278|Wielkoœæ:select:0|Bardzo ma³y:0|1
+279|Kolor:select:0|Czerwony:0|1
+279|Kolor:select:1|Niebieski:1|2
+279|Wielkoœæ:select:0|Bardzo du¿y:0|1
+279|Wielkoœæ:select:1|Œredni:1|2
+280|Kolor:select:0|Burgundowy:0|1
+280|Kolor:select:1|Niebieski:1|2
+280|Wielkoœæ:select:0|Du¿y:0|1
+281|Kolor:select:0|B³êkitny:0|1
+281|Kolor:select:1|Burgundowy:1|2
+281|Wielkoœæ:select:0|Bardzo du¿y:0|1
+281|Wielkoœæ:select:1|Bardzo ma³y:1|2
+282|Kolor:select:0|Lazurowy:0|1
+282|Kolor:select:1|B³êkitny:1|2
+282|Wielkoœæ:select:0|Bardzo du¿y:0|1
+282|Wielkoœæ:select:1|Ma³y:1|2
+283|Kolor:select:0|Czerwony:0|1
+283|Kolor:select:1|Pomarañczowy:1|2
+283|Kolor:select:2|Zielony:2|3
+283|Wielkoœæ:select:0|Bardzo du¿y:0|1
+284|Kolor:select:0|Czerwony:0|1
+284|Kolor:select:1|Pomarañczowy:1|2
+284|Kolor:select:2|Lazurowy:2|3
+284|Wielkoœæ:select:0|Du¿y:0|1
+284|Wielkoœæ:select:1|Œredni:1|2
+285|Kolor:select:0|Niebieski:0|1
+285|Kolor:select:1|B³êkitny:1|2
+285|Kolor:select:2|Lazurowy:2|3
+285|Wielkoœæ:select:0|Ma³y:0|1
+286|Kolor:select:0|Niebieski:0|1
+286|Kolor:select:1|B³êkitny:1|2
+286|Wielkoœæ:select:0|Du¿y:0|1
+287|Kolor:select:0|Czerwony:0|1
+287|Kolor:select:1|Zielony:1|2
+287|Kolor:select:2|Lazurowy:2|3
+287|Wielkoœæ:select:0|Ma³y:0|1
+287|Wielkoœæ:select:1|Du¿y:1|2
+288|Kolor:select:0|B³êkitny:0|1
+288|Wielkoœæ:select:0|Œredni:0|1
+289|Kolor:select:0|Czerwony:0|1
+289|Kolor:select:1|Zielony:1|2
+289|Wielkoœæ:select:0|Bardzo du¿y:0|1
+289|Wielkoœæ:select:1|Du¿y:1|2
+290|Kolor:select:0|Burgundowy:0|1
+290|Kolor:select:1|Pomarañczowy:1|2
+290|Kolor:select:2|Lazurowy:2|3
+290|Wielkoœæ:select:0|Œredni:0|1
+290|Wielkoœæ:select:1|Bardzo du¿y:1|2
+291|Kolor:select:0|Zielony:0|1
+291|Wielkoœæ:select:0|Du¿y:0|1
+291|Wielkoœæ:select:1|Ma³y:1|2
+292|Kolor:select:0|Lazurowy:0|1
+292|Wielkoœæ:select:0|Œredni:0|1
+292|Wielkoœæ:select:1|Bardzo ma³y:1|2
+293|Kolor:select:0|Burgundowy:0|1
+293|Kolor:select:1|B³êkitny:1|2
+293|Kolor:select:2|Niebieski:2|3
+293|Wielkoœæ:select:0|Œredni:0|1
+293|Wielkoœæ:select:1|Du¿y:1|2
+294|Kolor:select:0|B³êkitny:0|1
+294|Kolor:select:1|Burgundowy:1|2
+294|Wielkoœæ:select:0|Ma³y:0|1
+294|Wielkoœæ:select:1|Bardzo du¿y:1|2
+295|Kolor:select:0|B³êkitny:0|1
+295|Wielkoœæ:select:0|Œredni:0|1
+295|Wielkoœæ:select:1|Bardzo ma³y:1|2
+296|Kolor:select:0|Niebieski:0|1
+296|Kolor:select:1|Czerwony:1|2
+296|Wielkoœæ:select:0|Œredni:0|1
+297|Kolor:select:0|Lazurowy:0|1
+297|Kolor:select:1|Niebieski:1|2
+297|Wielkoœæ:select:0|Bardzo ma³y:0|1
+297|Wielkoœæ:select:1|Œredni:1|2
+298|Kolor:select:0|B³êkitny:0|1
+298|Kolor:select:1|Lazurowy:1|2
+298|Wielkoœæ:select:0|Ma³y:0|1
+299|Kolor:select:0|Niebieski:0|1
+299|Wielkoœæ:select:0|Œredni:0|1
+300|Kolor:select:0|B³êkitny:0|1
+300|Wielkoœæ:select:0|Bardzo ma³y:0|1
+301|Kolor:select:0|Czerwony:0|1
+301|Kolor:select:1|Pomarañczowy:1|2
+301|Wielkoœæ:select:0|Bardzo ma³y:0|1
+302|Kolor:select:0|Pomarañczowy:0|1
+302|Kolor:select:1|Niebieski:1|2
+302|Wielkoœæ:select:0|Du¿y:0|1
+303|Kolor:select:0|Niebieski:0|1
+303|Wielkoœæ:select:0|Bardzo ma³y:0|1
+303|Wielkoœæ:select:1|Bardzo du¿y:1|2
+304|Kolor:select:0|Zielony:0|1
+304|Kolor:select:1|B³êkitny:1|2
+304|Kolor:select:2|Lazurowy:2|3
+304|Wielkoœæ:select:0|Bardzo ma³y:0|1
+304|Wielkoœæ:select:1|Bardzo du¿y:1|2
+305|Kolor:select:0|Czerwony:0|1
+305|Wielkoœæ:select:0|Ma³y:0|1
+305|Wielkoœæ:select:1|Bardzo ma³y:1|2
+306|Kolor:select:0|B³êkitny:0|1
+306|Kolor:select:1|Lazurowy:1|2
+306|Kolor:select:2|Burgundowy:2|3
+306|Wielkoœæ:select:0|Ma³y:0|1
+307|Kolor:select:0|Burgundowy:0|1
+307|Kolor:select:1|Czerwony:1|2
+307|Kolor:select:2|Pomarañczowy:2|3
+307|Wielkoœæ:select:0|Du¿y:0|1
+308|Kolor:select:0|Lazurowy:0|1
+308|Wielkoœæ:select:0|Du¿y:0|1
+309|Kolor:select:0|Burgundowy:0|1
+309|Wielkoœæ:select:0|Bardzo du¿y:0|1
+310|Kolor:select:0|Niebieski:0|1
+310|Wielkoœæ:select:0|Œredni:0|1
+310|Wielkoœæ:select:1|Du¿y:1|2
+311|Kolor:select:0|Czerwony:0|1
+311|Wielkoœæ:select:0|Bardzo du¿y:0|1
+311|Wielkoœæ:select:1|Œredni:1|2
+312|Kolor:select:0|Lazurowy:0|1
+312|Wielkoœæ:select:0|Bardzo ma³y:0|1
+312|Wielkoœæ:select:1|Du¿y:1|2
+313|Kolor:select:0|Zielony:0|1
+313|Kolor:select:1|Niebieski:1|2
+313|Kolor:select:2|Pomarañczowy:2|3
+313|Wielkoœæ:select:0|Du¿y:0|1
+313|Wielkoœæ:select:1|Ma³y:1|2
+314|Kolor:select:0|Pomarañczowy:0|1
+314|Kolor:select:1|Lazurowy:1|2
+314|Kolor:select:2|Czerwony:2|3
+314|Wielkoœæ:select:0|Du¿y:0|1
+314|Wielkoœæ:select:1|Bardzo du¿y:1|2
+315|Kolor:select:0|Pomarañczowy:0|1
+315|Kolor:select:1|Czerwony:1|2
+315|Wielkoœæ:select:0|Œredni:0|1
+315|Wielkoœæ:select:1|Bardzo du¿y:1|2
+316|Kolor:select:0|B³êkitny:0|1
+316|Kolor:select:1|Czerwony:1|2
+316|Kolor:select:2|Lazurowy:2|3
+316|Wielkoœæ:select:0|Œredni:0|1
+316|Wielkoœæ:select:1|Bardzo du¿y:1|2
+317|Kolor:select:0|Niebieski:0|1
+317|Wielkoœæ:select:0|Bardzo du¿y:0|1
+317|Wielkoœæ:select:1|Du¿y:1|2
+318|Kolor:select:0|Pomarañczowy:0|1
+318|Kolor:select:1|B³êkitny:1|2
+318|Kolor:select:2|Burgundowy:2|3
+318|Wielkoœæ:select:0|Œredni:0|1
+318|Wielkoœæ:select:1|Ma³y:1|2
+319|Kolor:select:0|Lazurowy:0|1
+319|Kolor:select:1|Pomarañczowy:1|2
+319|Wielkoœæ:select:0|Du¿y:0|1
+319|Wielkoœæ:select:1|Bardzo du¿y:1|2
+320|Kolor:select:0|Niebieski:0|1
+320|Kolor:select:1|Burgundowy:1|2
+320|Wielkoœæ:select:0|Ma³y:0|1
+320|Wielkoœæ:select:1|Du¿y:1|2
+321|Kolor:select:0|Zielony:0|1
+321|Kolor:select:1|Lazurowy:1|2
+321|Wielkoœæ:select:0|Bardzo ma³y:0|1
+321|Wielkoœæ:select:1|Du¿y:1|2
+322|Kolor:select:0|B³êkitny:0|1
+322|Kolor:select:1|Niebieski:1|2
+322|Wielkoœæ:select:0|Ma³y:0|1
+322|Wielkoœæ:select:1|Œredni:1|2
+323|Kolor:select:0|Niebieski:0|1
+323|Wielkoœæ:select:0|Du¿y:0|1
+324|Kolor:select:0|Lazurowy:0|1
+324|Kolor:select:1|Czerwony:1|2
+324|Kolor:select:2|B³êkitny:2|3
+324|Wielkoœæ:select:0|Ma³y:0|1
+325|Kolor:select:0|B³êkitny:0|1
+325|Kolor:select:1|Burgundowy:1|2
+325|Wielkoœæ:select:0|Du¿y:0|1
+326|Kolor:select:0|Czerwony:0|1
+326|Wielkoœæ:select:0|Œredni:0|1
+326|Wielkoœæ:select:1|Bardzo ma³y:1|2
+327|Kolor:select:0|Niebieski:0|1
+327|Kolor:select:1|B³êkitny:1|2
+327|Wielkoœæ:select:0|Bardzo du¿y:0|1
+328|Kolor:select:0|Burgundowy:0|1
+328|Kolor:select:1|Niebieski:1|2
+328|Wielkoœæ:select:0|Bardzo ma³y:0|1
+328|Wielkoœæ:select:1|Ma³y:1|2
+329|Kolor:select:0|Zielony:0|1
+329|Wielkoœæ:select:0|Ma³y:0|1
+329|Wielkoœæ:select:1|Du¿y:1|2
+330|Kolor:select:0|Czerwony:0|1
+330|Kolor:select:1|Pomarañczowy:1|2
+330|Wielkoœæ:select:0|Œredni:0|1
+330|Wielkoœæ:select:1|Bardzo du¿y:1|2
+331|Kolor:select:0|B³êkitny:0|1
+331|Kolor:select:1|Burgundowy:1|2
+331|Wielkoœæ:select:0|Ma³y:0|1
+332|Kolor:select:0|Lazurowy:0|1
+332|Kolor:select:1|B³êkitny:1|2
+332|Kolor:select:2|Czerwony:2|3
+332|Wielkoœæ:select:0|Œredni:0|1
+332|Wielkoœæ:select:1|Ma³y:1|2
+333|Kolor:select:0|B³êkitny:0|1
+333|Kolor:select:1|Niebieski:1|2
+333|Wielkoœæ:select:0|Du¿y:0|1
+333|Wielkoœæ:select:1|Bardzo ma³y:1|2
+334|Kolor:select:0|Pomarañczowy:0|1
+334|Wielkoœæ:select:0|Bardzo ma³y:0|1
+335|Kolor:select:0|Pomarañczowy:0|1
+335|Wielkoœæ:select:0|Du¿y:0|1
+335|Wielkoœæ:select:1|Bardzo ma³y:1|2
+336|Kolor:select:0|B³êkitny:0|1
+336|Wielkoœæ:select:0|Bardzo ma³y:0|1
+336|Wielkoœæ:select:1|Du¿y:1|2
+337|Kolor:select:0|Zielony:0|1
+337|Kolor:select:1|Lazurowy:1|2
+337|Wielkoœæ:select:0|Du¿y:0|1
+337|Wielkoœæ:select:1|Œredni:1|2
+338|Kolor:select:0|B³êkitny:0|1
+338|Kolor:select:1|Zielony:1|2
+338|Kolor:select:2|Niebieski:2|3
+338|Wielkoœæ:select:0|Bardzo du¿y:0|1
+339|Kolor:select:0|Burgundowy:0|1
+339|Wielkoœæ:select:0|Bardzo ma³y:0|1
+340|Kolor:select:0|Pomarañczowy:0|1
+340|Wielkoœæ:select:0|Bardzo ma³y:0|1
+341|Kolor:select:0|Zielony:0|1
+341|Wielkoœæ:select:0|Bardzo ma³y:0|1
+342|Kolor:select:0|Burgundowy:0|1
+342|Kolor:select:1|Pomarañczowy:1|2
+342|Wielkoœæ:select:0|Bardzo ma³y:0|1
+342|Wielkoœæ:select:1|Du¿y:1|2
+343|Kolor:select:0|Burgundowy:0|1
+343|Kolor:select:1|Pomarañczowy:1|2
+343|Kolor:select:2|Lazurowy:2|3
+343|Wielkoœæ:select:0|Œredni:0|1
+343|Wielkoœæ:select:1|Du¿y:1|2
+344|Kolor:select:0|Niebieski:0|1
+344|Kolor:select:1|Zielony:1|2
+344|Kolor:select:2|Pomarañczowy:2|3
+344|Wielkoœæ:select:0|Ma³y:0|1
+345|Kolor:select:0|Czerwony:0|1
+345|Wielkoœæ:select:0|Œredni:0|1
+345|Wielkoœæ:select:1|Ma³y:1|2
+346|Kolor:select:0|Pomarañczowy:0|1
+346|Kolor:select:1|Czerwony:1|2
+346|Wielkoœæ:select:0|Bardzo ma³y:0|1
+347|Kolor:select:0|B³êkitny:0|1
+347|Kolor:select:1|Lazurowy:1|2
+347|Kolor:select:2|Zielony:2|3
+347|Wielkoœæ:select:0|Œredni:0|1
+348|Kolor:select:0|Pomarañczowy:0|1
+348|Wielkoœæ:select:0|Du¿y:0|1
+348|Wielkoœæ:select:1|Bardzo ma³y:1|2
+349|Kolor:select:0|Zielony:0|1
+349|Kolor:select:1|Pomarañczowy:1|2
+349|Wielkoœæ:select:0|Œredni:0|1
+350|Kolor:select:0|B³êkitny:0|1
+350|Kolor:select:1|Niebieski:1|2
+350|Kolor:select:2|Czerwony:2|3
+350|Wielkoœæ:select:0|Bardzo ma³y:0|1
+351|Kolor:select:0|Niebieski:0|1
+351|Wielkoœæ:select:0|Ma³y:0|1
+351|Wielkoœæ:select:1|Bardzo ma³y:1|2
+352|Kolor:select:0|B³êkitny:0|1
+352|Kolor:select:1|Burgundowy:1|2
+352|Wielkoœæ:select:0|Ma³y:0|1
+352|Wielkoœæ:select:1|Bardzo ma³y:1|2
+353|Kolor:select:0|Zielony:0|1
+353|Wielkoœæ:select:0|Ma³y:0|1
+354|Kolor:select:0|Pomarañczowy:0|1
+354|Kolor:select:1|Lazurowy:1|2
+354|Kolor:select:2|B³êkitny:2|3
+354|Wielkoœæ:select:0|Ma³y:0|1
+355|Kolor:select:0|B³êkitny:0|1
+355|Kolor:select:1|Niebieski:1|2
+355|Wielkoœæ:select:0|Bardzo du¿y:0|1
+356|Kolor:select:0|Pomarañczowy:0|1
+356|Wielkoœæ:select:0|Ma³y:0|1
+356|Wielkoœæ:select:1|Œredni:1|2
+357|Kolor:select:0|Burgundowy:0|1
+357|Wielkoœæ:select:0|Du¿y:0|1
+358|Kolor:select:0|Pomarañczowy:0|1
+358|Kolor:select:1|Burgundowy:1|2
+358|Wielkoœæ:select:0|Du¿y:0|1
+358|Wielkoœæ:select:1|Bardzo ma³y:1|2
+359|Kolor:select:0|Czerwony:0|1
+359|Wielkoœæ:select:0|Du¿y:0|1
+360|Kolor:select:0|Pomarañczowy:0|1
+360|Kolor:select:1|Czerwony:1|2
+360|Wielkoœæ:select:0|Ma³y:0|1
+361|Kolor:select:0|Burgundowy:0|1
+361|Kolor:select:1|Lazurowy:1|2
+361|Kolor:select:2|Zielony:2|3
+361|Wielkoœæ:select:0|Du¿y:0|1
+362|Kolor:select:0|B³êkitny:0|1
+362|Kolor:select:1|Burgundowy:1|2
+362|Kolor:select:2|Czerwony:2|3
+362|Wielkoœæ:select:0|Bardzo du¿y:0|1
+363|Kolor:select:0|Burgundowy:0|1
+363|Kolor:select:1|Niebieski:1|2
+363|Kolor:select:2|Zielony:2|3
+363|Wielkoœæ:select:0|Bardzo du¿y:0|1
+364|Kolor:select:0|Niebieski:0|1
+364|Kolor:select:1|Lazurowy:1|2
+364|Kolor:select:2|Pomarañczowy:2|3
+364|Wielkoœæ:select:0|Ma³y:0|1
+365|Kolor:select:0|Zielony:0|1
+365|Kolor:select:1|Czerwony:1|2
+365|Kolor:select:2|Lazurowy:2|3
+365|Wielkoœæ:select:0|Bardzo ma³y:0|1
+365|Wielkoœæ:select:1|Du¿y:1|2
+366|Kolor:select:0|B³êkitny:0|1
+366|Kolor:select:1|Czerwony:1|2
+366|Wielkoœæ:select:0|Ma³y:0|1
+366|Wielkoœæ:select:1|Bardzo du¿y:1|2
+367|Kolor:select:0|Pomarañczowy:0|1
+367|Kolor:select:1|Lazurowy:1|2
+367|Kolor:select:2|Czerwony:2|3
+367|Wielkoœæ:select:0|Du¿y:0|1
+368|Kolor:select:0|Niebieski:0|1
+368|Wielkoœæ:select:0|Œredni:0|1
+368|Wielkoœæ:select:1|Bardzo du¿y:1|2
+369|Kolor:select:0|Burgundowy:0|1
+369|Kolor:select:1|Zielony:1|2
+369|Wielkoœæ:select:0|Ma³y:0|1
+369|Wielkoœæ:select:1|Œredni:1|2
+370|Kolor:select:0|B³êkitny:0|1
+370|Wielkoœæ:select:0|Bardzo ma³y:0|1
+371|Kolor:select:0|Czerwony:0|1
+371|Kolor:select:1|Burgundowy:1|2
+371|Kolor:select:2|Pomarañczowy:2|3
+371|Wielkoœæ:select:0|Ma³y:0|1
+371|Wielkoœæ:select:1|Du¿y:1|2
+372|Kolor:select:0|Zielony:0|1
+372|Kolor:select:1|Niebieski:1|2
+372|Wielkoœæ:select:0|Œredni:0|1
+373|Kolor:select:0|Pomarañczowy:0|1
+373|Kolor:select:1|Czerwony:1|2
+373|Kolor:select:2|Burgundowy:2|3
+373|Wielkoœæ:select:0|Bardzo ma³y:0|1
+373|Wielkoœæ:select:1|Œredni:1|2
+374|Kolor:select:0|B³êkitny:0|1
+374|Wielkoœæ:select:0|Bardzo du¿y:0|1
+374|Wielkoœæ:select:1|Du¿y:1|2
+375|Kolor:select:0|Niebieski:0|1
+375|Wielkoœæ:select:0|Bardzo du¿y:0|1
+375|Wielkoœæ:select:1|Bardzo ma³y:1|2
+376|Kolor:select:0|Niebieski:0|1
+376|Kolor:select:1|B³êkitny:1|2
+376|Wielkoœæ:select:0|Œredni:0|1
+377|Kolor:select:0|B³êkitny:0|1
+377|Kolor:select:1|Pomarañczowy:1|2
+377|Wielkoœæ:select:0|Bardzo du¿y:0|1
+378|Kolor:select:0|Czerwony:0|1
+378|Kolor:select:1|Pomarañczowy:1|2
+378|Wielkoœæ:select:0|Bardzo du¿y:0|1
+378|Wielkoœæ:select:1|Du¿y:1|2
+379|Kolor:select:0|Zielony:0|1
+379|Kolor:select:1|Czerwony:1|2
+379|Wielkoœæ:select:0|Bardzo ma³y:0|1
+379|Wielkoœæ:select:1|Œredni:1|2
+380|Kolor:select:0|Czerwony:0|1
+380|Kolor:select:1|Pomarañczowy:1|2
+380|Wielkoœæ:select:0|Bardzo ma³y:0|1
+381|Kolor:select:0|Niebieski:0|1
+381|Wielkoœæ:select:0|Œredni:0|1
+381|Wielkoœæ:select:1|Du¿y:1|2
+382|Kolor:select:0|Pomarañczowy:0|1
+382|Kolor:select:1|Niebieski:1|2
+382|Wielkoœæ:select:0|Œredni:0|1
+383|Kolor:select:0|Czerwony:0|1
+383|Wielkoœæ:select:0|Bardzo du¿y:0|1
+383|Wielkoœæ:select:1|Ma³y:1|2
+384|Kolor:select:0|B³êkitny:0|1
+384|Kolor:select:1|Czerwony:1|2
+384|Kolor:select:2|Niebieski:2|3
+384|Wielkoœæ:select:0|Bardzo du¿y:0|1
+385|Kolor:select:0|Zielony:0|1
+385|Wielkoœæ:select:0|Ma³y:0|1
+385|Wielkoœæ:select:1|Bardzo ma³y:1|2
+386|Kolor:select:0|Niebieski:0|1
+386|Kolor:select:1|Burgundowy:1|2
+386|Wielkoœæ:select:0|Ma³y:0|1
+387|Kolor:select:0|Lazurowy:0|1
+387|Kolor:select:1|B³êkitny:1|2
+387|Wielkoœæ:select:0|Bardzo ma³y:0|1
+387|Wielkoœæ:select:1|Bardzo du¿y:1|2
+388|Kolor:select:0|Lazurowy:0|1
+388|Kolor:select:1|Burgundowy:1|2
+388|Wielkoœæ:select:0|Du¿y:0|1
+388|Wielkoœæ:select:1|Œredni:1|2
+389|Kolor:select:0|Zielony:0|1
+389|Wielkoœæ:select:0|Bardzo du¿y:0|1
+389|Wielkoœæ:select:1|Œredni:1|2
+390|Kolor:select:0|Niebieski:0|1
+390|Kolor:select:1|Pomarañczowy:1|2
+390|Kolor:select:2|Burgundowy:2|3
+390|Wielkoœæ:select:0|Bardzo ma³y:0|1
+391|Kolor:select:0|Czerwony:0|1
+391|Kolor:select:1|Pomarañczowy:1|2
+391|Kolor:select:2|Lazurowy:2|3
+391|Wielkoœæ:select:0|Bardzo ma³y:0|1
+391|Wielkoœæ:select:1|Ma³y:1|2
+392|Kolor:select:0|Niebieski:0|1
+392|Kolor:select:1|Lazurowy:1|2
+392|Wielkoœæ:select:0|Bardzo ma³y:0|1
+393|Kolor:select:0|Czerwony:0|1
+393|Wielkoœæ:select:0|Bardzo du¿y:0|1
+394|Kolor:select:0|Burgundowy:0|1
+394|Kolor:select:1|Lazurowy:1|2
+394|Wielkoœæ:select:0|Ma³y:0|1
+394|Wielkoœæ:select:1|Œredni:1|2
+395|Kolor:select:0|Zielony:0|1
+395|Kolor:select:1|B³êkitny:1|2
+395|Kolor:select:2|Burgundowy:2|3
+395|Wielkoœæ:select:0|Œredni:0|1
+395|Wielkoœæ:select:1|Du¿y:1|2
+396|Kolor:select:0|Lazurowy:0|1
+396|Kolor:select:1|Pomarañczowy:1|2
+396|Wielkoœæ:select:0|Bardzo du¿y:0|1
+396|Wielkoœæ:select:1|Du¿y:1|2
+397|Kolor:select:0|B³êkitny:0|1
+397|Kolor:select:1|Zielony:1|2
+397|Wielkoœæ:select:0|Ma³y:0|1
+398|Kolor:select:0|Lazurowy:0|1
+398|Kolor:select:1|Zielony:1|2
+398|Wielkoœæ:select:0|Bardzo ma³y:0|1
+398|Wielkoœæ:select:1|Ma³y:1|2
+399|Kolor:select:0|Lazurowy:0|1
+399|Wielkoœæ:select:0|Bardzo ma³y:0|1
+400|Kolor:select:0|Pomarañczowy:0|1
+400|Kolor:select:1|Lazurowy:1|2
+400|Wielkoœæ:select:0|Bardzo ma³y:0|1
+401|Kolor:select:0|Pomarañczowy:0|1
+401|Kolor:select:1|Czerwony:1|2
+401|Kolor:select:2|Lazurowy:2|3
+401|Wielkoœæ:select:0|Du¿y:0|1
+402|Kolor:select:0|Niebieski:0|1
+402|Kolor:select:1|Czerwony:1|2
+402|Kolor:select:2|Zielony:2|3
+402|Wielkoœæ:select:0|Bardzo ma³y:0|1
+403|Kolor:select:0|Zielony:0|1
+403|Kolor:select:1|Czerwony:1|2
+403|Wielkoœæ:select:0|Bardzo ma³y:0|1
+403|Wielkoœæ:select:1|Œredni:1|2
+404|Kolor:select:0|Burgundowy:0|1
+404|Wielkoœæ:select:0|Bardzo ma³y:0|1
+404|Wielkoœæ:select:1|Ma³y:1|2
+405|Kolor:select:0|Pomarañczowy:0|1
+405|Wielkoœæ:select:0|Ma³y:0|1
+406|Kolor:select:0|Niebieski:0|1
+406|Kolor:select:1|Zielony:1|2
+406|Kolor:select:2|Czerwony:2|3
+406|Wielkoœæ:select:0|Œredni:0|1
+407|Kolor:select:0|Burgundowy:0|1
+407|Wielkoœæ:select:0|Ma³y:0|1
+407|Wielkoœæ:select:1|Bardzo ma³y:1|2
+408|Kolor:select:0|Czerwony:0|1
+408|Kolor:select:1|Zielony:1|2
+408|Kolor:select:2|B³êkitny:2|3
+408|Wielkoœæ:select:0|Bardzo ma³y:0|1
+408|Wielkoœæ:select:1|Bardzo du¿y:1|2
+409|Kolor:select:0|Pomarañczowy:0|1
+409|Kolor:select:1|Burgundowy:1|2
+409|Kolor:select:2|Zielony:2|3
+409|Wielkoœæ:select:0|Bardzo ma³y:0|1
+410|Kolor:select:0|Czerwony:0|1
+410|Wielkoœæ:select:0|Bardzo du¿y:0|1
+410|Wielkoœæ:select:1|Du¿y:1|2
+411|Kolor:select:0|Burgundowy:0|1
+411|Kolor:select:1|Lazurowy:1|2
+411|Kolor:select:2|Zielony:2|3
+411|Wielkoœæ:select:0|Bardzo ma³y:0|1
+412|Kolor:select:0|Zielony:0|1
+412|Kolor:select:1|Burgundowy:1|2
+412|Kolor:select:2|Czerwony:2|3
+412|Wielkoœæ:select:0|Du¿y:0|1
+412|Wielkoœæ:select:1|Bardzo du¿y:1|2
+413|Kolor:select:0|Pomarañczowy:0|1
+413|Kolor:select:1|Niebieski:1|2
+413|Kolor:select:2|Czerwony:2|3
+413|Wielkoœæ:select:0|Du¿y:0|1
+414|Kolor:select:0|Niebieski:0|1
+414|Kolor:select:1|Czerwony:1|2
+414|Wielkoœæ:select:0|Bardzo du¿y:0|1
+415|Kolor:select:0|Zielony:0|1
+415|Kolor:select:1|B³êkitny:1|2
+415|Kolor:select:2|Pomarañczowy:2|3
+415|Wielkoœæ:select:0|Ma³y:0|1
+415|Wielkoœæ:select:1|Bardzo du¿y:1|2
+416|Kolor:select:0|Zielony:0|1
+416|Kolor:select:1|Czerwony:1|2
+416|Wielkoœæ:select:0|Bardzo du¿y:0|1
+417|Kolor:select:0|Niebieski:0|1
+417|Kolor:select:1|Pomarañczowy:1|2
+417|Kolor:select:2|Lazurowy:2|3
+417|Wielkoœæ:select:0|Œredni:0|1
+417|Wielkoœæ:select:1|Du¿y:1|2
+418|Kolor:select:0|Pomarañczowy:0|1
+418|Kolor:select:1|Lazurowy:1|2
+418|Wielkoœæ:select:0|Bardzo du¿y:0|1
+419|Kolor:select:0|Zielony:0|1
+419|Wielkoœæ:select:0|Du¿y:0|1
+419|Wielkoœæ:select:1|Œredni:1|2
+420|Kolor:select:0|Burgundowy:0|1
+420|Wielkoœæ:select:0|Du¿y:0|1
+421|Kolor:select:0|Niebieski:0|1
+421|Wielkoœæ:select:0|Du¿y:0|1
+422|Kolor:select:0|Niebieski:0|1
+422|Kolor:select:1|Pomarañczowy:1|2
+422|Kolor:select:2|Lazurowy:2|3
+422|Wielkoœæ:select:0|Du¿y:0|1
+422|Wielkoœæ:select:1|Œredni:1|2
+423|Kolor:select:0|Niebieski:0|1
+423|Kolor:select:1|B³êkitny:1|2
+423|Wielkoœæ:select:0|Œredni:0|1
+423|Wielkoœæ:select:1|Du¿y:1|2
+424|Kolor:select:0|Pomarañczowy:0|1
+424|Wielkoœæ:select:0|Du¿y:0|1
+425|Kolor:select:0|Pomarañczowy:0|1
+425|Kolor:select:1|Czerwony:1|2
+425|Kolor:select:2|Lazurowy:2|3
+425|Wielkoœæ:select:0|Bardzo ma³y:0|1
+425|Wielkoœæ:select:1|Œredni:1|2
+426|Kolor:select:0|Czerwony:0|1
+426|Kolor:select:1|Lazurowy:1|2
+426|Wielkoœæ:select:0|Du¿y:0|1
+427|Kolor:select:0|Pomarañczowy:0|1
+427|Kolor:select:1|Czerwony:1|2
+427|Wielkoœæ:select:0|Du¿y:0|1
+427|Wielkoœæ:select:1|Ma³y:1|2
+428|Kolor:select:0|B³êkitny:0|1
+428|Kolor:select:1|Burgundowy:1|2
+428|Wielkoœæ:select:0|Ma³y:0|1
+429|Kolor:select:0|Czerwony:0|1
+429|Kolor:select:1|B³êkitny:1|2
+429|Wielkoœæ:select:0|Du¿y:0|1
+430|Kolor:select:0|Lazurowy:0|1
+430|Wielkoœæ:select:0|Du¿y:0|1
+431|Kolor:select:0|Burgundowy:0|1
+431|Kolor:select:1|Pomarañczowy:1|2
+431|Kolor:select:2|Lazurowy:2|3
+431|Wielkoœæ:select:0|Bardzo du¿y:0|1
+431|Wielkoœæ:select:1|Ma³y:1|2
+432|Kolor:select:0|Czerwony:0|1
+432|Kolor:select:1|Pomarañczowy:1|2
+432|Kolor:select:2|Burgundowy:2|3
+432|Wielkoœæ:select:0|Bardzo du¿y:0|1
+433|Kolor:select:0|Lazurowy:0|1
+433|Wielkoœæ:select:0|Ma³y:0|1
+433|Wielkoœæ:select:1|Du¿y:1|2
+434|Kolor:select:0|Czerwony:0|1
+434|Wielkoœæ:select:0|Bardzo du¿y:0|1
+435|Kolor:select:0|Lazurowy:0|1
+435|Kolor:select:1|Zielony:1|2
+435|Wielkoœæ:select:0|Ma³y:0|1
+435|Wielkoœæ:select:1|Œredni:1|2
+436|Kolor:select:0|Burgundowy:0|1
+436|Kolor:select:1|Niebieski:1|2
+436|Wielkoœæ:select:0|Œredni:0|1
+437|Kolor:select:0|Pomarañczowy:0|1
+437|Wielkoœæ:select:0|Du¿y:0|1
+438|Kolor:select:0|B³êkitny:0|1
+438|Wielkoœæ:select:0|Œredni:0|1
+439|Kolor:select:0|Czerwony:0|1
+439|Wielkoœæ:select:0|Du¿y:0|1
+440|Kolor:select:0|Lazurowy:0|1
+440|Wielkoœæ:select:0|Du¿y:0|1
+440|Wielkoœæ:select:1|Bardzo ma³y:1|2
+441|Kolor:select:0|Niebieski:0|1
+441|Kolor:select:1|Pomarañczowy:1|2
+441|Kolor:select:2|Zielony:2|3
+441|Wielkoœæ:select:0|Ma³y:0|1
+442|Kolor:select:0|Pomarañczowy:0|1
+442|Kolor:select:1|B³êkitny:1|2
+442|Wielkoœæ:select:0|Bardzo ma³y:0|1
+442|Wielkoœæ:select:1|Bardzo du¿y:1|2
+443|Kolor:select:0|Czerwony:0|1
+443|Kolor:select:1|Lazurowy:1|2
+443|Wielkoœæ:select:0|Œredni:0|1
+444|Kolor:select:0|Lazurowy:0|1
+444|Kolor:select:1|Czerwony:1|2
+444|Wielkoœæ:select:0|Œredni:0|1
+445|Kolor:select:0|Czerwony:0|1
+445|Wielkoœæ:select:0|Œredni:0|1
+446|Kolor:select:0|Czerwony:0|1
+446|Wielkoœæ:select:0|Bardzo du¿y:0|1
+447|Kolor:select:0|B³êkitny:0|1
+447|Wielkoœæ:select:0|Bardzo du¿y:0|1
+447|Wielkoœæ:select:1|Bardzo ma³y:1|2
+448|Kolor:select:0|B³êkitny:0|1
+448|Kolor:select:1|Lazurowy:1|2
+448|Kolor:select:2|Czerwony:2|3
+448|Wielkoœæ:select:0|Ma³y:0|1
+448|Wielkoœæ:select:1|Bardzo du¿y:1|2
+449|Kolor:select:0|Zielony:0|1
+449|Wielkoœæ:select:0|Du¿y:0|1
+450|Kolor:select:0|Lazurowy:0|1
+450|Kolor:select:1|Niebieski:1|2
+450|Kolor:select:2|Czerwony:2|3
+450|Wielkoœæ:select:0|Bardzo ma³y:0|1
+450|Wielkoœæ:select:1|Ma³y:1|2
+451|Kolor:select:0|Zielony:0|1
+451|Wielkoœæ:select:0|Ma³y:0|1
+452|Kolor:select:0|B³êkitny:0|1
+452|Wielkoœæ:select:0|Ma³y:0|1
+452|Wielkoœæ:select:1|Bardzo du¿y:1|2
+453|Kolor:select:0|Zielony:0|1
+453|Kolor:select:1|Czerwony:1|2
+453|Kolor:select:2|Pomarañczowy:2|3
+453|Wielkoœæ:select:0|Ma³y:0|1
+453|Wielkoœæ:select:1|Du¿y:1|2
+454|Kolor:select:0|Czerwony:0|1
+454|Kolor:select:1|Burgundowy:1|2
+454|Wielkoœæ:select:0|Bardzo ma³y:0|1
+455|Kolor:select:0|Niebieski:0|1
+455|Wielkoœæ:select:0|Du¿y:0|1
+455|Wielkoœæ:select:1|Bardzo ma³y:1|2
+456|Kolor:select:0|Lazurowy:0|1
+456|Kolor:select:1|Burgundowy:1|2
+456|Wielkoœæ:select:0|Œredni:0|1
+456|Wielkoœæ:select:1|Du¿y:1|2
+457|Kolor:select:0|Burgundowy:0|1
+457|Wielkoœæ:select:0|Bardzo ma³y:0|1
+457|Wielkoœæ:select:1|Ma³y:1|2
+458|Kolor:select:0|Lazurowy:0|1
+458|Kolor:select:1|Czerwony:1|2
+458|Wielkoœæ:select:0|Ma³y:0|1
+458|Wielkoœæ:select:1|Bardzo ma³y:1|2
+459|Kolor:select:0|Czerwony:0|1
+459|Kolor:select:1|Niebieski:1|2
+459|Wielkoœæ:select:0|Bardzo ma³y:0|1
+460|Kolor:select:0|Niebieski:0|1
+460|Wielkoœæ:select:0|Bardzo ma³y:0|1
+460|Wielkoœæ:select:1|Du¿y:1|2
+461|Kolor:select:0|B³êkitny:0|1
+461|Kolor:select:1|Lazurowy:1|2
+461|Wielkoœæ:select:0|Ma³y:0|1
+461|Wielkoœæ:select:1|Bardzo ma³y:1|2
+462|Kolor:select:0|Pomarañczowy:0|1
+462|Wielkoœæ:select:0|Œredni:0|1
+462|Wielkoœæ:select:1|Bardzo du¿y:1|2
+463|Kolor:select:0|Burgundowy:0|1
+463|Kolor:select:1|Niebieski:1|2
+463|Wielkoœæ:select:0|Bardzo ma³y:0|1
+463|Wielkoœæ:select:1|Du¿y:1|2
+464|Kolor:select:0|Czerwony:0|1
+464|Kolor:select:1|Niebieski:1|2
+464|Wielkoœæ:select:0|Du¿y:0|1
+464|Wielkoœæ:select:1|Ma³y:1|2
+465|Kolor:select:0|Zielony:0|1
+465|Kolor:select:1|Lazurowy:1|2
+465|Kolor:select:2|Pomarañczowy:2|3
+465|Wielkoœæ:select:0|Du¿y:0|1
+465|Wielkoœæ:select:1|Bardzo du¿y:1|2
+466|Kolor:select:0|Niebieski:0|1
+466|Kolor:select:1|Burgundowy:1|2
+466|Kolor:select:2|Czerwony:2|3
+466|Wielkoœæ:select:0|Œredni:0|1
+466|Wielkoœæ:select:1|Du¿y:1|2
+467|Kolor:select:0|Niebieski:0|1
+467|Kolor:select:1|Pomarañczowy:1|2
+467|Wielkoœæ:select:0|Bardzo ma³y:0|1
+468|Kolor:select:0|Zielony:0|1
+468|Wielkoœæ:select:0|Du¿y:0|1
+468|Wielkoœæ:select:1|Bardzo ma³y:1|2
+469|Kolor:select:0|Niebieski:0|1
+469|Kolor:select:1|B³êkitny:1|2
+469|Wielkoœæ:select:0|Ma³y:0|1
+469|Wielkoœæ:select:1|Bardzo ma³y:1|2
+470|Kolor:select:0|Burgundowy:0|1
+470|Wielkoœæ:select:0|Du¿y:0|1
+471|Kolor:select:0|Czerwony:0|1
+471|Kolor:select:1|Zielony:1|2
+471|Wielkoœæ:select:0|Ma³y:0|1
+471|Wielkoœæ:select:1|Bardzo ma³y:1|2
+472|Kolor:select:0|Zielony:0|1
+472|Kolor:select:1|B³êkitny:1|2
+472|Kolor:select:2|Pomarañczowy:2|3
+472|Wielkoœæ:select:0|Du¿y:0|1
+472|Wielkoœæ:select:1|Œredni:1|2
+473|Kolor:select:0|Burgundowy:0|1
+473|Kolor:select:1|Czerwony:1|2
+473|Wielkoœæ:select:0|Du¿y:0|1
+474|Kolor:select:0|B³êkitny:0|1
+474|Wielkoœæ:select:0|Du¿y:0|1
+475|Kolor:select:0|Burgundowy:0|1
+475|Kolor:select:1|Lazurowy:1|2
+475|Wielkoœæ:select:0|Bardzo du¿y:0|1
+476|Kolor:select:0|Niebieski:0|1
+476|Kolor:select:1|Pomarañczowy:1|2
+476|Wielkoœæ:select:0|Du¿y:0|1
+477|Kolor:select:0|Niebieski:0|1
+477|Kolor:select:1|B³êkitny:1|2
+477|Kolor:select:2|Lazurowy:2|3
+477|Wielkoœæ:select:0|Bardzo ma³y:0|1
+478|Kolor:select:0|B³êkitny:0|1
+478|Kolor:select:1|Zielony:1|2
+478|Kolor:select:2|Lazurowy:2|3
+478|Wielkoœæ:select:0|Du¿y:0|1
+478|Wielkoœæ:select:1|Bardzo ma³y:1|2
+479|Kolor:select:0|Czerwony:0|1
+479|Kolor:select:1|Zielony:1|2
+479|Kolor:select:2|B³êkitny:2|3
+479|Wielkoœæ:select:0|Ma³y:0|1
+480|Kolor:select:0|Niebieski:0|1
+480|Kolor:select:1|Lazurowy:1|2
+480|Kolor:select:2|B³êkitny:2|3
+480|Wielkoœæ:select:0|Bardzo ma³y:0|1
+480|Wielkoœæ:select:1|Œredni:1|2
+481|Kolor:select:0|Czerwony:0|1
+481|Wielkoœæ:select:0|Œredni:0|1
+482|Kolor:select:0|Lazurowy:0|1
+482|Kolor:select:1|Pomarañczowy:1|2
+482|Kolor:select:2|Zielony:2|3
+482|Wielkoœæ:select:0|Du¿y:0|1
+482|Wielkoœæ:select:1|Bardzo ma³y:1|2
+483|Kolor:select:0|Lazurowy:0|1
+483|Kolor:select:1|Burgundowy:1|2
+483|Kolor:select:2|Pomarañczowy:2|3
+483|Wielkoœæ:select:0|Du¿y:0|1
+484|Kolor:select:0|Pomarañczowy:0|1
+484|Kolor:select:1|Niebieski:1|2
+484|Wielkoœæ:select:0|Du¿y:0|1
+485|Kolor:select:0|Niebieski:0|1
+485|Kolor:select:1|B³êkitny:1|2
+485|Kolor:select:2|Burgundowy:2|3
+485|Wielkoœæ:select:0|Bardzo du¿y:0|1
+485|Wielkoœæ:select:1|Œredni:1|2
+486|Kolor:select:0|Burgundowy:0|1
+486|Wielkoœæ:select:0|Bardzo ma³y:0|1
+487|Kolor:select:0|Niebieski:0|1
+487|Wielkoœæ:select:0|Bardzo ma³y:0|1
+488|Kolor:select:0|Czerwony:0|1
+488|Wielkoœæ:select:0|Œredni:0|1
+489|Kolor:select:0|Zielony:0|1
+489|Wielkoœæ:select:0|Ma³y:0|1
+489|Wielkoœæ:select:1|Bardzo du¿y:1|2
+490|Kolor:select:0|B³êkitny:0|1
+490|Kolor:select:1|Lazurowy:1|2
+490|Wielkoœæ:select:0|Du¿y:0|1
+490|Wielkoœæ:select:1|Bardzo du¿y:1|2
+491|Kolor:select:0|Lazurowy:0|1
+491|Kolor:select:1|B³êkitny:1|2
+491|Wielkoœæ:select:0|Bardzo du¿y:0|1
+492|Kolor:select:0|Niebieski:0|1
+492|Kolor:select:1|B³êkitny:1|2
+492|Kolor:select:2|Zielony:2|3
+492|Wielkoœæ:select:0|Œredni:0|1
+492|Wielkoœæ:select:1|Bardzo du¿y:1|2
+493|Kolor:select:0|B³êkitny:0|1
+493|Wielkoœæ:select:0|Œredni:0|1
+493|Wielkoœæ:select:1|Bardzo ma³y:1|2
+494|Kolor:select:0|Burgundowy:0|1
+494|Wielkoœæ:select:0|Bardzo du¿y:0|1
+495|Kolor:select:0|Zielony:0|1
+495|Wielkoœæ:select:0|Bardzo ma³y:0|1
+495|Wielkoœæ:select:1|Bardzo du¿y:1|2
+496|Kolor:select:0|Zielony:0|1
+496|Kolor:select:1|Burgundowy:1|2
+496|Kolor:select:2|Niebieski:2|3
+496|Wielkoœæ:select:0|Du¿y:0|1
+496|Wielkoœæ:select:1|Bardzo ma³y:1|2
+497|Kolor:select:0|Zielony:0|1
+497|Kolor:select:1|Lazurowy:1|2
+497|Kolor:select:2|Czerwony:2|3
+497|Wielkoœæ:select:0|Œredni:0|1
+498|Kolor:select:0|B³êkitny:0|1
+498|Wielkoœæ:select:0|Œredni:0|1
+499|Kolor:select:0|Niebieski:0|1
+499|Kolor:select:1|Czerwony:1|2
+499|Kolor:select:2|Lazurowy:2|3
+499|Wielkoœæ:select:0|Œredni:0|1
+499|Wielkoœæ:select:1|Bardzo du¿y:1|2
+500|Kolor:select:0|Czerwony:0|1
+500|Kolor:select:1|Zielony:1|2
+500|Kolor:select:2|Burgundowy:2|3
+500|Wielkoœæ:select:0|Œredni:0|1
+500|Wielkoœæ:select:1|Ma³y:1|2
+501|Kolor:select:0|Czerwony:0|1
+501|Wielkoœæ:select:0|Bardzo ma³y:0|1
+502|Kolor:select:0|Zielony:0|1
+502|Kolor:select:1|Lazurowy:1|2
+502|Kolor:select:2|Czerwony:2|3
+502|Wielkoœæ:select:0|Bardzo du¿y:0|1
+503|Kolor:select:0|Zielony:0|1
+503|Wielkoœæ:select:0|Du¿y:0|1
+504|Kolor:select:0|Pomarañczowy:0|1
+504|Kolor:select:1|Lazurowy:1|2
+504|Kolor:select:2|Burgundowy:2|3
+504|Wielkoœæ:select:0|Bardzo du¿y:0|1
+504|Wielkoœæ:select:1|Bardzo ma³y:1|2
+505|Kolor:select:0|Zielony:0|1
+505|Kolor:select:1|Niebieski:1|2
+505|Kolor:select:2|Pomarañczowy:2|3
+505|Wielkoœæ:select:0|Du¿y:0|1
+505|Wielkoœæ:select:1|Œredni:1|2
+506|Kolor:select:0|Lazurowy:0|1
+506|Wielkoœæ:select:0|Bardzo ma³y:0|1
+507|Kolor:select:0|Zielony:0|1
+507|Kolor:select:1|Niebieski:1|2
+507|Wielkoœæ:select:0|Ma³y:0|1
+508|Kolor:select:0|Pomarañczowy:0|1
+508|Kolor:select:1|Burgundowy:1|2
+508|Kolor:select:2|Zielony:2|3
+508|Wielkoœæ:select:0|Ma³y:0|1
+509|Kolor:select:0|Lazurowy:0|1
+509|Kolor:select:1|Zielony:1|2
+509|Wielkoœæ:select:0|Bardzo ma³y:0|1
+510|Kolor:select:0|Lazurowy:0|1
+510|Kolor:select:1|Czerwony:1|2
+510|Kolor:select:2|B³êkitny:2|3
+510|Wielkoœæ:select:0|Ma³y:0|1
+510|Wielkoœæ:select:1|Bardzo du¿y:1|2
+511|Kolor:select:0|Pomarañczowy:0|1
+511|Wielkoœæ:select:0|Ma³y:0|1
+511|Wielkoœæ:select:1|Œredni:1|2
+512|Kolor:select:0|Czerwony:0|1
+512|Kolor:select:1|Zielony:1|2
+512|Kolor:select:2|Pomarañczowy:2|3
+512|Wielkoœæ:select:0|Ma³y:0|1
+513|Kolor:select:0|Zielony:0|1
+513|Wielkoœæ:select:0|Œredni:0|1
+514|Kolor:select:0|Czerwony:0|1
+514|Kolor:select:1|Burgundowy:1|2
+514|Kolor:select:2|Zielony:2|3
+514|Wielkoœæ:select:0|Œredni:0|1
+515|Kolor:select:0|Pomarañczowy:0|1
+515|Wielkoœæ:select:0|Œredni:0|1
+516|Kolor:select:0|B³êkitny:0|1
+516|Wielkoœæ:select:0|Œredni:0|1
+517|Kolor:select:0|Pomarañczowy:0|1
+517|Kolor:select:1|B³êkitny:1|2
+517|Kolor:select:2|Czerwony:2|3
+517|Wielkoœæ:select:0|Du¿y:0|1
+518|Kolor:select:0|Lazurowy:0|1
+518|Wielkoœæ:select:0|Bardzo ma³y:0|1
+519|Kolor:select:0|B³êkitny:0|1
+519|Kolor:select:1|Pomarañczowy:1|2
+519|Kolor:select:2|Niebieski:2|3
+519|Wielkoœæ:select:0|Bardzo ma³y:0|1
+519|Wielkoœæ:select:1|Du¿y:1|2
+520|Kolor:select:0|B³êkitny:0|1
+520|Kolor:select:1|Pomarañczowy:1|2
+520|Wielkoœæ:select:0|Ma³y:0|1
+520|Wielkoœæ:select:1|Bardzo du¿y:1|2
+521|Kolor:select:0|B³êkitny:0|1
+521|Wielkoœæ:select:0|Du¿y:0|1
+521|Wielkoœæ:select:1|Ma³y:1|2
+522|Kolor:select:0|Niebieski:0|1
+522|Kolor:select:1|Pomarañczowy:1|2
+522|Wielkoœæ:select:0|Œredni:0|1
+522|Wielkoœæ:select:1|Bardzo du¿y:1|2
+523|Kolor:select:0|Lazurowy:0|1
+523|Wielkoœæ:select:0|Bardzo ma³y:0|1
+524|Kolor:select:0|Czerwony:0|1
+524|Kolor:select:1|Burgundowy:1|2
+524|Kolor:select:2|Pomarañczowy:2|3
+524|Wielkoœæ:select:0|Ma³y:0|1
+524|Wielkoœæ:select:1|Bardzo ma³y:1|2
+525|Kolor:select:0|B³êkitny:0|1
+525|Kolor:select:1|Lazurowy:1|2
+525|Kolor:select:2|Niebieski:2|3
+525|Wielkoœæ:select:0|Du¿y:0|1
+525|Wielkoœæ:select:1|Œredni:1|2
+526|Kolor:select:0|Pomarañczowy:0|1
+526|Kolor:select:1|Burgundowy:1|2
+526|Kolor:select:2|Czerwony:2|3
+526|Wielkoœæ:select:0|Bardzo du¿y:0|1
+526|Wielkoœæ:select:1|Bardzo ma³y:1|2
+527|Kolor:select:0|Burgundowy:0|1
+527|Kolor:select:1|Pomarañczowy:1|2
+527|Kolor:select:2|Lazurowy:2|3
+527|Wielkoœæ:select:0|Œredni:0|1
+527|Wielkoœæ:select:1|Bardzo ma³y:1|2
+528|Kolor:select:0|Burgundowy:0|1
+528|Kolor:select:1|B³êkitny:1|2
+528|Wielkoœæ:select:0|Ma³y:0|1
+528|Wielkoœæ:select:1|Bardzo ma³y:1|2
+529|Kolor:select:0|Niebieski:0|1
+529|Kolor:select:1|Zielony:1|2
+529|Kolor:select:2|Lazurowy:2|3
+529|Wielkoœæ:select:0|Bardzo ma³y:0|1
+530|Kolor:select:0|Niebieski:0|1
+530|Wielkoœæ:select:0|Du¿y:0|1
+531|Kolor:select:0|Lazurowy:0|1
+531|Kolor:select:1|B³êkitny:1|2
+531|Wielkoœæ:select:0|Du¿y:0|1
+532|Kolor:select:0|Burgundowy:0|1
+532|Kolor:select:1|Niebieski:1|2
+532|Wielkoœæ:select:0|Ma³y:0|1
+532|Wielkoœæ:select:1|Œredni:1|2
+533|Kolor:select:0|Czerwony:0|1
+533|Kolor:select:1|Lazurowy:1|2
+533|Wielkoœæ:select:0|Du¿y:0|1
+533|Wielkoœæ:select:1|Bardzo ma³y:1|2
+534|Kolor:select:0|Zielony:0|1
+534|Wielkoœæ:select:0|Œredni:0|1
+534|Wielkoœæ:select:1|Du¿y:1|2
+535|Kolor:select:0|Zielony:0|1
+535|Kolor:select:1|Pomarañczowy:1|2
+535|Wielkoœæ:select:0|Œredni:0|1
+536|Kolor:select:0|Burgundowy:0|1
+536|Wielkoœæ:select:0|Du¿y:0|1
+537|Kolor:select:0|Niebieski:0|1
+537|Kolor:select:1|Pomarañczowy:1|2
+537|Kolor:select:2|Burgundowy:2|3
+537|Wielkoœæ:select:0|Œredni:0|1
+538|Kolor:select:0|Burgundowy:0|1
+538|Wielkoœæ:select:0|Bardzo du¿y:0|1
+539|Kolor:select:0|Zielony:0|1
+539|Wielkoœæ:select:0|Bardzo ma³y:0|1
+540|Kolor:select:0|Zielony:0|1
+540|Wielkoœæ:select:0|Bardzo du¿y:0|1
+541|Kolor:select:0|Lazurowy:0|1
+541|Kolor:select:1|Niebieski:1|2
+541|Kolor:select:2|Czerwony:2|3
+541|Wielkoœæ:select:0|Bardzo du¿y:0|1
+541|Wielkoœæ:select:1|Bardzo ma³y:1|2
+542|Kolor:select:0|Pomarañczowy:0|1
+542|Kolor:select:1|Lazurowy:1|2
+542|Kolor:select:2|Burgundowy:2|3
+542|Wielkoœæ:select:0|Bardzo ma³y:0|1
+542|Wielkoœæ:select:1|Du¿y:1|2
+543|Kolor:select:0|B³êkitny:0|1
+543|Kolor:select:1|Zielony:1|2
+543|Wielkoœæ:select:0|Bardzo ma³y:0|1
+543|Wielkoœæ:select:1|Bardzo du¿y:1|2
+544|Kolor:select:0|Burgundowy:0|1
+544|Kolor:select:1|B³êkitny:1|2
+544|Wielkoœæ:select:0|Bardzo ma³y:0|1
+545|Kolor:select:0|Czerwony:0|1
+545|Kolor:select:1|Zielony:1|2
+545|Kolor:select:2|B³êkitny:2|3
+545|Wielkoœæ:select:0|Bardzo du¿y:0|1
+546|Kolor:select:0|Niebieski:0|1
+546|Kolor:select:1|Burgundowy:1|2
+546|Wielkoœæ:select:0|Bardzo ma³y:0|1
+546|Wielkoœæ:select:1|Ma³y:1|2
+547|Kolor:select:0|B³êkitny:0|1
+547|Wielkoœæ:select:0|Bardzo du¿y:0|1
+548|Kolor:select:0|Zielony:0|1
+548|Kolor:select:1|Niebieski:1|2
+548|Kolor:select:2|Lazurowy:2|3
+548|Wielkoœæ:select:0|Œredni:0|1
+548|Wielkoœæ:select:1|Bardzo du¿y:1|2
+549|Kolor:select:0|Pomarañczowy:0|1
+549|Wielkoœæ:select:0|Bardzo ma³y:0|1
+549|Wielkoœæ:select:1|Ma³y:1|2
+550|Kolor:select:0|Pomarañczowy:0|1
+550|Kolor:select:1|Burgundowy:1|2
+550|Wielkoœæ:select:0|Bardzo ma³y:0|1
+550|Wielkoœæ:select:1|Bardzo du¿y:1|2
+551|Kolor:select:0|Czerwony:0|1
+551|Kolor:select:1|Lazurowy:1|2
+551|Kolor:select:2|Burgundowy:2|3
+551|Wielkoœæ:select:0|Du¿y:0|1

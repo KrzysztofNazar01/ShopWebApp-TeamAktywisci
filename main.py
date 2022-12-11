@@ -160,14 +160,17 @@ def adjustCSVfile(filename):
     df['price_netto_string'] = df['price_netto_string'].str.replace('.', ',')
 
     df = df.drop('price_brutto_zl', axis=1)
-    # df = df.drop('price_tag', axis=1)
+    df = df.drop('price_tag', axis=1)
+    df = df.drop('price_netto_string', axis=1)
+    df = df.drop('price_brutto_string', axis=1)
+
 
     df = addSizeColumn(df)
     return df
 
 
 def saveDataframe(df, filenumber):
-    df.to_csv('OBI_products_' + str(filenumber) + '.csv', index=False, encoding='utf-16')
+    df.to_csv('OBI_products_' + str(filenumber) + '.csv', index=False, encoding='utf-8')
 
     import numpy as np
     my_numpy = df.to_numpy()
@@ -188,7 +191,14 @@ if __name__ == '__main__':
     df_final = df_final[df_final['ratingCount'].notna()]
     df_final = df_final[df_final['ratingScore'].notna()]
     df_final['idProduktu'] = range(0, len(df_final))
+
+    df_final['cat'] = df_final['cat'].str.replace('-', ' ')
+    df_final['subCat'] = df_final['subCat'].str.replace('-', ' ')
+
+    print(df.info())
+    df['name'] = df['name'].str.replace('"', ' ')
+
     print(df_final)
-    saveDataframe(df_final, 3)
+    saveDataframe(df_final, 4)
 
 

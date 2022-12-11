@@ -1,0 +1,1949 @@
+idProduktu,NazwaTypPozycja,WartoscPozycja,Ilosc
+0,Kolor:select:0,Czerwony:0,3
+0,Kolor:select:1,Błękitny:1,8
+0,Wielkość:select:0,Duży:0,6
+0,Wielkość:select:1,Mały:1,9
+1,Kolor:select:0,Burgundowy:0,5
+1,Kolor:select:1,Błękitny:1,7
+1,Kolor:select:2,Niebieski:2,9
+1,Wielkość:select:0,Mały:0,6
+1,Wielkość:select:1,Średni:1,2
+2,Kolor:select:0,Lazurowy:0,6
+2,Kolor:select:1,Zielony:1,7
+2,Kolor:select:2,Pomarańczowy:2,5
+2,Wielkość:select:0,Mały:0,2
+2,Wielkość:select:1,Duży:1,7
+3,Kolor:select:0,Burgundowy:0,7
+3,Wielkość:select:0,Bardzo mały:0,8
+3,Wielkość:select:1,Bardzo duży:1,6
+4,Kolor:select:0,Burgundowy:0,4
+4,Kolor:select:1,Czerwony:1,3
+4,Kolor:select:2,Niebieski:2,4
+4,Wielkość:select:0,Bardzo duży:0,10
+5,Kolor:select:0,Błękitny:0,6
+5,Wielkość:select:0,Średni:0,5
+6,Kolor:select:0,Niebieski:0,8
+6,Kolor:select:1,Pomarańczowy:1,8
+6,Wielkość:select:0,Bardzo mały:0,2
+6,Wielkość:select:1,Mały:1,10
+7,Kolor:select:0,Niebieski:0,6
+7,Wielkość:select:0,Mały:0,7
+8,Kolor:select:0,Zielony:0,10
+8,Kolor:select:1,Błękitny:1,9
+8,Wielkość:select:0,Bardzo mały:0,7
+8,Wielkość:select:1,Mały:1,7
+9,Kolor:select:0,Lazurowy:0,5
+9,Wielkość:select:0,Duży:0,7
+9,Wielkość:select:1,Bardzo duży:1,2
+10,Kolor:select:0,Burgundowy:0,10
+10,Wielkość:select:0,Bardzo duży:0,2
+11,Kolor:select:0,Burgundowy:0,4
+11,Kolor:select:1,Niebieski:1,3
+11,Wielkość:select:0,Mały:0,7
+12,Kolor:select:0,Niebieski:0,9
+12,Kolor:select:1,Burgundowy:1,6
+12,Kolor:select:2,Pomarańczowy:2,7
+12,Wielkość:select:0,Bardzo duży:0,6
+13,Kolor:select:0,Czerwony:0,2
+13,Kolor:select:1,Burgundowy:1,4
+13,Wielkość:select:0,Mały:0,9
+14,Kolor:select:0,Zielony:0,3
+14,Kolor:select:1,Niebieski:1,10
+14,Wielkość:select:0,Średni:0,2
+15,Kolor:select:0,Burgundowy:0,8
+15,Kolor:select:1,Czerwony:1,5
+15,Wielkość:select:0,Duży:0,8
+16,Kolor:select:0,Niebieski:0,8
+16,Kolor:select:1,Czerwony:1,8
+16,Wielkość:select:0,Średni:0,7
+17,Kolor:select:0,Pomarańczowy:0,2
+17,Wielkość:select:0,Mały:0,6
+17,Wielkość:select:1,Bardzo mały:1,8
+18,Kolor:select:0,Lazurowy:0,3
+18,Wielkość:select:0,Bardzo mały:0,5
+19,Kolor:select:0,Niebieski:0,1
+19,Kolor:select:1,Zielony:1,3
+19,Wielkość:select:0,Bardzo duży:0,2
+20,Kolor:select:0,Zielony:0,8
+20,Wielkość:select:0,Duży:0,4
+21,Kolor:select:0,Czerwony:0,5
+21,Kolor:select:1,Pomarańczowy:1,10
+21,Kolor:select:2,Zielony:2,1
+21,Wielkość:select:0,Duży:0,6
+22,Kolor:select:0,Czerwony:0,2
+22,Wielkość:select:0,Mały:0,7
+22,Wielkość:select:1,Średni:1,4
+23,Kolor:select:0,Lazurowy:0,6
+23,Wielkość:select:0,Bardzo duży:0,4
+23,Wielkość:select:1,Bardzo mały:1,7
+24,Kolor:select:0,Pomarańczowy:0,10
+24,Kolor:select:1,Lazurowy:1,10
+24,Wielkość:select:0,Mały:0,5
+25,Kolor:select:0,Czerwony:0,2
+25,Kolor:select:1,Pomarańczowy:1,4
+25,Kolor:select:2,Burgundowy:2,10
+25,Wielkość:select:0,Duży:0,1
+26,Kolor:select:0,Czerwony:0,7
+26,Kolor:select:1,Burgundowy:1,1
+26,Kolor:select:2,Niebieski:2,7
+26,Wielkość:select:0,Bardzo duży:0,6
+27,Kolor:select:0,Zielony:0,2
+27,Kolor:select:1,Czerwony:1,2
+27,Wielkość:select:0,Duży:0,8
+28,Kolor:select:0,Burgundowy:0,2
+28,Kolor:select:1,Pomarańczowy:1,2
+28,Wielkość:select:0,Duży:0,7
+28,Wielkość:select:1,Średni:1,4
+29,Kolor:select:0,Niebieski:0,10
+29,Wielkość:select:0,Duży:0,6
+30,Kolor:select:0,Zielony:0,3
+30,Wielkość:select:0,Bardzo duży:0,4
+31,Kolor:select:0,Burgundowy:0,2
+31,Kolor:select:1,Zielony:1,9
+31,Kolor:select:2,Niebieski:2,2
+31,Wielkość:select:0,Bardzo mały:0,9
+32,Kolor:select:0,Pomarańczowy:0,10
+32,Kolor:select:1,Niebieski:1,7
+32,Kolor:select:2,Czerwony:2,9
+32,Wielkość:select:0,Średni:0,2
+33,Kolor:select:0,Czerwony:0,10
+33,Kolor:select:1,Błękitny:1,7
+33,Kolor:select:2,Zielony:2,4
+33,Wielkość:select:0,Mały:0,5
+34,Kolor:select:0,Błękitny:0,7
+34,Wielkość:select:0,Bardzo duży:0,8
+35,Kolor:select:0,Błękitny:0,2
+35,Kolor:select:1,Lazurowy:1,6
+35,Kolor:select:2,Pomarańczowy:2,8
+35,Wielkość:select:0,Mały:0,5
+35,Wielkość:select:1,Bardzo duży:1,6
+36,Kolor:select:0,Zielony:0,6
+36,Kolor:select:1,Pomarańczowy:1,5
+36,Kolor:select:2,Czerwony:2,7
+36,Wielkość:select:0,Bardzo mały:0,6
+36,Wielkość:select:1,Duży:1,6
+37,Kolor:select:0,Czerwony:0,4
+37,Kolor:select:1,Błękitny:1,5
+37,Kolor:select:2,Zielony:2,5
+37,Wielkość:select:0,Średni:0,8
+38,Kolor:select:0,Zielony:0,7
+38,Kolor:select:1,Czerwony:1,7
+38,Wielkość:select:0,Bardzo mały:0,10
+39,Kolor:select:0,Pomarańczowy:0,1
+39,Kolor:select:1,Lazurowy:1,5
+39,Wielkość:select:0,Bardzo mały:0,9
+39,Wielkość:select:1,Średni:1,1
+40,Kolor:select:0,Burgundowy:0,7
+40,Kolor:select:1,Niebieski:1,2
+40,Wielkość:select:0,Średni:0,7
+40,Wielkość:select:1,Bardzo mały:1,2
+41,Kolor:select:0,Lazurowy:0,10
+41,Kolor:select:1,Burgundowy:1,5
+41,Wielkość:select:0,Duży:0,7
+41,Wielkość:select:1,Bardzo mały:1,2
+42,Kolor:select:0,Niebieski:0,1
+42,Wielkość:select:0,Duży:0,2
+42,Wielkość:select:1,Bardzo mały:1,9
+43,Kolor:select:0,Pomarańczowy:0,3
+43,Kolor:select:1,Niebieski:1,1
+43,Kolor:select:2,Burgundowy:2,9
+43,Wielkość:select:0,Bardzo mały:0,4
+44,Kolor:select:0,Błękitny:0,2
+44,Kolor:select:1,Zielony:1,6
+44,Wielkość:select:0,Duży:0,2
+44,Wielkość:select:1,Bardzo duży:1,1
+45,Kolor:select:0,Pomarańczowy:0,4
+45,Kolor:select:1,Burgundowy:1,6
+45,Kolor:select:2,Czerwony:2,5
+45,Wielkość:select:0,Duży:0,9
+45,Wielkość:select:1,Bardzo mały:1,2
+46,Kolor:select:0,Niebieski:0,5
+46,Kolor:select:1,Lazurowy:1,8
+46,Wielkość:select:0,Duży:0,1
+46,Wielkość:select:1,Bardzo mały:1,6
+47,Kolor:select:0,Niebieski:0,4
+47,Kolor:select:1,Lazurowy:1,9
+47,Kolor:select:2,Błękitny:2,8
+47,Wielkość:select:0,Średni:0,10
+47,Wielkość:select:1,Bardzo mały:1,7
+48,Kolor:select:0,Błękitny:0,6
+48,Kolor:select:1,Niebieski:1,8
+48,Kolor:select:2,Burgundowy:2,8
+48,Wielkość:select:0,Średni:0,1
+49,Kolor:select:0,Niebieski:0,6
+49,Kolor:select:1,Lazurowy:1,2
+49,Kolor:select:2,Błękitny:2,9
+49,Wielkość:select:0,Duży:0,9
+50,Kolor:select:0,Zielony:0,1
+50,Kolor:select:1,Burgundowy:1,3
+50,Kolor:select:2,Czerwony:2,1
+50,Wielkość:select:0,Bardzo duży:0,1
+50,Wielkość:select:1,Duży:1,5
+51,Kolor:select:0,Zielony:0,10
+51,Wielkość:select:0,Mały:0,7
+51,Wielkość:select:1,Bardzo mały:1,4
+52,Kolor:select:0,Czerwony:0,4
+52,Kolor:select:1,Zielony:1,10
+52,Kolor:select:2,Burgundowy:2,7
+52,Wielkość:select:0,Duży:0,8
+52,Wielkość:select:1,Bardzo mały:1,5
+53,Kolor:select:0,Pomarańczowy:0,6
+53,Kolor:select:1,Lazurowy:1,9
+53,Kolor:select:2,Czerwony:2,2
+53,Wielkość:select:0,Mały:0,2
+54,Kolor:select:0,Zielony:0,1
+54,Kolor:select:1,Niebieski:1,4
+54,Kolor:select:2,Lazurowy:2,2
+54,Wielkość:select:0,Bardzo mały:0,10
+54,Wielkość:select:1,Bardzo duży:1,7
+55,Kolor:select:0,Lazurowy:0,8
+55,Kolor:select:1,Burgundowy:1,5
+55,Kolor:select:2,Zielony:2,8
+55,Wielkość:select:0,Mały:0,8
+55,Wielkość:select:1,Średni:1,6
+56,Kolor:select:0,Niebieski:0,5
+56,Wielkość:select:0,Bardzo duży:0,2
+57,Kolor:select:0,Niebieski:0,10
+57,Kolor:select:1,Czerwony:1,3
+57,Kolor:select:2,Pomarańczowy:2,6
+57,Wielkość:select:0,Średni:0,5
+57,Wielkość:select:1,Bardzo mały:1,4
+58,Kolor:select:0,Lazurowy:0,5
+58,Wielkość:select:0,Duży:0,9
+59,Kolor:select:0,Błękitny:0,8
+59,Kolor:select:1,Czerwony:1,1
+59,Kolor:select:2,Burgundowy:2,6
+59,Wielkość:select:0,Duży:0,3
+60,Kolor:select:0,Błękitny:0,6
+60,Kolor:select:1,Zielony:1,6
+60,Wielkość:select:0,Bardzo mały:0,4
+61,Kolor:select:0,Niebieski:0,3
+61,Wielkość:select:0,Bardzo duży:0,10
+61,Wielkość:select:1,Mały:1,10
+62,Kolor:select:0,Burgundowy:0,6
+62,Wielkość:select:0,Duży:0,9
+63,Kolor:select:0,Burgundowy:0,10
+63,Kolor:select:1,Lazurowy:1,7
+63,Kolor:select:2,Zielony:2,9
+63,Wielkość:select:0,Bardzo mały:0,3
+64,Kolor:select:0,Czerwony:0,5
+64,Kolor:select:1,Lazurowy:1,9
+64,Wielkość:select:0,Mały:0,1
+64,Wielkość:select:1,Bardzo duży:1,1
+65,Kolor:select:0,Czerwony:0,7
+65,Kolor:select:1,Niebieski:1,5
+65,Kolor:select:2,Błękitny:2,1
+65,Wielkość:select:0,Średni:0,7
+65,Wielkość:select:1,Duży:1,9
+66,Kolor:select:0,Pomarańczowy:0,3
+66,Wielkość:select:0,Mały:0,7
+67,Kolor:select:0,Zielony:0,10
+67,Kolor:select:1,Lazurowy:1,4
+67,Kolor:select:2,Burgundowy:2,7
+67,Wielkość:select:0,Duży:0,4
+67,Wielkość:select:1,Bardzo mały:1,5
+68,Kolor:select:0,Niebieski:0,10
+68,Wielkość:select:0,Duży:0,9
+68,Wielkość:select:1,Bardzo mały:1,2
+69,Kolor:select:0,Lazurowy:0,9
+69,Kolor:select:1,Burgundowy:1,1
+69,Wielkość:select:0,Bardzo mały:0,6
+70,Kolor:select:0,Błękitny:0,9
+70,Kolor:select:1,Czerwony:1,5
+70,Wielkość:select:0,Średni:0,4
+70,Wielkość:select:1,Mały:1,10
+71,Kolor:select:0,Błękitny:0,9
+71,Wielkość:select:0,Bardzo mały:0,5
+72,Kolor:select:0,Lazurowy:0,1
+72,Kolor:select:1,Zielony:1,7
+72,Kolor:select:2,Błękitny:2,5
+72,Wielkość:select:0,Duży:0,8
+72,Wielkość:select:1,Bardzo mały:1,1
+73,Kolor:select:0,Błękitny:0,10
+73,Wielkość:select:0,Bardzo duży:0,10
+74,Kolor:select:0,Niebieski:0,8
+74,Wielkość:select:0,Mały:0,2
+74,Wielkość:select:1,Bardzo mały:1,2
+75,Kolor:select:0,Lazurowy:0,5
+75,Kolor:select:1,Burgundowy:1,5
+75,Kolor:select:2,Czerwony:2,4
+75,Wielkość:select:0,Bardzo duży:0,9
+76,Kolor:select:0,Błękitny:0,3
+76,Kolor:select:1,Lazurowy:1,3
+76,Kolor:select:2,Burgundowy:2,5
+76,Wielkość:select:0,Duży:0,3
+77,Kolor:select:0,Czerwony:0,8
+77,Kolor:select:1,Burgundowy:1,10
+77,Kolor:select:2,Błękitny:2,4
+77,Wielkość:select:0,Duży:0,3
+77,Wielkość:select:1,Mały:1,9
+78,Kolor:select:0,Pomarańczowy:0,2
+78,Kolor:select:1,Burgundowy:1,4
+78,Wielkość:select:0,Bardzo mały:0,1
+79,Kolor:select:0,Niebieski:0,6
+79,Kolor:select:1,Czerwony:1,9
+79,Kolor:select:2,Lazurowy:2,3
+79,Wielkość:select:0,Mały:0,4
+79,Wielkość:select:1,Bardzo duży:1,1
+80,Kolor:select:0,Czerwony:0,10
+80,Kolor:select:1,Lazurowy:1,7
+80,Kolor:select:2,Pomarańczowy:2,10
+80,Wielkość:select:0,Bardzo duży:0,1
+81,Kolor:select:0,Zielony:0,7
+81,Kolor:select:1,Lazurowy:1,7
+81,Wielkość:select:0,Duży:0,2
+82,Kolor:select:0,Niebieski:0,2
+82,Kolor:select:1,Czerwony:1,1
+82,Wielkość:select:0,Mały:0,7
+83,Kolor:select:0,Zielony:0,6
+83,Wielkość:select:0,Średni:0,4
+84,Kolor:select:0,Błękitny:0,8
+84,Wielkość:select:0,Duży:0,9
+84,Wielkość:select:1,Bardzo mały:1,5
+85,Kolor:select:0,Błękitny:0,1
+85,Kolor:select:1,Czerwony:1,3
+85,Kolor:select:2,Lazurowy:2,2
+85,Wielkość:select:0,Bardzo mały:0,6
+86,Kolor:select:0,Zielony:0,1
+86,Kolor:select:1,Lazurowy:1,5
+86,Wielkość:select:0,Duży:0,5
+86,Wielkość:select:1,Mały:1,5
+87,Kolor:select:0,Niebieski:0,9
+87,Kolor:select:1,Pomarańczowy:1,5
+87,Kolor:select:2,Czerwony:2,5
+87,Wielkość:select:0,Duży:0,7
+88,Kolor:select:0,Czerwony:0,3
+88,Kolor:select:1,Błękitny:1,1
+88,Wielkość:select:0,Bardzo duży:0,4
+88,Wielkość:select:1,Średni:1,3
+89,Kolor:select:0,Lazurowy:0,4
+89,Kolor:select:1,Błękitny:1,7
+89,Kolor:select:2,Pomarańczowy:2,9
+89,Wielkość:select:0,Bardzo mały:0,6
+90,Kolor:select:0,Lazurowy:0,8
+90,Wielkość:select:0,Bardzo mały:0,3
+90,Wielkość:select:1,Mały:1,10
+91,Kolor:select:0,Pomarańczowy:0,4
+91,Kolor:select:1,Czerwony:1,6
+91,Kolor:select:2,Lazurowy:2,9
+91,Wielkość:select:0,Bardzo mały:0,5
+92,Kolor:select:0,Pomarańczowy:0,9
+92,Kolor:select:1,Lazurowy:1,7
+92,Wielkość:select:0,Bardzo mały:0,1
+93,Kolor:select:0,Zielony:0,2
+93,Kolor:select:1,Niebieski:1,3
+93,Kolor:select:2,Czerwony:2,4
+93,Wielkość:select:0,Duży:0,8
+94,Kolor:select:0,Czerwony:0,10
+94,Kolor:select:1,Niebieski:1,10
+94,Kolor:select:2,Błękitny:2,1
+94,Wielkość:select:0,Mały:0,8
+95,Kolor:select:0,Czerwony:0,4
+95,Kolor:select:1,Niebieski:1,6
+95,Wielkość:select:0,Mały:0,4
+95,Wielkość:select:1,Średni:1,6
+96,Kolor:select:0,Lazurowy:0,9
+96,Kolor:select:1,Burgundowy:1,1
+96,Wielkość:select:0,Bardzo duży:0,4
+97,Kolor:select:0,Burgundowy:0,1
+97,Wielkość:select:0,Bardzo mały:0,10
+98,Kolor:select:0,Pomarańczowy:0,8
+98,Kolor:select:1,Niebieski:1,1
+98,Kolor:select:2,Błękitny:2,1
+98,Wielkość:select:0,Bardzo mały:0,3
+99,Kolor:select:0,Niebieski:0,8
+99,Wielkość:select:0,Duży:0,10
+99,Wielkość:select:1,Średni:1,8
+100,Kolor:select:0,Zielony:0,8
+100,Wielkość:select:0,Duży:0,6
+101,Kolor:select:0,Pomarańczowy:0,4
+101,Kolor:select:1,Błękitny:1,10
+101,Wielkość:select:0,Bardzo mały:0,3
+101,Wielkość:select:1,Duży:1,4
+102,Kolor:select:0,Burgundowy:0,1
+102,Kolor:select:1,Pomarańczowy:1,3
+102,Wielkość:select:0,Średni:0,3
+102,Wielkość:select:1,Bardzo duży:1,4
+103,Kolor:select:0,Niebieski:0,3
+103,Wielkość:select:0,Mały:0,10
+104,Kolor:select:0,Błękitny:0,2
+104,Kolor:select:1,Burgundowy:1,4
+104,Wielkość:select:0,Mały:0,2
+105,Kolor:select:0,Czerwony:0,7
+105,Wielkość:select:0,Bardzo duży:0,9
+105,Wielkość:select:1,Mały:1,1
+106,Kolor:select:0,Zielony:0,1
+106,Wielkość:select:0,Mały:0,4
+106,Wielkość:select:1,Duży:1,1
+107,Kolor:select:0,Lazurowy:0,9
+107,Wielkość:select:0,Bardzo duży:0,8
+107,Wielkość:select:1,Bardzo mały:1,3
+108,Kolor:select:0,Pomarańczowy:0,3
+108,Wielkość:select:0,Średni:0,1
+108,Wielkość:select:1,Bardzo duży:1,1
+109,Kolor:select:0,Niebieski:0,4
+109,Kolor:select:1,Czerwony:1,1
+109,Wielkość:select:0,Bardzo duży:0,6
+110,Kolor:select:0,Niebieski:0,4
+110,Kolor:select:1,Zielony:1,1
+110,Wielkość:select:0,Mały:0,7
+110,Wielkość:select:1,Duży:1,10
+111,Kolor:select:0,Czerwony:0,10
+111,Kolor:select:1,Zielony:1,6
+111,Kolor:select:2,Burgundowy:2,10
+111,Wielkość:select:0,Mały:0,5
+112,Kolor:select:0,Lazurowy:0,7
+112,Kolor:select:1,Burgundowy:1,9
+112,Wielkość:select:0,Duży:0,2
+112,Wielkość:select:1,Średni:1,10
+113,Kolor:select:0,Błękitny:0,8
+113,Wielkość:select:0,Średni:0,5
+113,Wielkość:select:1,Mały:1,9
+114,Kolor:select:0,Burgundowy:0,2
+114,Kolor:select:1,Niebieski:1,5
+114,Kolor:select:2,Czerwony:2,7
+114,Wielkość:select:0,Bardzo duży:0,4
+114,Wielkość:select:1,Średni:1,8
+115,Kolor:select:0,Czerwony:0,3
+115,Kolor:select:1,Burgundowy:1,10
+115,Wielkość:select:0,Mały:0,5
+115,Wielkość:select:1,Duży:1,2
+116,Kolor:select:0,Niebieski:0,9
+116,Kolor:select:1,Błękitny:1,7
+116,Wielkość:select:0,Średni:0,3
+116,Wielkość:select:1,Mały:1,9
+117,Kolor:select:0,Pomarańczowy:0,9
+117,Wielkość:select:0,Bardzo duży:0,5
+117,Wielkość:select:1,Mały:1,8
+118,Kolor:select:0,Czerwony:0,5
+118,Kolor:select:1,Burgundowy:1,8
+118,Wielkość:select:0,Duży:0,8
+118,Wielkość:select:1,Bardzo duży:1,6
+119,Kolor:select:0,Pomarańczowy:0,10
+119,Kolor:select:1,Niebieski:1,2
+119,Wielkość:select:0,Mały:0,7
+120,Kolor:select:0,Błękitny:0,4
+120,Kolor:select:1,Niebieski:1,8
+120,Kolor:select:2,Pomarańczowy:2,8
+120,Wielkość:select:0,Bardzo mały:0,10
+121,Kolor:select:0,Burgundowy:0,3
+121,Wielkość:select:0,Bardzo mały:0,9
+121,Wielkość:select:1,Bardzo duży:1,8
+122,Kolor:select:0,Lazurowy:0,2
+122,Kolor:select:1,Pomarańczowy:1,1
+122,Kolor:select:2,Burgundowy:2,3
+122,Wielkość:select:0,Bardzo mały:0,2
+123,Kolor:select:0,Lazurowy:0,1
+123,Kolor:select:1,Burgundowy:1,9
+123,Kolor:select:2,Zielony:2,8
+123,Wielkość:select:0,Mały:0,7
+124,Kolor:select:0,Niebieski:0,8
+124,Kolor:select:1,Lazurowy:1,8
+124,Wielkość:select:0,Bardzo mały:0,10
+124,Wielkość:select:1,Średni:1,6
+125,Kolor:select:0,Pomarańczowy:0,7
+125,Kolor:select:1,Burgundowy:1,9
+125,Kolor:select:2,Zielony:2,2
+125,Wielkość:select:0,Bardzo duży:0,1
+125,Wielkość:select:1,Średni:1,10
+126,Kolor:select:0,Błękitny:0,6
+126,Kolor:select:1,Burgundowy:1,10
+126,Wielkość:select:0,Bardzo mały:0,3
+126,Wielkość:select:1,Duży:1,7
+127,Kolor:select:0,Burgundowy:0,7
+127,Kolor:select:1,Czerwony:1,3
+127,Kolor:select:2,Lazurowy:2,6
+127,Wielkość:select:0,Średni:0,2
+127,Wielkość:select:1,Mały:1,4
+128,Kolor:select:0,Błękitny:0,10
+128,Wielkość:select:0,Średni:0,10
+129,Kolor:select:0,Czerwony:0,3
+129,Wielkość:select:0,Bardzo mały:0,9
+130,Kolor:select:0,Niebieski:0,8
+130,Kolor:select:1,Pomarańczowy:1,4
+130,Kolor:select:2,Błękitny:2,10
+130,Wielkość:select:0,Średni:0,8
+130,Wielkość:select:1,Duży:1,10
+131,Kolor:select:0,Błękitny:0,8
+131,Kolor:select:1,Zielony:1,7
+131,Kolor:select:2,Lazurowy:2,8
+131,Wielkość:select:0,Bardzo duży:0,1
+131,Wielkość:select:1,Bardzo mały:1,6
+132,Kolor:select:0,Niebieski:0,1
+132,Wielkość:select:0,Bardzo duży:0,8
+133,Kolor:select:0,Czerwony:0,4
+133,Kolor:select:1,Lazurowy:1,4
+133,Wielkość:select:0,Bardzo mały:0,1
+134,Kolor:select:0,Burgundowy:0,2
+134,Kolor:select:1,Zielony:1,8
+134,Kolor:select:2,Czerwony:2,7
+134,Wielkość:select:0,Duży:0,10
+134,Wielkość:select:1,Bardzo mały:1,10
+135,Kolor:select:0,Pomarańczowy:0,4
+135,Wielkość:select:0,Średni:0,7
+135,Wielkość:select:1,Bardzo duży:1,1
+136,Kolor:select:0,Błękitny:0,2
+136,Kolor:select:1,Czerwony:1,10
+136,Kolor:select:2,Niebieski:2,8
+136,Wielkość:select:0,Bardzo duży:0,10
+136,Wielkość:select:1,Bardzo mały:1,8
+137,Kolor:select:0,Pomarańczowy:0,4
+137,Kolor:select:1,Lazurowy:1,6
+137,Kolor:select:2,Niebieski:2,6
+137,Wielkość:select:0,Średni:0,1
+138,Kolor:select:0,Niebieski:0,4
+138,Kolor:select:1,Burgundowy:1,6
+138,Kolor:select:2,Lazurowy:2,1
+138,Wielkość:select:0,Duży:0,5
+138,Wielkość:select:1,Średni:1,8
+139,Kolor:select:0,Burgundowy:0,8
+139,Wielkość:select:0,Bardzo mały:0,1
+139,Wielkość:select:1,Średni:1,1
+140,Kolor:select:0,Błękitny:0,7
+140,Wielkość:select:0,Duży:0,9
+141,Kolor:select:0,Błękitny:0,10
+141,Kolor:select:1,Lazurowy:1,6
+141,Wielkość:select:0,Mały:0,3
+141,Wielkość:select:1,Bardzo duży:1,3
+142,Kolor:select:0,Burgundowy:0,6
+142,Wielkość:select:0,Bardzo mały:0,8
+143,Kolor:select:0,Błękitny:0,2
+143,Wielkość:select:0,Duży:0,8
+144,Kolor:select:0,Burgundowy:0,2
+144,Wielkość:select:0,Bardzo mały:0,6
+145,Kolor:select:0,Błękitny:0,7
+145,Wielkość:select:0,Duży:0,3
+145,Wielkość:select:1,Bardzo mały:1,1
+146,Kolor:select:0,Pomarańczowy:0,8
+146,Kolor:select:1,Lazurowy:1,2
+146,Kolor:select:2,Zielony:2,6
+146,Wielkość:select:0,Bardzo mały:0,6
+147,Kolor:select:0,Zielony:0,8
+147,Kolor:select:1,Pomarańczowy:1,8
+147,Wielkość:select:0,Bardzo duży:0,7
+148,Kolor:select:0,Burgundowy:0,9
+148,Kolor:select:1,Lazurowy:1,7
+148,Kolor:select:2,Czerwony:2,6
+148,Wielkość:select:0,Bardzo duży:0,4
+149,Kolor:select:0,Błękitny:0,6
+149,Kolor:select:1,Czerwony:1,2
+149,Kolor:select:2,Niebieski:2,9
+149,Wielkość:select:0,Średni:0,10
+149,Wielkość:select:1,Duży:1,7
+150,Kolor:select:0,Pomarańczowy:0,5
+150,Kolor:select:1,Błękitny:1,8
+150,Kolor:select:2,Czerwony:2,7
+150,Wielkość:select:0,Mały:0,2
+151,Kolor:select:0,Zielony:0,4
+151,Kolor:select:1,Niebieski:1,4
+151,Kolor:select:2,Czerwony:2,5
+151,Wielkość:select:0,Mały:0,3
+151,Wielkość:select:1,Bardzo mały:1,1
+152,Kolor:select:0,Lazurowy:0,3
+152,Wielkość:select:0,Bardzo duży:0,9
+153,Kolor:select:0,Lazurowy:0,9
+153,Kolor:select:1,Czerwony:1,6
+153,Wielkość:select:0,Bardzo duży:0,1
+154,Kolor:select:0,Czerwony:0,9
+154,Kolor:select:1,Niebieski:1,6
+154,Kolor:select:2,Lazurowy:2,3
+154,Wielkość:select:0,Mały:0,8
+155,Kolor:select:0,Niebieski:0,3
+155,Kolor:select:1,Błękitny:1,10
+155,Kolor:select:2,Burgundowy:2,6
+155,Wielkość:select:0,Duży:0,1
+155,Wielkość:select:1,Mały:1,2
+156,Kolor:select:0,Błękitny:0,2
+156,Kolor:select:1,Pomarańczowy:1,10
+156,Kolor:select:2,Czerwony:2,7
+156,Wielkość:select:0,Średni:0,3
+156,Wielkość:select:1,Duży:1,8
+157,Kolor:select:0,Lazurowy:0,9
+157,Kolor:select:1,Zielony:1,6
+157,Wielkość:select:0,Bardzo mały:0,7
+158,Kolor:select:0,Pomarańczowy:0,6
+158,Wielkość:select:0,Bardzo duży:0,2
+159,Kolor:select:0,Czerwony:0,1
+159,Kolor:select:1,Niebieski:1,10
+159,Kolor:select:2,Błękitny:2,3
+159,Wielkość:select:0,Bardzo duży:0,8
+159,Wielkość:select:1,Średni:1,4
+160,Kolor:select:0,Pomarańczowy:0,4
+160,Wielkość:select:0,Mały:0,5
+160,Wielkość:select:1,Średni:1,7
+161,Kolor:select:0,Niebieski:0,1
+161,Wielkość:select:0,Średni:0,10
+161,Wielkość:select:1,Bardzo duży:1,3
+162,Kolor:select:0,Zielony:0,9
+162,Wielkość:select:0,Bardzo duży:0,5
+163,Kolor:select:0,Błękitny:0,10
+163,Wielkość:select:0,Średni:0,2
+163,Wielkość:select:1,Bardzo duży:1,3
+164,Kolor:select:0,Czerwony:0,4
+164,Wielkość:select:0,Średni:0,2
+164,Wielkość:select:1,Bardzo duży:1,1
+165,Kolor:select:0,Czerwony:0,8
+165,Kolor:select:1,Pomarańczowy:1,9
+165,Kolor:select:2,Zielony:2,7
+165,Wielkość:select:0,Średni:0,6
+165,Wielkość:select:1,Duży:1,6
+166,Kolor:select:0,Lazurowy:0,10
+166,Kolor:select:1,Zielony:1,9
+166,Kolor:select:2,Błękitny:2,3
+166,Wielkość:select:0,Średni:0,1
+167,Kolor:select:0,Czerwony:0,4
+167,Kolor:select:1,Pomarańczowy:1,4
+167,Wielkość:select:0,Duży:0,2
+167,Wielkość:select:1,Bardzo mały:1,2
+168,Kolor:select:0,Niebieski:0,3
+168,Kolor:select:1,Błękitny:1,1
+168,Kolor:select:2,Burgundowy:2,4
+168,Wielkość:select:0,Bardzo duży:0,4
+169,Kolor:select:0,Burgundowy:0,6
+169,Kolor:select:1,Czerwony:1,8
+169,Wielkość:select:0,Bardzo mały:0,6
+169,Wielkość:select:1,Duży:1,5
+170,Kolor:select:0,Lazurowy:0,3
+170,Kolor:select:1,Zielony:1,9
+170,Kolor:select:2,Pomarańczowy:2,9
+170,Wielkość:select:0,Mały:0,9
+171,Kolor:select:0,Czerwony:0,5
+171,Wielkość:select:0,Średni:0,6
+171,Wielkość:select:1,Duży:1,1
+172,Kolor:select:0,Lazurowy:0,3
+172,Kolor:select:1,Burgundowy:1,6
+172,Wielkość:select:0,Bardzo mały:0,5
+173,Kolor:select:0,Niebieski:0,10
+173,Kolor:select:1,Pomarańczowy:1,2
+173,Wielkość:select:0,Bardzo mały:0,2
+174,Kolor:select:0,Burgundowy:0,6
+174,Kolor:select:1,Zielony:1,7
+174,Wielkość:select:0,Duży:0,9
+175,Kolor:select:0,Lazurowy:0,3
+175,Kolor:select:1,Burgundowy:1,9
+175,Kolor:select:2,Zielony:2,1
+175,Wielkość:select:0,Bardzo mały:0,7
+175,Wielkość:select:1,Średni:1,3
+176,Kolor:select:0,Niebieski:0,6
+176,Wielkość:select:0,Bardzo mały:0,6
+176,Wielkość:select:1,Średni:1,3
+177,Kolor:select:0,Niebieski:0,9
+177,Kolor:select:1,Lazurowy:1,10
+177,Wielkość:select:0,Mały:0,1
+177,Wielkość:select:1,Duży:1,1
+178,Kolor:select:0,Pomarańczowy:0,3
+178,Kolor:select:1,Burgundowy:1,8
+178,Wielkość:select:0,Duży:0,2
+178,Wielkość:select:1,Bardzo duży:1,9
+179,Kolor:select:0,Błękitny:0,2
+179,Wielkość:select:0,Bardzo duży:0,4
+179,Wielkość:select:1,Duży:1,7
+180,Kolor:select:0,Błękitny:0,6
+180,Wielkość:select:0,Bardzo duży:0,1
+181,Kolor:select:0,Pomarańczowy:0,2
+181,Wielkość:select:0,Bardzo duży:0,3
+182,Kolor:select:0,Błękitny:0,2
+182,Kolor:select:1,Czerwony:1,7
+182,Kolor:select:2,Niebieski:2,2
+182,Wielkość:select:0,Duży:0,3
+183,Kolor:select:0,Zielony:0,2
+183,Kolor:select:1,Burgundowy:1,7
+183,Wielkość:select:0,Średni:0,4
+184,Kolor:select:0,Błękitny:0,9
+184,Kolor:select:1,Czerwony:1,10
+184,Wielkość:select:0,Mały:0,3
+185,Kolor:select:0,Burgundowy:0,2
+185,Wielkość:select:0,Średni:0,10
+185,Wielkość:select:1,Mały:1,2
+186,Kolor:select:0,Zielony:0,2
+186,Kolor:select:1,Błękitny:1,6
+186,Wielkość:select:0,Bardzo duży:0,6
+186,Wielkość:select:1,Duży:1,3
+187,Kolor:select:0,Burgundowy:0,9
+187,Kolor:select:1,Błękitny:1,2
+187,Kolor:select:2,Pomarańczowy:2,2
+187,Wielkość:select:0,Duży:0,10
+188,Kolor:select:0,Błękitny:0,8
+188,Wielkość:select:0,Średni:0,7
+189,Kolor:select:0,Niebieski:0,8
+189,Wielkość:select:0,Bardzo duży:0,3
+190,Kolor:select:0,Niebieski:0,6
+190,Wielkość:select:0,Duży:0,2
+190,Wielkość:select:1,Bardzo duży:1,5
+191,Kolor:select:0,Czerwony:0,3
+191,Kolor:select:1,Pomarańczowy:1,7
+191,Wielkość:select:0,Bardzo duży:0,3
+191,Wielkość:select:1,Średni:1,5
+192,Kolor:select:0,Błękitny:0,6
+192,Kolor:select:1,Pomarańczowy:1,7
+192,Wielkość:select:0,Bardzo mały:0,4
+193,Kolor:select:0,Niebieski:0,6
+193,Kolor:select:1,Czerwony:1,5
+193,Kolor:select:2,Pomarańczowy:2,2
+193,Wielkość:select:0,Bardzo mały:0,5
+193,Wielkość:select:1,Mały:1,1
+194,Kolor:select:0,Niebieski:0,4
+194,Kolor:select:1,Błękitny:1,10
+194,Kolor:select:2,Czerwony:2,1
+194,Wielkość:select:0,Bardzo duży:0,1
+194,Wielkość:select:1,Średni:1,4
+195,Kolor:select:0,Zielony:0,10
+195,Kolor:select:1,Niebieski:1,9
+195,Wielkość:select:0,Bardzo mały:0,5
+196,Kolor:select:0,Lazurowy:0,3
+196,Kolor:select:1,Burgundowy:1,9
+196,Kolor:select:2,Pomarańczowy:2,10
+196,Wielkość:select:0,Średni:0,2
+197,Kolor:select:0,Burgundowy:0,10
+197,Wielkość:select:0,Bardzo mały:0,3
+197,Wielkość:select:1,Średni:1,3
+198,Kolor:select:0,Lazurowy:0,2
+198,Kolor:select:1,Burgundowy:1,7
+198,Wielkość:select:0,Bardzo duży:0,1
+199,Kolor:select:0,Czerwony:0,5
+199,Kolor:select:1,Burgundowy:1,9
+199,Wielkość:select:0,Duży:0,9
+199,Wielkość:select:1,Mały:1,8
+200,Kolor:select:0,Burgundowy:0,3
+200,Kolor:select:1,Pomarańczowy:1,1
+200,Kolor:select:2,Lazurowy:2,5
+200,Wielkość:select:0,Bardzo mały:0,6
+200,Wielkość:select:1,Duży:1,7
+201,Kolor:select:0,Pomarańczowy:0,9
+201,Wielkość:select:0,Średni:0,9
+202,Kolor:select:0,Burgundowy:0,5
+202,Wielkość:select:0,Mały:0,9
+203,Kolor:select:0,Czerwony:0,8
+203,Wielkość:select:0,Średni:0,2
+204,Kolor:select:0,Błękitny:0,3
+204,Wielkość:select:0,Bardzo mały:0,3
+205,Kolor:select:0,Niebieski:0,5
+205,Wielkość:select:0,Duży:0,1
+206,Kolor:select:0,Niebieski:0,5
+206,Kolor:select:1,Błękitny:1,10
+206,Wielkość:select:0,Bardzo mały:0,2
+206,Wielkość:select:1,Średni:1,2
+207,Kolor:select:0,Pomarańczowy:0,2
+207,Kolor:select:1,Burgundowy:1,9
+207,Kolor:select:2,Czerwony:2,8
+207,Wielkość:select:0,Mały:0,2
+207,Wielkość:select:1,Duży:1,7
+208,Kolor:select:0,Burgundowy:0,1
+208,Kolor:select:1,Czerwony:1,3
+208,Kolor:select:2,Błękitny:2,3
+208,Wielkość:select:0,Duży:0,1
+208,Wielkość:select:1,Średni:1,7
+209,Kolor:select:0,Niebieski:0,7
+209,Wielkość:select:0,Bardzo duży:0,6
+210,Kolor:select:0,Czerwony:0,4
+210,Wielkość:select:0,Bardzo duży:0,7
+211,Kolor:select:0,Lazurowy:0,6
+211,Wielkość:select:0,Bardzo duży:0,5
+212,Kolor:select:0,Czerwony:0,2
+212,Wielkość:select:0,Bardzo mały:0,6
+212,Wielkość:select:1,Bardzo duży:1,1
+213,Kolor:select:0,Błękitny:0,5
+213,Kolor:select:1,Czerwony:1,3
+213,Wielkość:select:0,Średni:0,1
+214,Kolor:select:0,Zielony:0,6
+214,Kolor:select:1,Burgundowy:1,7
+214,Kolor:select:2,Niebieski:2,6
+214,Wielkość:select:0,Średni:0,2
+214,Wielkość:select:1,Bardzo mały:1,3
+215,Kolor:select:0,Lazurowy:0,7
+215,Kolor:select:1,Burgundowy:1,3
+215,Kolor:select:2,Błękitny:2,8
+215,Wielkość:select:0,Mały:0,7
+215,Wielkość:select:1,Bardzo duży:1,6
+216,Kolor:select:0,Błękitny:0,8
+216,Kolor:select:1,Czerwony:1,8
+216,Wielkość:select:0,Mały:0,5
+216,Wielkość:select:1,Bardzo mały:1,6
+217,Kolor:select:0,Czerwony:0,1
+217,Wielkość:select:0,Mały:0,7
+217,Wielkość:select:1,Średni:1,7
+218,Kolor:select:0,Pomarańczowy:0,3
+218,Kolor:select:1,Lazurowy:1,5
+218,Wielkość:select:0,Mały:0,7
+219,Kolor:select:0,Lazurowy:0,5
+219,Kolor:select:1,Burgundowy:1,1
+219,Wielkość:select:0,Średni:0,7
+219,Wielkość:select:1,Mały:1,2
+220,Kolor:select:0,Pomarańczowy:0,8
+220,Wielkość:select:0,Duży:0,6
+220,Wielkość:select:1,Bardzo duży:1,6
+221,Kolor:select:0,Czerwony:0,8
+221,Kolor:select:1,Niebieski:1,10
+221,Kolor:select:2,Lazurowy:2,2
+221,Wielkość:select:0,Mały:0,3
+222,Kolor:select:0,Niebieski:0,3
+222,Kolor:select:1,Pomarańczowy:1,8
+222,Kolor:select:2,Lazurowy:2,4
+222,Wielkość:select:0,Średni:0,8
+222,Wielkość:select:1,Mały:1,5
+223,Kolor:select:0,Czerwony:0,2
+223,Wielkość:select:0,Bardzo duży:0,6
+224,Kolor:select:0,Burgundowy:0,7
+224,Kolor:select:1,Czerwony:1,1
+224,Kolor:select:2,Błękitny:2,4
+224,Wielkość:select:0,Duży:0,8
+224,Wielkość:select:1,Bardzo mały:1,10
+225,Kolor:select:0,Lazurowy:0,4
+225,Kolor:select:1,Pomarańczowy:1,10
+225,Wielkość:select:0,Mały:0,10
+226,Kolor:select:0,Niebieski:0,6
+226,Wielkość:select:0,Bardzo duży:0,8
+226,Wielkość:select:1,Duży:1,6
+227,Kolor:select:0,Pomarańczowy:0,7
+227,Kolor:select:1,Czerwony:1,8
+227,Kolor:select:2,Błękitny:2,2
+227,Wielkość:select:0,Bardzo mały:0,3
+228,Kolor:select:0,Zielony:0,3
+228,Kolor:select:1,Niebieski:1,2
+228,Kolor:select:2,Czerwony:2,10
+228,Wielkość:select:0,Średni:0,2
+228,Wielkość:select:1,Duży:1,4
+229,Kolor:select:0,Błękitny:0,6
+229,Wielkość:select:0,Średni:0,7
+230,Kolor:select:0,Lazurowy:0,5
+230,Kolor:select:1,Niebieski:1,8
+230,Kolor:select:2,Burgundowy:2,9
+230,Wielkość:select:0,Średni:0,7
+230,Wielkość:select:1,Mały:1,7
+231,Kolor:select:0,Niebieski:0,1
+231,Kolor:select:1,Burgundowy:1,8
+231,Kolor:select:2,Lazurowy:2,10
+231,Wielkość:select:0,Mały:0,7
+232,Kolor:select:0,Pomarańczowy:0,8
+232,Kolor:select:1,Niebieski:1,10
+232,Kolor:select:2,Lazurowy:2,6
+232,Wielkość:select:0,Bardzo mały:0,9
+233,Kolor:select:0,Zielony:0,10
+233,Kolor:select:1,Pomarańczowy:1,2
+233,Wielkość:select:0,Bardzo mały:0,1
+234,Kolor:select:0,Czerwony:0,5
+234,Kolor:select:1,Pomarańczowy:1,7
+234,Wielkość:select:0,Duży:0,4
+235,Kolor:select:0,Zielony:0,8
+235,Kolor:select:1,Pomarańczowy:1,8
+235,Wielkość:select:0,Bardzo duży:0,4
+235,Wielkość:select:1,Bardzo mały:1,5
+236,Kolor:select:0,Błękitny:0,5
+236,Wielkość:select:0,Mały:0,2
+236,Wielkość:select:1,Średni:1,9
+237,Kolor:select:0,Burgundowy:0,7
+237,Wielkość:select:0,Bardzo duży:0,2
+237,Wielkość:select:1,Duży:1,5
+238,Kolor:select:0,Zielony:0,2
+238,Kolor:select:1,Błękitny:1,9
+238,Wielkość:select:0,Średni:0,5
+238,Wielkość:select:1,Bardzo duży:1,3
+239,Kolor:select:0,Czerwony:0,6
+239,Kolor:select:1,Niebieski:1,4
+239,Kolor:select:2,Lazurowy:2,9
+239,Wielkość:select:0,Bardzo mały:0,6
+239,Wielkość:select:1,Duży:1,9
+240,Kolor:select:0,Zielony:0,2
+240,Kolor:select:1,Burgundowy:1,7
+240,Wielkość:select:0,Mały:0,6
+241,Kolor:select:0,Niebieski:0,2
+241,Wielkość:select:0,Bardzo mały:0,2
+241,Wielkość:select:1,Mały:1,4
+242,Kolor:select:0,Lazurowy:0,2
+242,Kolor:select:1,Niebieski:1,6
+242,Wielkość:select:0,Mały:0,7
+242,Wielkość:select:1,Duży:1,3
+243,Kolor:select:0,Lazurowy:0,5
+243,Kolor:select:1,Zielony:1,6
+243,Wielkość:select:0,Duży:0,1
+243,Wielkość:select:1,Średni:1,10
+244,Kolor:select:0,Niebieski:0,2
+244,Kolor:select:1,Pomarańczowy:1,1
+244,Wielkość:select:0,Mały:0,8
+244,Wielkość:select:1,Bardzo duży:1,8
+245,Kolor:select:0,Niebieski:0,5
+245,Kolor:select:1,Pomarańczowy:1,8
+245,Kolor:select:2,Błękitny:2,6
+245,Wielkość:select:0,Mały:0,1
+245,Wielkość:select:1,Bardzo duży:1,8
+246,Kolor:select:0,Pomarańczowy:0,2
+246,Kolor:select:1,Czerwony:1,2
+246,Wielkość:select:0,Duży:0,9
+247,Kolor:select:0,Czerwony:0,6
+247,Kolor:select:1,Pomarańczowy:1,9
+247,Wielkość:select:0,Bardzo mały:0,6
+247,Wielkość:select:1,Mały:1,3
+248,Kolor:select:0,Burgundowy:0,8
+248,Kolor:select:1,Lazurowy:1,6
+248,Wielkość:select:0,Duży:0,2
+248,Wielkość:select:1,Bardzo duży:1,8
+249,Kolor:select:0,Pomarańczowy:0,7
+249,Wielkość:select:0,Bardzo mały:0,8
+249,Wielkość:select:1,Mały:1,1
+250,Kolor:select:0,Burgundowy:0,2
+250,Kolor:select:1,Zielony:1,10
+250,Kolor:select:2,Czerwony:2,9
+250,Wielkość:select:0,Średni:0,1
+250,Wielkość:select:1,Duży:1,7
+251,Kolor:select:0,Burgundowy:0,1
+251,Wielkość:select:0,Bardzo duży:0,6
+252,Kolor:select:0,Błękitny:0,10
+252,Kolor:select:1,Pomarańczowy:1,3
+252,Wielkość:select:0,Mały:0,9
+252,Wielkość:select:1,Średni:1,3
+253,Kolor:select:0,Niebieski:0,7
+253,Kolor:select:1,Lazurowy:1,7
+253,Kolor:select:2,Burgundowy:2,4
+253,Wielkość:select:0,Mały:0,3
+254,Kolor:select:0,Niebieski:0,3
+254,Wielkość:select:0,Bardzo duży:0,6
+254,Wielkość:select:1,Mały:1,3
+255,Kolor:select:0,Niebieski:0,2
+255,Wielkość:select:0,Duży:0,7
+255,Wielkość:select:1,Mały:1,7
+256,Kolor:select:0,Niebieski:0,1
+256,Wielkość:select:0,Bardzo mały:0,7
+256,Wielkość:select:1,Duży:1,10
+257,Kolor:select:0,Niebieski:0,4
+257,Kolor:select:1,Pomarańczowy:1,8
+257,Wielkość:select:0,Bardzo duży:0,3
+258,Kolor:select:0,Zielony:0,10
+258,Kolor:select:1,Czerwony:1,10
+258,Wielkość:select:0,Bardzo duży:0,2
+259,Kolor:select:0,Czerwony:0,4
+259,Wielkość:select:0,Średni:0,9
+260,Kolor:select:0,Zielony:0,1
+260,Kolor:select:1,Czerwony:1,8
+260,Wielkość:select:0,Duży:0,4
+260,Wielkość:select:1,Bardzo duży:1,7
+261,Kolor:select:0,Burgundowy:0,5
+261,Wielkość:select:0,Bardzo mały:0,10
+261,Wielkość:select:1,Średni:1,2
+262,Kolor:select:0,Pomarańczowy:0,6
+262,Wielkość:select:0,Duży:0,8
+262,Wielkość:select:1,Bardzo mały:1,9
+263,Kolor:select:0,Błękitny:0,6
+263,Kolor:select:1,Niebieski:1,5
+263,Kolor:select:2,Czerwony:2,7
+263,Wielkość:select:0,Średni:0,3
+264,Kolor:select:0,Zielony:0,4
+264,Kolor:select:1,Niebieski:1,6
+264,Kolor:select:2,Lazurowy:2,4
+264,Wielkość:select:0,Średni:0,6
+264,Wielkość:select:1,Bardzo duży:1,1
+265,Kolor:select:0,Błękitny:0,9
+265,Kolor:select:1,Lazurowy:1,6
+265,Kolor:select:2,Pomarańczowy:2,10
+265,Wielkość:select:0,Bardzo duży:0,8
+266,Kolor:select:0,Niebieski:0,1
+266,Kolor:select:1,Pomarańczowy:1,10
+266,Kolor:select:2,Zielony:2,2
+266,Wielkość:select:0,Bardzo duży:0,1
+266,Wielkość:select:1,Bardzo mały:1,4
+267,Kolor:select:0,Pomarańczowy:0,8
+267,Wielkość:select:0,Duży:0,9
+268,Kolor:select:0,Niebieski:0,7
+268,Wielkość:select:0,Duży:0,6
+269,Kolor:select:0,Czerwony:0,8
+269,Kolor:select:1,Pomarańczowy:1,2
+269,Kolor:select:2,Lazurowy:2,8
+269,Wielkość:select:0,Średni:0,10
+270,Kolor:select:0,Pomarańczowy:0,1
+270,Wielkość:select:0,Duży:0,2
+271,Kolor:select:0,Niebieski:0,3
+271,Wielkość:select:0,Bardzo mały:0,7
+272,Kolor:select:0,Lazurowy:0,8
+272,Kolor:select:1,Błękitny:1,6
+272,Wielkość:select:0,Średni:0,2
+273,Kolor:select:0,Błękitny:0,3
+273,Kolor:select:1,Burgundowy:1,1
+273,Wielkość:select:0,Bardzo mały:0,10
+274,Kolor:select:0,Czerwony:0,5
+274,Wielkość:select:0,Bardzo mały:0,8
+275,Kolor:select:0,Zielony:0,10
+275,Kolor:select:1,Burgundowy:1,7
+275,Wielkość:select:0,Średni:0,10
+276,Kolor:select:0,Zielony:0,1
+276,Kolor:select:1,Niebieski:1,10
+276,Wielkość:select:0,Mały:0,7
+277,Kolor:select:0,Niebieski:0,2
+277,Kolor:select:1,Burgundowy:1,7
+277,Kolor:select:2,Lazurowy:2,9
+277,Wielkość:select:0,Średni:0,1
+277,Wielkość:select:1,Bardzo mały:1,9
+278,Kolor:select:0,Niebieski:0,10
+278,Kolor:select:1,Pomarańczowy:1,5
+278,Wielkość:select:0,Bardzo duży:0,10
+278,Wielkość:select:1,Bardzo mały:1,7
+279,Kolor:select:0,Lazurowy:0,7
+279,Kolor:select:1,Błękitny:1,5
+279,Kolor:select:2,Burgundowy:2,5
+279,Wielkość:select:0,Duży:0,5
+280,Kolor:select:0,Niebieski:0,1
+280,Kolor:select:1,Zielony:1,3
+280,Kolor:select:2,Pomarańczowy:2,5
+280,Wielkość:select:0,Bardzo duży:0,2
+280,Wielkość:select:1,Mały:1,10
+281,Kolor:select:0,Lazurowy:0,1
+281,Kolor:select:1,Pomarańczowy:1,5
+281,Wielkość:select:0,Średni:0,4
+282,Kolor:select:0,Zielony:0,2
+282,Kolor:select:1,Czerwony:1,3
+282,Kolor:select:2,Pomarańczowy:2,2
+282,Wielkość:select:0,Bardzo mały:0,1
+282,Wielkość:select:1,Bardzo duży:1,3
+283,Kolor:select:0,Burgundowy:0,10
+283,Kolor:select:1,Błękitny:1,4
+283,Kolor:select:2,Lazurowy:2,4
+283,Wielkość:select:0,Średni:0,6
+283,Wielkość:select:1,Mały:1,10
+284,Kolor:select:0,Zielony:0,1
+284,Kolor:select:1,Niebieski:1,2
+284,Wielkość:select:0,Średni:0,1
+285,Kolor:select:0,Niebieski:0,1
+285,Kolor:select:1,Zielony:1,7
+285,Kolor:select:2,Błękitny:2,10
+285,Wielkość:select:0,Mały:0,6
+286,Kolor:select:0,Niebieski:0,5
+286,Kolor:select:1,Zielony:1,3
+286,Kolor:select:2,Burgundowy:2,1
+286,Wielkość:select:0,Średni:0,8
+287,Kolor:select:0,Pomarańczowy:0,2
+287,Kolor:select:1,Lazurowy:1,5
+287,Kolor:select:2,Niebieski:2,1
+287,Wielkość:select:0,Mały:0,4
+288,Kolor:select:0,Burgundowy:0,2
+288,Kolor:select:1,Lazurowy:1,8
+288,Wielkość:select:0,Duży:0,5
+289,Kolor:select:0,Błękitny:0,5
+289,Wielkość:select:0,Duży:0,10
+290,Kolor:select:0,Czerwony:0,1
+290,Kolor:select:1,Pomarańczowy:1,7
+290,Wielkość:select:0,Duży:0,7
+290,Wielkość:select:1,Bardzo duży:1,5
+291,Kolor:select:0,Błękitny:0,8
+291,Kolor:select:1,Pomarańczowy:1,3
+291,Wielkość:select:0,Mały:0,10
+291,Wielkość:select:1,Średni:1,3
+292,Kolor:select:0,Pomarańczowy:0,5
+292,Kolor:select:1,Lazurowy:1,7
+292,Kolor:select:2,Zielony:2,5
+292,Wielkość:select:0,Bardzo duży:0,7
+293,Kolor:select:0,Błękitny:0,5
+293,Wielkość:select:0,Duży:0,1
+293,Wielkość:select:1,Bardzo duży:1,2
+294,Kolor:select:0,Lazurowy:0,5
+294,Kolor:select:1,Błękitny:1,10
+294,Wielkość:select:0,Mały:0,8
+294,Wielkość:select:1,Średni:1,4
+295,Kolor:select:0,Zielony:0,10
+295,Wielkość:select:0,Bardzo mały:0,1
+295,Wielkość:select:1,Duży:1,6
+296,Kolor:select:0,Błękitny:0,5
+296,Wielkość:select:0,Bardzo duży:0,5
+297,Kolor:select:0,Czerwony:0,9
+297,Kolor:select:1,Burgundowy:1,10
+297,Wielkość:select:0,Mały:0,5
+298,Kolor:select:0,Burgundowy:0,1
+298,Wielkość:select:0,Bardzo duży:0,1
+299,Kolor:select:0,Czerwony:0,10
+299,Kolor:select:1,Błękitny:1,4
+299,Wielkość:select:0,Bardzo duży:0,5
+300,Kolor:select:0,Czerwony:0,10
+300,Kolor:select:1,Niebieski:1,2
+300,Wielkość:select:0,Mały:0,5
+300,Wielkość:select:1,Bardzo mały:1,10
+301,Kolor:select:0,Zielony:0,1
+301,Kolor:select:1,Błękitny:1,5
+301,Kolor:select:2,Lazurowy:2,1
+301,Wielkość:select:0,Mały:0,2
+302,Kolor:select:0,Błękitny:0,6
+302,Kolor:select:1,Pomarańczowy:1,4
+302,Kolor:select:2,Burgundowy:2,10
+302,Wielkość:select:0,Bardzo duży:0,7
+302,Wielkość:select:1,Bardzo mały:1,4
+303,Kolor:select:0,Czerwony:0,8
+303,Kolor:select:1,Pomarańczowy:1,9
+303,Wielkość:select:0,Bardzo duży:0,3
+304,Kolor:select:0,Lazurowy:0,8
+304,Kolor:select:1,Pomarańczowy:1,6
+304,Kolor:select:2,Niebieski:2,9
+304,Wielkość:select:0,Mały:0,6
+305,Kolor:select:0,Niebieski:0,5
+305,Kolor:select:1,Zielony:1,4
+305,Wielkość:select:0,Bardzo mały:0,1
+306,Kolor:select:0,Błękitny:0,3
+306,Kolor:select:1,Czerwony:1,1
+306,Kolor:select:2,Niebieski:2,2
+306,Wielkość:select:0,Bardzo mały:0,4
+307,Kolor:select:0,Lazurowy:0,1
+307,Kolor:select:1,Czerwony:1,6
+307,Kolor:select:2,Burgundowy:2,8
+307,Wielkość:select:0,Średni:0,6
+308,Kolor:select:0,Pomarańczowy:0,7
+308,Kolor:select:1,Burgundowy:1,4
+308,Wielkość:select:0,Średni:0,5
+309,Kolor:select:0,Pomarańczowy:0,4
+309,Kolor:select:1,Niebieski:1,10
+309,Wielkość:select:0,Duży:0,3
+309,Wielkość:select:1,Bardzo duży:1,1
+310,Kolor:select:0,Niebieski:0,9
+310,Kolor:select:1,Czerwony:1,6
+310,Kolor:select:2,Pomarańczowy:2,8
+310,Wielkość:select:0,Średni:0,1
+310,Wielkość:select:1,Duży:1,4
+311,Kolor:select:0,Pomarańczowy:0,1
+311,Kolor:select:1,Zielony:1,5
+311,Kolor:select:2,Niebieski:2,3
+311,Wielkość:select:0,Mały:0,6
+312,Kolor:select:0,Niebieski:0,5
+312,Kolor:select:1,Burgundowy:1,1
+312,Wielkość:select:0,Bardzo mały:0,5
+313,Kolor:select:0,Błękitny:0,8
+313,Kolor:select:1,Niebieski:1,5
+313,Kolor:select:2,Zielony:2,1
+313,Wielkość:select:0,Mały:0,8
+314,Kolor:select:0,Lazurowy:0,5
+314,Wielkość:select:0,Bardzo mały:0,1
+315,Kolor:select:0,Czerwony:0,4
+315,Kolor:select:1,Zielony:1,9
+315,Wielkość:select:0,Bardzo mały:0,7
+315,Wielkość:select:1,Duży:1,6
+316,Kolor:select:0,Błękitny:0,3
+316,Kolor:select:1,Pomarańczowy:1,8
+316,Wielkość:select:0,Bardzo duży:0,9
+316,Wielkość:select:1,Duży:1,8
+317,Kolor:select:0,Burgundowy:0,7
+317,Kolor:select:1,Pomarańczowy:1,8
+317,Kolor:select:2,Czerwony:2,9
+317,Wielkość:select:0,Bardzo mały:0,2
+317,Wielkość:select:1,Średni:1,4
+318,Kolor:select:0,Pomarańczowy:0,2
+318,Wielkość:select:0,Bardzo mały:0,1
+319,Kolor:select:0,Czerwony:0,1
+319,Kolor:select:1,Niebieski:1,10
+319,Wielkość:select:0,Średni:0,6
+319,Wielkość:select:1,Mały:1,6
+320,Kolor:select:0,Pomarańczowy:0,2
+320,Kolor:select:1,Błękitny:1,4
+320,Wielkość:select:0,Bardzo duży:0,10
+320,Wielkość:select:1,Bardzo mały:1,3
+321,Kolor:select:0,Lazurowy:0,7
+321,Kolor:select:1,Czerwony:1,3
+321,Kolor:select:2,Pomarańczowy:2,10
+321,Wielkość:select:0,Średni:0,7
+321,Wielkość:select:1,Bardzo duży:1,2
+322,Kolor:select:0,Czerwony:0,8
+322,Kolor:select:1,Pomarańczowy:1,9
+322,Kolor:select:2,Burgundowy:2,9
+322,Wielkość:select:0,Bardzo duży:0,7
+323,Kolor:select:0,Burgundowy:0,5
+323,Kolor:select:1,Zielony:1,9
+323,Wielkość:select:0,Duży:0,5
+324,Kolor:select:0,Czerwony:0,9
+324,Kolor:select:1,Pomarańczowy:1,2
+324,Wielkość:select:0,Średni:0,7
+324,Wielkość:select:1,Mały:1,8
+325,Kolor:select:0,Lazurowy:0,5
+325,Wielkość:select:0,Bardzo duży:0,8
+326,Kolor:select:0,Burgundowy:0,3
+326,Kolor:select:1,Niebieski:1,2
+326,Kolor:select:2,Zielony:2,6
+326,Wielkość:select:0,Bardzo duży:0,1
+326,Wielkość:select:1,Bardzo mały:1,5
+327,Kolor:select:0,Błękitny:0,8
+327,Wielkość:select:0,Średni:0,8
+328,Kolor:select:0,Burgundowy:0,2
+328,Kolor:select:1,Niebieski:1,6
+328,Wielkość:select:0,Bardzo duży:0,7
+328,Wielkość:select:1,Mały:1,8
+329,Kolor:select:0,Lazurowy:0,5
+329,Kolor:select:1,Czerwony:1,5
+329,Wielkość:select:0,Bardzo duży:0,3
+330,Kolor:select:0,Pomarańczowy:0,6
+330,Wielkość:select:0,Średni:0,9
+330,Wielkość:select:1,Bardzo mały:1,7
+331,Kolor:select:0,Pomarańczowy:0,3
+331,Kolor:select:1,Czerwony:1,4
+331,Kolor:select:2,Niebieski:2,5
+331,Wielkość:select:0,Mały:0,3
+332,Kolor:select:0,Burgundowy:0,1
+332,Wielkość:select:0,Duży:0,3
+333,Kolor:select:0,Czerwony:0,5
+333,Kolor:select:1,Lazurowy:1,4
+333,Kolor:select:2,Burgundowy:2,6
+333,Wielkość:select:0,Mały:0,10
+334,Kolor:select:0,Zielony:0,4
+334,Kolor:select:1,Lazurowy:1,2
+334,Wielkość:select:0,Średni:0,1
+335,Kolor:select:0,Burgundowy:0,8
+335,Kolor:select:1,Błękitny:1,9
+335,Kolor:select:2,Zielony:2,7
+335,Wielkość:select:0,Bardzo duży:0,5
+335,Wielkość:select:1,Duży:1,7
+336,Kolor:select:0,Czerwony:0,5
+336,Kolor:select:1,Lazurowy:1,5
+336,Wielkość:select:0,Średni:0,2
+337,Kolor:select:0,Zielony:0,5
+337,Kolor:select:1,Lazurowy:1,6
+337,Wielkość:select:0,Duży:0,7
+337,Wielkość:select:1,Mały:1,7
+338,Kolor:select:0,Niebieski:0,9
+338,Wielkość:select:0,Duży:0,2
+339,Kolor:select:0,Czerwony:0,5
+339,Kolor:select:1,Niebieski:1,3
+339,Kolor:select:2,Pomarańczowy:2,7
+339,Wielkość:select:0,Mały:0,8
+339,Wielkość:select:1,Bardzo mały:1,5
+340,Kolor:select:0,Burgundowy:0,8
+340,Wielkość:select:0,Mały:0,8
+341,Kolor:select:0,Czerwony:0,1
+341,Kolor:select:1,Lazurowy:1,5
+341,Kolor:select:2,Pomarańczowy:2,3
+341,Wielkość:select:0,Duży:0,5
+341,Wielkość:select:1,Bardzo duży:1,5
+342,Kolor:select:0,Błękitny:0,6
+342,Kolor:select:1,Zielony:1,5
+342,Kolor:select:2,Czerwony:2,2
+342,Wielkość:select:0,Duży:0,5
+342,Wielkość:select:1,Mały:1,5
+343,Kolor:select:0,Burgundowy:0,1
+343,Wielkość:select:0,Bardzo duży:0,3
+344,Kolor:select:0,Lazurowy:0,7
+344,Wielkość:select:0,Średni:0,1
+344,Wielkość:select:1,Bardzo duży:1,6
+345,Kolor:select:0,Czerwony:0,10
+345,Kolor:select:1,Lazurowy:1,6
+345,Wielkość:select:0,Bardzo mały:0,3
+345,Wielkość:select:1,Duży:1,2
+346,Kolor:select:0,Błękitny:0,5
+346,Wielkość:select:0,Duży:0,8
+347,Kolor:select:0,Burgundowy:0,6
+347,Kolor:select:1,Czerwony:1,5
+347,Wielkość:select:0,Bardzo duży:0,10
+348,Kolor:select:0,Lazurowy:0,9
+348,Wielkość:select:0,Bardzo duży:0,8
+349,Kolor:select:0,Niebieski:0,3
+349,Kolor:select:1,Burgundowy:1,9
+349,Wielkość:select:0,Bardzo duży:0,8
+349,Wielkość:select:1,Średni:1,6
+350,Kolor:select:0,Pomarańczowy:0,3
+350,Kolor:select:1,Burgundowy:1,8
+350,Kolor:select:2,Lazurowy:2,2
+350,Wielkość:select:0,Bardzo duży:0,5
+350,Wielkość:select:1,Średni:1,9
+351,Kolor:select:0,Zielony:0,5
+351,Kolor:select:1,Lazurowy:1,9
+351,Wielkość:select:0,Średni:0,10
+352,Kolor:select:0,Błękitny:0,4
+352,Kolor:select:1,Lazurowy:1,3
+352,Wielkość:select:0,Mały:0,7
+353,Kolor:select:0,Zielony:0,5
+353,Kolor:select:1,Niebieski:1,7
+353,Wielkość:select:0,Mały:0,8
+353,Wielkość:select:1,Bardzo mały:1,5
+354,Kolor:select:0,Niebieski:0,1
+354,Kolor:select:1,Zielony:1,8
+354,Wielkość:select:0,Bardzo mały:0,1
+355,Kolor:select:0,Pomarańczowy:0,5
+355,Kolor:select:1,Lazurowy:1,3
+355,Wielkość:select:0,Bardzo duży:0,1
+356,Kolor:select:0,Zielony:0,1
+356,Kolor:select:1,Pomarańczowy:1,9
+356,Kolor:select:2,Niebieski:2,9
+356,Wielkość:select:0,Mały:0,4
+356,Wielkość:select:1,Bardzo mały:1,1
+357,Kolor:select:0,Błękitny:0,4
+357,Kolor:select:1,Czerwony:1,10
+357,Wielkość:select:0,Duży:0,6
+358,Kolor:select:0,Błękitny:0,2
+358,Wielkość:select:0,Mały:0,5
+358,Wielkość:select:1,Duży:1,1
+359,Kolor:select:0,Zielony:0,3
+359,Kolor:select:1,Lazurowy:1,3
+359,Kolor:select:2,Burgundowy:2,4
+359,Wielkość:select:0,Bardzo mały:0,7
+360,Kolor:select:0,Niebieski:0,1
+360,Wielkość:select:0,Bardzo mały:0,5
+361,Kolor:select:0,Lazurowy:0,10
+361,Kolor:select:1,Czerwony:1,9
+361,Kolor:select:2,Błękitny:2,1
+361,Wielkość:select:0,Średni:0,2
+362,Kolor:select:0,Zielony:0,5
+362,Kolor:select:1,Pomarańczowy:1,10
+362,Wielkość:select:0,Mały:0,1
+362,Wielkość:select:1,Średni:1,9
+363,Kolor:select:0,Błękitny:0,5
+363,Kolor:select:1,Lazurowy:1,5
+363,Kolor:select:2,Pomarańczowy:2,9
+363,Wielkość:select:0,Mały:0,7
+364,Kolor:select:0,Burgundowy:0,9
+364,Kolor:select:1,Zielony:1,9
+364,Kolor:select:2,Czerwony:2,10
+364,Wielkość:select:0,Mały:0,8
+365,Kolor:select:0,Burgundowy:0,3
+365,Kolor:select:1,Błękitny:1,4
+365,Kolor:select:2,Czerwony:2,7
+365,Wielkość:select:0,Bardzo duży:0,4
+366,Kolor:select:0,Zielony:0,3
+366,Wielkość:select:0,Średni:0,8
+367,Kolor:select:0,Błękitny:0,2
+367,Wielkość:select:0,Mały:0,2
+367,Wielkość:select:1,Bardzo duży:1,8
+368,Kolor:select:0,Błękitny:0,8
+368,Wielkość:select:0,Mały:0,5
+368,Wielkość:select:1,Średni:1,6
+369,Kolor:select:0,Czerwony:0,3
+369,Wielkość:select:0,Bardzo mały:0,8
+370,Kolor:select:0,Burgundowy:0,10
+370,Wielkość:select:0,Duży:0,5
+370,Wielkość:select:1,Mały:1,6
+371,Kolor:select:0,Błękitny:0,3
+371,Kolor:select:1,Burgundowy:1,8
+371,Kolor:select:2,Pomarańczowy:2,8
+371,Wielkość:select:0,Mały:0,6
+371,Wielkość:select:1,Bardzo mały:1,8
+372,Kolor:select:0,Niebieski:0,2
+372,Wielkość:select:0,Średni:0,4
+372,Wielkość:select:1,Mały:1,8
+373,Kolor:select:0,Zielony:0,2
+373,Wielkość:select:0,Bardzo mały:0,1
+373,Wielkość:select:1,Bardzo duży:1,1
+374,Kolor:select:0,Burgundowy:0,5
+374,Wielkość:select:0,Bardzo duży:0,5
+375,Kolor:select:0,Burgundowy:0,3
+375,Kolor:select:1,Pomarańczowy:1,4
+375,Wielkość:select:0,Bardzo duży:0,5
+375,Wielkość:select:1,Średni:1,2
+376,Kolor:select:0,Burgundowy:0,9
+376,Kolor:select:1,Lazurowy:1,4
+376,Wielkość:select:0,Średni:0,1
+377,Kolor:select:0,Czerwony:0,5
+377,Kolor:select:1,Zielony:1,10
+377,Kolor:select:2,Burgundowy:2,7
+377,Wielkość:select:0,Duży:0,9
+377,Wielkość:select:1,Bardzo mały:1,6
+378,Kolor:select:0,Pomarańczowy:0,10
+378,Kolor:select:1,Czerwony:1,1
+378,Kolor:select:2,Niebieski:2,9
+378,Wielkość:select:0,Bardzo duży:0,5
+378,Wielkość:select:1,Mały:1,8
+379,Kolor:select:0,Lazurowy:0,4
+379,Wielkość:select:0,Mały:0,4
+379,Wielkość:select:1,Średni:1,5
+380,Kolor:select:0,Lazurowy:0,5
+380,Kolor:select:1,Czerwony:1,3
+380,Wielkość:select:0,Średni:0,2
+381,Kolor:select:0,Lazurowy:0,5
+381,Kolor:select:1,Pomarańczowy:1,1
+381,Wielkość:select:0,Bardzo mały:0,2
+381,Wielkość:select:1,Duży:1,6
+382,Kolor:select:0,Czerwony:0,8
+382,Kolor:select:1,Lazurowy:1,6
+382,Kolor:select:2,Zielony:2,10
+382,Wielkość:select:0,Duży:0,3
+382,Wielkość:select:1,Bardzo mały:1,9
+383,Kolor:select:0,Czerwony:0,1
+383,Kolor:select:1,Niebieski:1,8
+383,Kolor:select:2,Lazurowy:2,1
+383,Wielkość:select:0,Duży:0,8
+383,Wielkość:select:1,Bardzo mały:1,3
+384,Kolor:select:0,Niebieski:0,2
+384,Kolor:select:1,Burgundowy:1,1
+384,Kolor:select:2,Błękitny:2,6
+384,Wielkość:select:0,Mały:0,8
+384,Wielkość:select:1,Bardzo mały:1,1
+385,Kolor:select:0,Błękitny:0,1
+385,Wielkość:select:0,Średni:0,7
+385,Wielkość:select:1,Bardzo duży:1,2
+386,Kolor:select:0,Błękitny:0,5
+386,Kolor:select:1,Pomarańczowy:1,9
+386,Kolor:select:2,Czerwony:2,7
+386,Wielkość:select:0,Bardzo duży:0,6
+387,Kolor:select:0,Błękitny:0,3
+387,Kolor:select:1,Niebieski:1,8
+387,Wielkość:select:0,Mały:0,10
+388,Kolor:select:0,Niebieski:0,5
+388,Kolor:select:1,Błękitny:1,10
+388,Wielkość:select:0,Bardzo mały:0,3
+389,Kolor:select:0,Niebieski:0,7
+389,Wielkość:select:0,Bardzo mały:0,2
+390,Kolor:select:0,Błękitny:0,9
+390,Wielkość:select:0,Bardzo mały:0,6
+390,Wielkość:select:1,Duży:1,2
+391,Kolor:select:0,Niebieski:0,9
+391,Wielkość:select:0,Bardzo duży:0,10
+392,Kolor:select:0,Czerwony:0,10
+392,Kolor:select:1,Niebieski:1,6
+392,Kolor:select:2,Zielony:2,9
+392,Wielkość:select:0,Duży:0,1
+392,Wielkość:select:1,Średni:1,4
+393,Kolor:select:0,Czerwony:0,1
+393,Kolor:select:1,Błękitny:1,2
+393,Wielkość:select:0,Bardzo duży:0,10
+394,Kolor:select:0,Niebieski:0,10
+394,Wielkość:select:0,Duży:0,8
+395,Kolor:select:0,Burgundowy:0,10
+395,Kolor:select:1,Lazurowy:1,2
+395,Wielkość:select:0,Duży:0,2
+396,Kolor:select:0,Czerwony:0,1
+396,Kolor:select:1,Błękitny:1,1
+396,Wielkość:select:0,Bardzo mały:0,8
+397,Kolor:select:0,Niebieski:0,3
+397,Wielkość:select:0,Mały:0,10
+398,Kolor:select:0,Zielony:0,5
+398,Kolor:select:1,Czerwony:1,4
+398,Kolor:select:2,Niebieski:2,1
+398,Wielkość:select:0,Duży:0,10
+399,Kolor:select:0,Burgundowy:0,1
+399,Wielkość:select:0,Bardzo duży:0,5
+400,Kolor:select:0,Burgundowy:0,5
+400,Kolor:select:1,Błękitny:1,1
+400,Wielkość:select:0,Bardzo mały:0,3
+400,Wielkość:select:1,Duży:1,7
+401,Kolor:select:0,Czerwony:0,9
+401,Kolor:select:1,Niebieski:1,10
+401,Wielkość:select:0,Bardzo mały:0,3
+401,Wielkość:select:1,Mały:1,5
+402,Kolor:select:0,Lazurowy:0,10
+402,Kolor:select:1,Błękitny:1,9
+402,Wielkość:select:0,Średni:0,3
+402,Wielkość:select:1,Mały:1,7
+403,Kolor:select:0,Zielony:0,1
+403,Kolor:select:1,Burgundowy:1,4
+403,Kolor:select:2,Pomarańczowy:2,3
+403,Wielkość:select:0,Bardzo mały:0,6
+404,Kolor:select:0,Niebieski:0,7
+404,Kolor:select:1,Lazurowy:1,5
+404,Wielkość:select:0,Duży:0,1
+404,Wielkość:select:1,Bardzo mały:1,8
+405,Kolor:select:0,Czerwony:0,2
+405,Kolor:select:1,Lazurowy:1,7
+405,Kolor:select:2,Zielony:2,2
+405,Wielkość:select:0,Bardzo mały:0,3
+405,Wielkość:select:1,Mały:1,6
+406,Kolor:select:0,Niebieski:0,1
+406,Kolor:select:1,Czerwony:1,5
+406,Kolor:select:2,Zielony:2,5
+406,Wielkość:select:0,Duży:0,6
+406,Wielkość:select:1,Średni:1,10
+407,Kolor:select:0,Zielony:0,10
+407,Kolor:select:1,Czerwony:1,9
+407,Wielkość:select:0,Duży:0,6
+407,Wielkość:select:1,Bardzo mały:1,10
+408,Kolor:select:0,Błękitny:0,2
+408,Wielkość:select:0,Duży:0,7
+408,Wielkość:select:1,Bardzo mały:1,1
+409,Kolor:select:0,Zielony:0,2
+409,Kolor:select:1,Czerwony:1,8
+409,Kolor:select:2,Błękitny:2,7
+409,Wielkość:select:0,Bardzo duży:0,10
+409,Wielkość:select:1,Średni:1,3
+410,Kolor:select:0,Błękitny:0,10
+410,Wielkość:select:0,Bardzo mały:0,4
+410,Wielkość:select:1,Duży:1,6
+411,Kolor:select:0,Niebieski:0,2
+411,Kolor:select:1,Pomarańczowy:1,7
+411,Kolor:select:2,Błękitny:2,5
+411,Wielkość:select:0,Bardzo duży:0,2
+411,Wielkość:select:1,Duży:1,5
+412,Kolor:select:0,Czerwony:0,10
+412,Kolor:select:1,Lazurowy:1,1
+412,Wielkość:select:0,Średni:0,4
+413,Kolor:select:0,Czerwony:0,2
+413,Kolor:select:1,Zielony:1,9
+413,Wielkość:select:0,Bardzo mały:0,10
+413,Wielkość:select:1,Mały:1,10
+414,Kolor:select:0,Czerwony:0,10
+414,Kolor:select:1,Niebieski:1,6
+414,Kolor:select:2,Pomarańczowy:2,8
+414,Wielkość:select:0,Bardzo duży:0,6
+415,Kolor:select:0,Czerwony:0,3
+415,Wielkość:select:0,Bardzo duży:0,3
+415,Wielkość:select:1,Średni:1,8
+416,Kolor:select:0,Lazurowy:0,3
+416,Kolor:select:1,Czerwony:1,10
+416,Wielkość:select:0,Średni:0,10
+417,Kolor:select:0,Burgundowy:0,7
+417,Wielkość:select:0,Średni:0,8
+417,Wielkość:select:1,Bardzo mały:1,1
+418,Kolor:select:0,Zielony:0,7
+418,Wielkość:select:0,Duży:0,10
+418,Wielkość:select:1,Bardzo duży:1,9
+419,Kolor:select:0,Niebieski:0,2
+419,Wielkość:select:0,Bardzo duży:0,6
+420,Kolor:select:0,Niebieski:0,8
+420,Kolor:select:1,Błękitny:1,7
+420,Kolor:select:2,Pomarańczowy:2,5
+420,Wielkość:select:0,Średni:0,6
+420,Wielkość:select:1,Bardzo duży:1,6
+421,Kolor:select:0,Czerwony:0,10
+421,Wielkość:select:0,Duży:0,8
+422,Kolor:select:0,Niebieski:0,4
+422,Kolor:select:1,Zielony:1,3
+422,Kolor:select:2,Burgundowy:2,1
+422,Wielkość:select:0,Mały:0,6
+423,Kolor:select:0,Zielony:0,7
+423,Kolor:select:1,Lazurowy:1,3
+423,Wielkość:select:0,Duży:0,3
+423,Wielkość:select:1,Bardzo duży:1,5
+424,Kolor:select:0,Błękitny:0,2
+424,Kolor:select:1,Lazurowy:1,9
+424,Wielkość:select:0,Bardzo duży:0,3
+424,Wielkość:select:1,Mały:1,9
+425,Kolor:select:0,Czerwony:0,3
+425,Kolor:select:1,Błękitny:1,8
+425,Kolor:select:2,Zielony:2,10
+425,Wielkość:select:0,Bardzo duży:0,4
+426,Kolor:select:0,Lazurowy:0,3
+426,Kolor:select:1,Pomarańczowy:1,4
+426,Wielkość:select:0,Bardzo mały:0,8
+426,Wielkość:select:1,Mały:1,6
+427,Kolor:select:0,Lazurowy:0,10
+427,Kolor:select:1,Czerwony:1,1
+427,Wielkość:select:0,Mały:0,10
+428,Kolor:select:0,Niebieski:0,9
+428,Wielkość:select:0,Bardzo mały:0,6
+429,Kolor:select:0,Pomarańczowy:0,2
+429,Wielkość:select:0,Bardzo duży:0,2
+430,Kolor:select:0,Pomarańczowy:0,2
+430,Wielkość:select:0,Średni:0,1
+431,Kolor:select:0,Zielony:0,10
+431,Kolor:select:1,Pomarańczowy:1,5
+431,Kolor:select:2,Lazurowy:2,7
+431,Wielkość:select:0,Mały:0,2
+431,Wielkość:select:1,Bardzo mały:1,7
+432,Kolor:select:0,Czerwony:0,6
+432,Wielkość:select:0,Bardzo mały:0,5
+433,Kolor:select:0,Błękitny:0,4
+433,Kolor:select:1,Niebieski:1,8
+433,Wielkość:select:0,Bardzo mały:0,8
+434,Kolor:select:0,Niebieski:0,9
+434,Kolor:select:1,Błękitny:1,6
+434,Wielkość:select:0,Bardzo mały:0,3
+435,Kolor:select:0,Niebieski:0,5
+435,Kolor:select:1,Czerwony:1,3
+435,Wielkość:select:0,Duży:0,7
+435,Wielkość:select:1,Bardzo mały:1,10
+436,Kolor:select:0,Czerwony:0,9
+436,Kolor:select:1,Pomarańczowy:1,9
+436,Wielkość:select:0,Mały:0,2
+436,Wielkość:select:1,Bardzo duży:1,5
+437,Kolor:select:0,Zielony:0,2
+437,Kolor:select:1,Czerwony:1,6
+437,Wielkość:select:0,Duży:0,7
+438,Kolor:select:0,Czerwony:0,1
+438,Kolor:select:1,Pomarańczowy:1,10
+438,Wielkość:select:0,Bardzo mały:0,3
+438,Wielkość:select:1,Duży:1,9
+439,Kolor:select:0,Błękitny:0,7
+439,Wielkość:select:0,Bardzo mały:0,5
+439,Wielkość:select:1,Duży:1,3
+440,Kolor:select:0,Niebieski:0,10
+440,Kolor:select:1,Burgundowy:1,9
+440,Wielkość:select:0,Średni:0,7
+440,Wielkość:select:1,Bardzo duży:1,5
+441,Kolor:select:0,Błękitny:0,9
+441,Kolor:select:1,Czerwony:1,1
+441,Wielkość:select:0,Duży:0,10
+442,Kolor:select:0,Czerwony:0,5
+442,Kolor:select:1,Niebieski:1,10
+442,Kolor:select:2,Burgundowy:2,8
+442,Wielkość:select:0,Mały:0,7
+443,Kolor:select:0,Błękitny:0,2
+443,Kolor:select:1,Lazurowy:1,6
+443,Kolor:select:2,Zielony:2,2
+443,Wielkość:select:0,Średni:0,2
+444,Kolor:select:0,Burgundowy:0,4
+444,Kolor:select:1,Lazurowy:1,3
+444,Wielkość:select:0,Mały:0,10
+444,Wielkość:select:1,Bardzo duży:1,3
+445,Kolor:select:0,Niebieski:0,8
+445,Kolor:select:1,Burgundowy:1,1
+445,Wielkość:select:0,Średni:0,6
+445,Wielkość:select:1,Duży:1,4
+446,Kolor:select:0,Pomarańczowy:0,4
+446,Kolor:select:1,Zielony:1,10
+446,Kolor:select:2,Niebieski:2,5
+446,Wielkość:select:0,Bardzo mały:0,4
+446,Wielkość:select:1,Duży:1,10
+447,Kolor:select:0,Pomarańczowy:0,5
+447,Kolor:select:1,Lazurowy:1,5
+447,Wielkość:select:0,Bardzo mały:0,3
+447,Wielkość:select:1,Średni:1,7
+448,Kolor:select:0,Burgundowy:0,6
+448,Kolor:select:1,Lazurowy:1,4
+448,Wielkość:select:0,Bardzo mały:0,2
+448,Wielkość:select:1,Mały:1,8
+449,Kolor:select:0,Pomarańczowy:0,3
+449,Kolor:select:1,Błękitny:1,7
+449,Wielkość:select:0,Bardzo duży:0,6
+450,Kolor:select:0,Niebieski:0,5
+450,Kolor:select:1,Pomarańczowy:1,3
+450,Wielkość:select:0,Mały:0,10
+450,Wielkość:select:1,Bardzo mały:1,2
+451,Kolor:select:0,Burgundowy:0,7
+451,Kolor:select:1,Pomarańczowy:1,2
+451,Kolor:select:2,Czerwony:2,8
+451,Wielkość:select:0,Bardzo mały:0,5
+451,Wielkość:select:1,Duży:1,2
+452,Kolor:select:0,Burgundowy:0,8
+452,Kolor:select:1,Błękitny:1,5
+452,Kolor:select:2,Lazurowy:2,4
+452,Wielkość:select:0,Bardzo duży:0,3
+453,Kolor:select:0,Zielony:0,6
+453,Wielkość:select:0,Bardzo mały:0,5
+453,Wielkość:select:1,Średni:1,5
+454,Kolor:select:0,Pomarańczowy:0,1
+454,Kolor:select:1,Burgundowy:1,6
+454,Wielkość:select:0,Bardzo duży:0,4
+455,Kolor:select:0,Niebieski:0,3
+455,Kolor:select:1,Czerwony:1,3
+455,Wielkość:select:0,Bardzo duży:0,1
+456,Kolor:select:0,Pomarańczowy:0,5
+456,Kolor:select:1,Niebieski:1,7
+456,Kolor:select:2,Błękitny:2,10
+456,Wielkość:select:0,Bardzo mały:0,3
+457,Kolor:select:0,Burgundowy:0,5
+457,Kolor:select:1,Pomarańczowy:1,8
+457,Kolor:select:2,Niebieski:2,7
+457,Wielkość:select:0,Bardzo duży:0,1
+458,Kolor:select:0,Burgundowy:0,10
+458,Kolor:select:1,Błękitny:1,4
+458,Wielkość:select:0,Duży:0,4
+458,Wielkość:select:1,Mały:1,4
+459,Kolor:select:0,Pomarańczowy:0,3
+459,Wielkość:select:0,Duży:0,8
+459,Wielkość:select:1,Średni:1,2
+460,Kolor:select:0,Burgundowy:0,2
+460,Kolor:select:1,Pomarańczowy:1,4
+460,Kolor:select:2,Zielony:2,8
+460,Wielkość:select:0,Duży:0,6
+461,Kolor:select:0,Błękitny:0,2
+461,Kolor:select:1,Zielony:1,3
+461,Wielkość:select:0,Duży:0,8
+461,Wielkość:select:1,Bardzo duży:1,1
+462,Kolor:select:0,Czerwony:0,4
+462,Kolor:select:1,Pomarańczowy:1,6
+462,Wielkość:select:0,Bardzo mały:0,6
+462,Wielkość:select:1,Bardzo duży:1,2
+463,Kolor:select:0,Burgundowy:0,4
+463,Kolor:select:1,Pomarańczowy:1,4
+463,Kolor:select:2,Czerwony:2,7
+463,Wielkość:select:0,Bardzo duży:0,6
+464,Kolor:select:0,Zielony:0,6
+464,Wielkość:select:0,Duży:0,7
+465,Kolor:select:0,Zielony:0,8
+465,Wielkość:select:0,Bardzo mały:0,9
+465,Wielkość:select:1,Średni:1,8
+466,Kolor:select:0,Błękitny:0,6
+466,Wielkość:select:0,Bardzo duży:0,10
+467,Kolor:select:0,Niebieski:0,10
+467,Wielkość:select:0,Duży:0,5
+468,Kolor:select:0,Zielony:0,6
+468,Kolor:select:1,Niebieski:1,2
+468,Kolor:select:2,Pomarańczowy:2,2
+468,Wielkość:select:0,Mały:0,8
+469,Kolor:select:0,Czerwony:0,9
+469,Kolor:select:1,Pomarańczowy:1,2
+469,Wielkość:select:0,Średni:0,7
+470,Kolor:select:0,Burgundowy:0,8
+470,Kolor:select:1,Lazurowy:1,7
+470,Kolor:select:2,Błękitny:2,5
+470,Wielkość:select:0,Bardzo mały:0,8
+470,Wielkość:select:1,Średni:1,5
+471,Kolor:select:0,Zielony:0,3
+471,Wielkość:select:0,Duży:0,5
+471,Wielkość:select:1,Mały:1,6
+472,Kolor:select:0,Pomarańczowy:0,10
+472,Wielkość:select:0,Mały:0,1
+473,Kolor:select:0,Błękitny:0,5
+473,Kolor:select:1,Burgundowy:1,9
+473,Wielkość:select:0,Duży:0,9
+473,Wielkość:select:1,Bardzo mały:1,9
+474,Kolor:select:0,Lazurowy:0,4
+474,Wielkość:select:0,Średni:0,2
+475,Kolor:select:0,Czerwony:0,3
+475,Kolor:select:1,Pomarańczowy:1,9
+475,Kolor:select:2,Błękitny:2,2
+475,Wielkość:select:0,Bardzo duży:0,1
+475,Wielkość:select:1,Bardzo mały:1,3
+476,Kolor:select:0,Pomarańczowy:0,2
+476,Kolor:select:1,Burgundowy:1,5
+476,Wielkość:select:0,Bardzo mały:0,2
+476,Wielkość:select:1,Duży:1,4
+477,Kolor:select:0,Błękitny:0,2
+477,Kolor:select:1,Czerwony:1,2
+477,Wielkość:select:0,Średni:0,3
+477,Wielkość:select:1,Bardzo duży:1,9
+478,Kolor:select:0,Lazurowy:0,8
+478,Kolor:select:1,Burgundowy:1,10
+478,Wielkość:select:0,Mały:0,4
+478,Wielkość:select:1,Bardzo mały:1,2
+479,Kolor:select:0,Błękitny:0,2
+479,Wielkość:select:0,Bardzo mały:0,2
+479,Wielkość:select:1,Bardzo duży:1,6
+480,Kolor:select:0,Pomarańczowy:0,10
+480,Wielkość:select:0,Bardzo mały:0,5
+480,Wielkość:select:1,Mały:1,2
+481,Kolor:select:0,Pomarańczowy:0,3
+481,Wielkość:select:0,Duży:0,4
+481,Wielkość:select:1,Bardzo mały:1,2
+482,Kolor:select:0,Błękitny:0,5
+482,Wielkość:select:0,Bardzo mały:0,10
+482,Wielkość:select:1,Duży:1,9
+483,Kolor:select:0,Czerwony:0,7
+483,Kolor:select:1,Lazurowy:1,7
+483,Wielkość:select:0,Bardzo duży:0,9
+484,Kolor:select:0,Błękitny:0,3
+484,Kolor:select:1,Zielony:1,3
+484,Kolor:select:2,Burgundowy:2,5
+484,Wielkość:select:0,Bardzo mały:0,9
+485,Kolor:select:0,Pomarańczowy:0,9
+485,Wielkość:select:0,Bardzo duży:0,2
+485,Wielkość:select:1,Mały:1,10
+486,Kolor:select:0,Czerwony:0,8
+486,Wielkość:select:0,Duży:0,2
+487,Kolor:select:0,Burgundowy:0,7
+487,Kolor:select:1,Błękitny:1,3
+487,Wielkość:select:0,Bardzo duży:0,9
+487,Wielkość:select:1,Średni:1,5
+488,Kolor:select:0,Burgundowy:0,1
+488,Wielkość:select:0,Duży:0,3
+488,Wielkość:select:1,Średni:1,2
+489,Kolor:select:0,Zielony:0,5
+489,Kolor:select:1,Niebieski:1,7
+489,Kolor:select:2,Czerwony:2,7
+489,Wielkość:select:0,Mały:0,1
+489,Wielkość:select:1,Średni:1,7
+490,Kolor:select:0,Burgundowy:0,7
+490,Kolor:select:1,Czerwony:1,6
+490,Wielkość:select:0,Bardzo duży:0,7
+490,Wielkość:select:1,Duży:1,2
+491,Kolor:select:0,Czerwony:0,1
+491,Wielkość:select:0,Mały:0,5
+492,Kolor:select:0,Zielony:0,5
+492,Kolor:select:1,Burgundowy:1,4
+492,Kolor:select:2,Lazurowy:2,7
+492,Wielkość:select:0,Duży:0,6
+493,Kolor:select:0,Burgundowy:0,7
+493,Wielkość:select:0,Mały:0,8
+494,Kolor:select:0,Lazurowy:0,5
+494,Wielkość:select:0,Bardzo duży:0,7
+494,Wielkość:select:1,Średni:1,5
+495,Kolor:select:0,Lazurowy:0,7
+495,Kolor:select:1,Czerwony:1,10
+495,Kolor:select:2,Niebieski:2,5
+495,Wielkość:select:0,Duży:0,1
+496,Kolor:select:0,Czerwony:0,1
+496,Wielkość:select:0,Mały:0,9
+496,Wielkość:select:1,Bardzo mały:1,7
+497,Kolor:select:0,Burgundowy:0,9
+497,Wielkość:select:0,Średni:0,8
+497,Wielkość:select:1,Bardzo duży:1,10
+498,Kolor:select:0,Czerwony:0,4
+498,Kolor:select:1,Burgundowy:1,10
+498,Kolor:select:2,Zielony:2,7
+498,Wielkość:select:0,Bardzo duży:0,10
+498,Wielkość:select:1,Duży:1,5
+499,Kolor:select:0,Burgundowy:0,8
+499,Kolor:select:1,Pomarańczowy:1,2
+499,Kolor:select:2,Błękitny:2,8
+499,Wielkość:select:0,Średni:0,3
+500,Kolor:select:0,Czerwony:0,8
+500,Kolor:select:1,Lazurowy:1,1
+500,Kolor:select:2,Błękitny:2,1
+500,Wielkość:select:0,Bardzo mały:0,9
+501,Kolor:select:0,Lazurowy:0,4
+501,Wielkość:select:0,Bardzo duży:0,5
+501,Wielkość:select:1,Duży:1,2
+502,Kolor:select:0,Pomarańczowy:0,4
+502,Wielkość:select:0,Bardzo duży:0,8
+503,Kolor:select:0,Błękitny:0,6
+503,Kolor:select:1,Czerwony:1,7
+503,Wielkość:select:0,Bardzo mały:0,7
+503,Wielkość:select:1,Mały:1,8
+504,Kolor:select:0,Niebieski:0,8
+504,Kolor:select:1,Lazurowy:1,4
+504,Wielkość:select:0,Bardzo mały:0,5
+504,Wielkość:select:1,Bardzo duży:1,2
+505,Kolor:select:0,Błękitny:0,1
+505,Kolor:select:1,Pomarańczowy:1,5
+505,Kolor:select:2,Burgundowy:2,2
+505,Wielkość:select:0,Mały:0,6
+505,Wielkość:select:1,Bardzo mały:1,5
+506,Kolor:select:0,Niebieski:0,6
+506,Kolor:select:1,Błękitny:1,7
+506,Kolor:select:2,Zielony:2,4
+506,Wielkość:select:0,Duży:0,10
+506,Wielkość:select:1,Średni:1,4
+507,Kolor:select:0,Czerwony:0,7
+507,Kolor:select:1,Burgundowy:1,1
+507,Kolor:select:2,Błękitny:2,9
+507,Wielkość:select:0,Bardzo duży:0,3
+507,Wielkość:select:1,Średni:1,2
+508,Kolor:select:0,Czerwony:0,2
+508,Kolor:select:1,Zielony:1,3
+508,Wielkość:select:0,Mały:0,1
+508,Wielkość:select:1,Bardzo duży:1,5
+509,Kolor:select:0,Burgundowy:0,3
+509,Kolor:select:1,Zielony:1,5
+509,Wielkość:select:0,Duży:0,9
+510,Kolor:select:0,Burgundowy:0,6
+510,Wielkość:select:0,Bardzo mały:0,1
+510,Wielkość:select:1,Mały:1,1
+511,Kolor:select:0,Burgundowy:0,2
+511,Wielkość:select:0,Duży:0,5
+512,Kolor:select:0,Pomarańczowy:0,7
+512,Kolor:select:1,Błękitny:1,9
+512,Kolor:select:2,Zielony:2,5
+512,Wielkość:select:0,Średni:0,5
+512,Wielkość:select:1,Duży:1,6
+513,Kolor:select:0,Niebieski:0,8
+513,Wielkość:select:0,Bardzo duży:0,6
+514,Kolor:select:0,Zielony:0,3
+514,Kolor:select:1,Burgundowy:1,7
+514,Kolor:select:2,Niebieski:2,3
+514,Wielkość:select:0,Średni:0,10
+514,Wielkość:select:1,Duży:1,1
+515,Kolor:select:0,Burgundowy:0,7
+515,Kolor:select:1,Pomarańczowy:1,10
+515,Kolor:select:2,Zielony:2,6
+515,Wielkość:select:0,Bardzo mały:0,1
+516,Kolor:select:0,Lazurowy:0,4
+516,Kolor:select:1,Czerwony:1,2
+516,Kolor:select:2,Burgundowy:2,9
+516,Wielkość:select:0,Średni:0,2
+516,Wielkość:select:1,Mały:1,4
+517,Kolor:select:0,Pomarańczowy:0,6
+517,Kolor:select:1,Czerwony:1,10
+517,Wielkość:select:0,Bardzo mały:0,2
+518,Kolor:select:0,Zielony:0,2
+518,Kolor:select:1,Niebieski:1,8
+518,Kolor:select:2,Burgundowy:2,3
+518,Wielkość:select:0,Bardzo mały:0,9
+518,Wielkość:select:1,Bardzo duży:1,9
+519,Kolor:select:0,Burgundowy:0,6
+519,Wielkość:select:0,Bardzo mały:0,8
+520,Kolor:select:0,Burgundowy:0,8
+520,Kolor:select:1,Zielony:1,2
+520,Kolor:select:2,Lazurowy:2,2
+520,Wielkość:select:0,Bardzo duży:0,7
+520,Wielkość:select:1,Bardzo mały:1,6
+521,Kolor:select:0,Zielony:0,7
+521,Kolor:select:1,Czerwony:1,7
+521,Kolor:select:2,Niebieski:2,10
+521,Wielkość:select:0,Średni:0,3
+522,Kolor:select:0,Pomarańczowy:0,6
+522,Kolor:select:1,Lazurowy:1,7
+522,Wielkość:select:0,Mały:0,7
+522,Wielkość:select:1,Średni:1,6
+523,Kolor:select:0,Lazurowy:0,4
+523,Kolor:select:1,Błękitny:1,6
+523,Kolor:select:2,Czerwony:2,5
+523,Wielkość:select:0,Mały:0,4
+523,Wielkość:select:1,Bardzo duży:1,6
+524,Kolor:select:0,Błękitny:0,10
+524,Kolor:select:1,Zielony:1,6
+524,Kolor:select:2,Niebieski:2,5
+524,Wielkość:select:0,Średni:0,4
+524,Wielkość:select:1,Bardzo mały:1,1
+525,Kolor:select:0,Czerwony:0,9
+525,Kolor:select:1,Pomarańczowy:1,2
+525,Kolor:select:2,Błękitny:2,4
+525,Wielkość:select:0,Średni:0,8
+526,Kolor:select:0,Burgundowy:0,3
+526,Kolor:select:1,Pomarańczowy:1,10
+526,Kolor:select:2,Niebieski:2,5
+526,Wielkość:select:0,Mały:0,6
+526,Wielkość:select:1,Bardzo duży:1,3
+527,Kolor:select:0,Burgundowy:0,2
+527,Wielkość:select:0,Bardzo duży:0,10
+527,Wielkość:select:1,Duży:1,2
+528,Kolor:select:0,Zielony:0,9
+528,Kolor:select:1,Lazurowy:1,9
+528,Kolor:select:2,Pomarańczowy:2,10
+528,Wielkość:select:0,Średni:0,1
+528,Wielkość:select:1,Bardzo mały:1,8
+529,Kolor:select:0,Pomarańczowy:0,2
+529,Kolor:select:1,Lazurowy:1,1
+529,Kolor:select:2,Zielony:2,4
+529,Wielkość:select:0,Bardzo mały:0,1
+529,Wielkość:select:1,Średni:1,7
+530,Kolor:select:0,Pomarańczowy:0,9
+530,Kolor:select:1,Lazurowy:1,6
+530,Kolor:select:2,Burgundowy:2,6
+530,Wielkość:select:0,Bardzo mały:0,9
+531,Kolor:select:0,Zielony:0,6
+531,Wielkość:select:0,Duży:0,6
+532,Kolor:select:0,Burgundowy:0,9
+532,Kolor:select:1,Błękitny:1,2
+532,Wielkość:select:0,Duży:0,3
+533,Kolor:select:0,Niebieski:0,10
+533,Wielkość:select:0,Bardzo duży:0,8
+533,Wielkość:select:1,Bardzo mały:1,1
+534,Kolor:select:0,Pomarańczowy:0,9
+534,Wielkość:select:0,Duży:0,3
+534,Wielkość:select:1,Mały:1,4
+535,Kolor:select:0,Pomarańczowy:0,9
+535,Kolor:select:1,Błękitny:1,2
+535,Wielkość:select:0,Mały:0,4
+535,Wielkość:select:1,Średni:1,7
+536,Kolor:select:0,Czerwony:0,7
+536,Wielkość:select:0,Średni:0,1
+537,Kolor:select:0,Czerwony:0,4
+537,Kolor:select:1,Niebieski:1,1
+537,Wielkość:select:0,Mały:0,7
+537,Wielkość:select:1,Duży:1,3
+538,Kolor:select:0,Burgundowy:0,3
+538,Kolor:select:1,Lazurowy:1,10
+538,Wielkość:select:0,Duży:0,2
+538,Wielkość:select:1,Bardzo mały:1,9
+539,Kolor:select:0,Burgundowy:0,8
+539,Kolor:select:1,Zielony:1,7
+539,Wielkość:select:0,Bardzo mały:0,3
+539,Wielkość:select:1,Bardzo duży:1,9
+540,Kolor:select:0,Pomarańczowy:0,3
+540,Kolor:select:1,Czerwony:1,4
+540,Kolor:select:2,Lazurowy:2,6
+540,Wielkość:select:0,Bardzo duży:0,9
+541,Kolor:select:0,Lazurowy:0,6
+541,Kolor:select:1,Zielony:1,9
+541,Kolor:select:2,Niebieski:2,4
+541,Wielkość:select:0,Bardzo mały:0,1
+542,Kolor:select:0,Niebieski:0,7
+542,Kolor:select:1,Burgundowy:1,9
+542,Wielkość:select:0,Mały:0,2
+543,Kolor:select:0,Błękitny:0,10
+543,Kolor:select:1,Lazurowy:1,2
+543,Wielkość:select:0,Duży:0,6
+543,Wielkość:select:1,Bardzo duży:1,3
+544,Kolor:select:0,Błękitny:0,8
+544,Kolor:select:1,Czerwony:1,4
+544,Kolor:select:2,Pomarańczowy:2,6
+544,Wielkość:select:0,Mały:0,10
+545,Kolor:select:0,Czerwony:0,8
+545,Kolor:select:1,Błękitny:1,3
+545,Kolor:select:2,Zielony:2,7
+545,Wielkość:select:0,Bardzo mały:0,5
+546,Kolor:select:0,Lazurowy:0,9
+546,Kolor:select:1,Burgundowy:1,7
+546,Wielkość:select:0,Mały:0,3
+547,Kolor:select:0,Niebieski:0,3
+547,Wielkość:select:0,Mały:0,8
+548,Kolor:select:0,Błękitny:0,4
+548,Kolor:select:1,Niebieski:1,8
+548,Kolor:select:2,Czerwony:2,3
+548,Wielkość:select:0,Średni:0,4
+548,Wielkość:select:1,Bardzo duży:1,1
+549,Kolor:select:0,Niebieski:0,9
+549,Kolor:select:1,Czerwony:1,10
+549,Kolor:select:2,Lazurowy:2,4
+549,Wielkość:select:0,Bardzo duży:0,2
+549,Wielkość:select:1,Duży:1,7
+550,Kolor:select:0,Błękitny:0,3
+550,Wielkość:select:0,Mały:0,3
+551,Kolor:select:0,Lazurowy:0,7
+551,Kolor:select:1,Pomarańczowy:1,6
+551,Kolor:select:2,Zielony:2,4
+551,Wielkość:select:0,Bardzo mały:0,6
