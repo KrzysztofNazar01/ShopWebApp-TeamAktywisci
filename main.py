@@ -170,11 +170,12 @@ def adjustCSVfile(filename):
 
 
 def saveDataframe(df, filenumber):
-    df.to_csv('OBI_products_' + str(filenumber) + '.csv', index=False, encoding='utf-8')
+    df.to_csv('OBI_products_UTF8' + str(filenumber) + '.csv', index=False, encoding='utf-8')
+    df.to_csv('OBI_products_UTF16' + str(filenumber) + '.csv', index=False, encoding='utf-16')
 
     import numpy as np
     my_numpy = df.to_numpy()
-    np.savetxt('OBI_products_' + str(filenumber) + '_delimiter.csv', my_numpy, fmt='%s', delimiter='|')
+    np.savetxt('OBI_products_' + str(filenumber) + '_delimiter.csv', my_numpy, fmt='%s', delimiter='|', encoding='utf-8')
 
 
 if __name__ == '__main__':
