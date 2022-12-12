@@ -7,23 +7,31 @@ import pandas as pd
 import time
 import random
 
+driver = webdriver.Chrome(ChromeDriverManager().install())
 
 def loadThePage(url):
     urlProductsList = []
-    driver = webdriver.Chrome(ChromeDriverManager().install())
     driver.get(url)
 
     scrollWholePageDown(driver)
 
-    try:
-        products = driver.find_elements(By.CLASS_NAME, 'product')
-        print("LEN: ", len(products))
+    # try:
+    products = driver.find_elements(By.CLASS_NAME, 'product-wrapper')
+    URLs = []
+    for p in products:
+        URLs.append(p.get_attribute('href'))
+    # products = driver.find_elements(By.CLASS_NAME, 'product')
+    print("LEN: ", len(products))
 
-        # read every single image:
-        for product in products:
-            urlProductsList.append(readSingleProduct(product))
-    except:
-        handleErrorReadingProducts()
+    k=0
+    # read every single image:
+    for url_ in URLs:
+        cat = url.split('/')[3].replace('-',' ')
+        product = readSingleProduct(url_)
+        product['cat'] = cat
+        urlProductsList.append(product)
+    # except:
+    #     handleErrorReadingProducts()
 
     return urlProductsList
 
@@ -33,24 +41,58 @@ def handleErrorReadingProducts():
 
 
 def readSingleProduct(product):
-    img = product.find_element(By.XPATH,
-                               './a/span[1]/img').get_attribute('src')
-    name = product.find_element(By.XPATH,
-                                './a/span[2]/span[1]').text
-    price = product.find_element(By.XPATH,
-                                 './a/span[2]/button/span/span[1]/span').text
+    #         'https://www.obi.pl/materialy-budowlane/akcesoria-budowlane/c/176',
+    driver.get(product)
+    
+    scrollWholePageDown(driver)
+    
+    img = driver.find_element(By.CLASS_NAME, 'ads-slider__image').get_attribute('src')
+    name = driver.find_element(By.CLASS_NAME, 'overview__heading').text
+    price = driver.find_element(By.XPATH, '//*[@id="AB_radio_wrapper"]/div[1]/div[2]/div[1]/div[2]/div[1]/span/strong/strong').text.replace(',','.').replace(' ','')
+    div = driver.find_elements(By.CLASS_NAME, 'span-mobile12')[1]
+    vat_string = div.find_element(By.CLASS_NAME, 'underline').text
+    
+    # combinations = driver.find_elements(By.XPATH, '//*[@id="Overview"]/div[2]/section[2]/form/div/div[1]/div/div[3]/div[1]')
+    
+    # has_combination = True
+    
+    # if len(combinations) == 0:
+    #     has_combination = False
+        
+        
+    # if has_combination:
+    #     variant_list = []
+    #     variants = driver.find_elements(By.XPATH, '//*[@id="Overview"]/div[2]/section[2]/form/div/div[1]/div/div[3]/div/div/ul/li')
+    #     for variant in variants:
+    #         variant_list.append(variant.find_element(By.TAG_NAME, 'a'))
+    #     #print(variant_list)
+
+    # print(driver.find_element(By.XPATH, '//*[@id="Overview"]/div[2]/section[2]/form/div/div[1]/div/div[3]/div/div/ul/li[1]/a').text)
+
+    vat = 4
+    
+    if vat_string == "VAT 23%":
+        vat = 1
+    elif vat_string == "VAT 8%":
+        vat = 2
+    elif vat_string == "VAT 5%":
+        vat = 3  
+        
     productItem = {
         'img': img,
         'name': name,
-        'price': price
+        'price': float(price),
+        'vat': vat,
+        'ammount': random.randint(0, 100)
     }
+    
     print(productItem)
     return productItem
 
 
 def scrollWholePageDown(driver):
     finalHeight = driver.execute_script("return document.body.scrollHeight")
-    singleScroll = 400
+    singleScroll = 16000
     currentScroll = 500
     while currentScroll < finalHeight:
         driver.execute_script("window.scrollTo(0, " + str(currentScroll) + ")")
@@ -76,7 +118,7 @@ def getDataUsingWebScrapping():
         newList = loadThePage(url)
         productsList += newList
     df = pd.DataFrame(productsList)
-    df.to_csv('OBI_products_1.csv', index=False, encoding='utf-8')
+    df.to_csv('OBI_products_1.csv', index=False, encoding='utf-8', sep='|')
     print(df)
 
 
@@ -147,7 +189,7 @@ def adjustCSVfile(filename):
     print(df.info())
 
     # add netto price column
-    df['price_netto_float'] = df.apply(lambda row: round(row.price_brutto_float * 0.77, 2), axis=1)
+    df['price_netto_float'] = df.apply(lambda row: round(row.price_brutto_float, 2), axis=1)
     print(df.head())
 
     # add columns with string values and priceTags
@@ -178,28 +220,29 @@ def saveDataframe(df, filenumber):
     np.savetxt('OBI_products_' + str(filenumber) + '_delimiter.csv', my_numpy, fmt='%s', delimiter='|', encoding='utf-8')
 
 
-if __name__ == '__main__':
-    # getDataUsingWebScrapping()
-    df = adjustCSVfile('OBI_products_1.csv')
-    # saveDataframe(df,2)
-    with open('dataWithCategories_2.csv') as f:
-        print(f)
-    df_cat = pd.read_csv('dataWithCategories_2.csv', index_col=False, encoding='utf-8', delimiter=", ")
-    print(df_cat)
-    df_final = pd.merge(df, df_cat, left_on='img', right_on='img', how='left')
-    df_final = df_final.drop('name_y', axis=1)
-    df_final = df_final.drop('price', axis=1)
-    df_final = df_final[df_final['ratingCount'].notna()]
-    df_final = df_final[df_final['ratingScore'].notna()]
-    df_final['idProduktu'] = range(0, len(df_final))
+if __name__ == '__main__':    
+   
+    getDataUsingWebScrapping()
+    # df = adjustCSVfile('OBI_products_1.csv')
+    # # saveDataframe(df,2)
+    # with open('dataWithCategories_2.csv') as f:
+    #     print(f)
+    # df_cat = pd.read_csv('dataWithCategories_2.csv', index_col=False, encoding='utf-8', delimiter=", ")
+    # print(df_cat)
+    # df_final = pd.merge(df, df_cat, left_on='img', right_on='img', how='left')
+    # df_final = df_final.drop('name_y', axis=1)
+    # df_final = df_final.drop('price', axis=1)
+    # df_final = df_final[df_final['ratingCount'].notna()]
+    # df_final = df_final[df_final['ratingScore'].notna()]
+    # df_final['idProduktu'] = range(0, len(df_final))
 
-    df_final['cat'] = df_final['cat'].str.replace('-', ' ')
-    df_final['subCat'] = df_final['subCat'].str.replace('-', ' ')
+    # df_final['cat'] = df_final['cat'].str.replace('-', ' ')
+    # df_final['subCat'] = df_final['subCat'].str.replace('-', ' ')
 
-    print(df.info())
-    df['name'] = df['name'].str.replace('"', ' ')
+    # print(df.info())
+    # df['name'] = df['name'].str.replace('"', ' ')
 
-    print(df_final)
-    saveDataframe(df_final, 4)
+    # print(df_final)
+    # saveDataframe(df_final, 4)
 
 
