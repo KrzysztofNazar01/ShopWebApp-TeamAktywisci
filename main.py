@@ -23,13 +23,16 @@ def loadThePage(url):
     # products = driver.find_elements(By.CLASS_NAME, 'product')
     print("LEN: ", len(products))
 
-    k=0
+    k = 0
     # read every single image:
     for url_ in URLs:
         cat = url.split('/')[3].replace('-',' ')
         product = readSingleProduct(url_)
         product['cat'] = cat
         urlProductsList.append(product)
+        if k > 5:
+            break
+        k+=1
     # except:
     #     handleErrorReadingProducts()
 
@@ -44,14 +47,42 @@ def readSingleProduct(product):
     #         'https://www.obi.pl/materialy-budowlane/akcesoria-budowlane/c/176',
     driver.get(product)
     
+    # FCKING COOKIES...
+    cookies = driver.find_elements(By.XPATH, '/html/body/div[2]/div/div[1]/div[3]/button[3]')
+    if len(cookies) > 0:
+        cookies[0].click()
+
     scrollWholePageDown(driver)
-    
-    img = driver.find_element(By.CLASS_NAME, 'ads-slider__image').get_attribute('src')
+
+    imgs = []
+    # img_slider_divs = driver.find_element(By.CLASS_NAME, 'slick-track').find_elements(By.TAG_NAME, 'div')
+
     name = driver.find_element(By.CLASS_NAME, 'overview__heading').text
     price = driver.find_element(By.XPATH, '//*[@id="AB_radio_wrapper"]/div[1]/div[2]/div[1]/div[2]/div[1]/span/strong/strong').text.replace(',','.').replace(' ','')
     div = driver.find_elements(By.CLASS_NAME, 'span-mobile12')[1]
     vat_string = div.find_element(By.CLASS_NAME, 'underline').text
-    
+
+    height = driver.find_elements(By.XPATH, '//*/td[@data-label="Wysokość"]/span/span')
+    width = driver.find_elements(By.XPATH, '//*/td[@data-label="Szerokość"]/span/span')
+    weight = driver.find_elements(By.XPATH, '//*/td[@data-label="Waga"]/span/span')
+    depth = driver.find_elements(By.XPATH, '//*/td[@data-label="Głębokość / Grubość"]/span/span')
+    opis = driver.find_elements(By.CLASS_NAME, 'no-margin')
+    opis = opis[0].text.replace('\n', ' ') if len(opis) > 0 else ''
+
+    height = height[0].text.replace(',','.') if len(height) != 0 else ''
+    width = width[0].text.replace(',','.') if len(width) != 0 else ''
+    weight = weight[0].text.replace(',','.') if len(weight) != 0 else ''
+    depth = depth[0].text.replace(',','.') if len(depth) != 0 else ''
+
+    driver.find_element(By.CLASS_NAME, 'ads-slider__link').click()
+    scrollWholePageDown(driver)
+    img_divs = driver.find_elements(By.CLASS_NAME, 'ads-slider__image')
+    for div in img_divs:
+        imgs.append(div.get_attribute('src'))
+
+
+
+    print(height, width, weight, depth)
     # combinations = driver.find_elements(By.XPATH, '//*[@id="Overview"]/div[2]/section[2]/form/div/div[1]/div/div[3]/div[1]')
     
     # has_combination = True
@@ -76,14 +107,19 @@ def readSingleProduct(product):
     elif vat_string == "VAT 8%":
         vat = 2
     elif vat_string == "VAT 5%":
-        vat = 3  
-        
+        vat = 3
+
     productItem = {
-        'img': img,
+        'img': ','.join(imgs),
         'name': name,
         'price': float(price),
         'vat': vat,
-        'ammount': random.randint(0, 100)
+        'ammount': random.randint(0, 100),
+        'height': height,
+        'width': width,
+        'depth': depth,
+        'weight': weight,
+        'describe': opis
     }
     
     print(productItem)
@@ -117,6 +153,8 @@ def getDataUsingWebScrapping():
     for url in urlList:
         newList = loadThePage(url)
         productsList += newList
+        break
+
     df = pd.DataFrame(productsList)
     df.to_csv('OBI_products_1.csv', index=False, encoding='utf-8', sep='|')
     print(df)
