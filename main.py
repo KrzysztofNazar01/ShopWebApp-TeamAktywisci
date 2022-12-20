@@ -1,12 +1,13 @@
 import locale
 
 from selenium import webdriver
+from selenium.webdriver.support.wait import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 import pandas as pd
 import time
 import random
-
+from selenium.webdriver.support import expected_conditions as EC
 driver = webdriver.Chrome(ChromeDriverManager().install())
 
 def loadThePage(url):
@@ -74,6 +75,33 @@ def readSingleProduct(product):
     weight = weight[0].text.replace(',','.') if len(weight) != 0 else ''
     depth = depth[0].text.replace(',','.') if len(depth) != 0 else ''
 
+    print(height, width, weight, depth)
+    combinations = driver.find_elements(By.XPATH,
+                                        '//*[@id="Overview"]/div[2]/section[2]/form/div/div[1]/div/div[3]/div[1]')
+
+    print(combinations)
+    print('combinations len:' + str(len(combinations)))
+    has_combination = True
+
+    if len(combinations) == 0:
+        has_combination = False
+
+    if has_combination:
+        button_path = '/html/body/div[1]/section/article/section[1]/div[2]/section[2]/form/div/div[1]/div/div[3]/div/div/button'
+        button = driver.find_element(By.XPATH, button_path)
+        # wcisnic guzik "warianty"
+        wait = WebDriverWait(driver, 2)
+        button = wait.until(EC.visibility_of_element_located((By.XPATH, button_path)))
+        button.click()
+        variant_list = []
+        variants = driver.find_elements(By.XPATH,
+                                        '//*[@id="Overview"]/div[2]/section[2]/form/div/div[1]/div/div[3]/div/div/ul/li')
+        for variant in variants:
+            variant_list.append(variant.find_element(By.TAG_NAME, 'a').text)
+        print('variant list:')
+        print(variant_list)
+
+
     driver.find_element(By.CLASS_NAME, 'ads-slider__link').click()
     scrollWholePageDown(driver)
     img_divs = driver.find_elements(By.CLASS_NAME, 'ads-slider__image')
@@ -82,23 +110,9 @@ def readSingleProduct(product):
 
 
 
-    print(height, width, weight, depth)
-    # combinations = driver.find_elements(By.XPATH, '//*[@id="Overview"]/div[2]/section[2]/form/div/div[1]/div/div[3]/div[1]')
-    
-    # has_combination = True
-    
-    # if len(combinations) == 0:
-    #     has_combination = False
-        
-        
-    # if has_combination:
-    #     variant_list = []
-    #     variants = driver.find_elements(By.XPATH, '//*[@id="Overview"]/div[2]/section[2]/form/div/div[1]/div/div[3]/div/div/ul/li')
-    #     for variant in variants:
-    #         variant_list.append(variant.find_element(By.TAG_NAME, 'a'))
-    #     #print(variant_list)
 
-    # print(driver.find_element(By.XPATH, '//*[@id="Overview"]/div[2]/section[2]/form/div/div[1]/div/div[3]/div/div/ul/li[1]/a').text)
+
+    #print(driver.find_element(By.XPATH, '//*[@id="Overview"]/div[2]/section[2]/form/div/div[1]/div/div[3]/div/div/ul/li[1]/a').text)
 
     vat = 4
     
@@ -138,16 +152,17 @@ def scrollWholePageDown(driver):
 
 def getDataUsingWebScrapping():
     urlList = [
-        'https://www.obi.pl/materialy-budowlane/akcesoria-budowlane/c/176',
-        'https://www.obi.pl/materialy-budowlane/akcesoria-budowlane/c/176?page=2',
-        'https://www.obi.pl/materialy-budowlane/odprowadzenia-wody-i-drenaz/c/284',
-        'https://www.obi.pl/tynk-zaprawa-i-cement/tynki/c/620',
-        'https://www.obi.pl/tynk-zaprawa-i-cement/cement-i-wapno/c/828',
-        'https://www.obi.pl/tynk-zaprawa-i-cement/stal-budowlana-i-kraty-budowlane/c/174',
-        'https://www.obi.pl/akcesoria-do-plytek/silikony-i-akryle/c/317',
-        'https://www.obi.pl/akcesoria-do-plytek/silikony-i-akryle/c/317?page=2',
-        'https://www.obi.pl/akcesoria-do-plytek/silikony-i-akryle/c/317?page=3',
-        'https://www.obi.pl/akcesoria-do-plytek/silikony-i-akryle/c/317?page=4'
+        'https://www.obi.pl/folie-budowlane-i-plandeki/lux-plandeka-120-g-m2-biala-3-m-x-4-m/p/4978318'
+        # 'https://www.obi.pl/materialy-budowlane/akcesoria-budowlane/c/176',
+        # 'https://www.obi.pl/materialy-budowlane/akcesoria-budowlane/c/176?page=2',
+        # 'https://www.obi.pl/materialy-budowlane/odprowadzenia-wody-i-drenaz/c/284',
+        # 'https://www.obi.pl/tynk-zaprawa-i-cement/tynki/c/620',
+        # 'https://www.obi.pl/tynk-zaprawa-i-cement/cement-i-wapno/c/828',
+        # 'https://www.obi.pl/tynk-zaprawa-i-cement/stal-budowlana-i-kraty-budowlane/c/174',
+        # 'https://www.obi.pl/akcesoria-do-plytek/silikony-i-akryle/c/317',
+        # 'https://www.obi.pl/akcesoria-do-plytek/silikony-i-akryle/c/317?page=2',
+        # 'https://www.obi.pl/akcesoria-do-plytek/silikony-i-akryle/c/317?page=3',
+        # 'https://www.obi.pl/akcesoria-do-plytek/silikony-i-akryle/c/317?page=4'
     ]
     productsList = []
     for url in urlList:
@@ -258,9 +273,12 @@ def saveDataframe(df, filenumber):
     np.savetxt('OBI_products_' + str(filenumber) + '_delimiter.csv', my_numpy, fmt='%s', delimiter='|', encoding='utf-8')
 
 
-if __name__ == '__main__':    
-   
-    getDataUsingWebScrapping()
+if __name__ == '__main__':
+    urlval = 'https://www.obi.pl/folie-budowlane-i-plandeki/lux-plandeka-80-g-m2-zielona-3-m-x-4-m/p/2723906'
+    readSingleProduct(urlval)
+    #getDataUsingWebScrapping()
+
+
     # df = adjustCSVfile('OBI_products_1.csv')
     # # saveDataframe(df,2)
     # with open('dataWithCategories_2.csv') as f:
