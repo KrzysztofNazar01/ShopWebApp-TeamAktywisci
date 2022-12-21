@@ -69,7 +69,12 @@ def changeCatNamesToPolish():
             pass
     df.to_csv('OBI_products_v_20_polish_cat.csv', index=False, encoding='utf-8', sep='|')
 
+def chnageDelimeterInURLs():
+    df = pd.read_csv('OBI_products_v_20_polish_cat.csv', index_col=False, encoding='utf-8', sep='|')
+    for index, row in df.iterrows():
+        df.at[index, 'img'] = df.at[index, 'img'].replace(',',';')
 
+    df.to_csv('OBI_products_v_21_polish_cat.csv', index=False, encoding='utf-8', sep='|')
 
 if __name__ == "__main__":
     files = [
@@ -85,4 +90,6 @@ if __name__ == "__main__":
 
     #df = createDF(files)
 
-    changeCatNamesToPolish()
+    #changeCatNamesToPolish()
+
+    chnageDelimeterInURLs()
