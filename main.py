@@ -8,10 +8,15 @@ import pandas as pd
 import time
 import random
 from selenium.webdriver.support import expected_conditions as EC
+
 driver = webdriver.Chrome(ChromeDriverManager().install())
+
+product_id = 1
+
 
 def loadThePage(url):
     urlProductsList = []
+    variantsProductsList = pd.DataFrame()
     driver.get(url)
 
     scrollWholePageDown(driver)
@@ -22,22 +27,29 @@ def loadThePage(url):
     for p in products:
         URLs.append(p.get_attribute('href'))
     # products = driver.find_elements(By.CLASS_NAME, 'product')
-    print("LEN: ", len(products))
+    # print("LEN: ", len(products))
 
-    k = 0
+    k_prod = 50
     # read every single image:
     for url_ in URLs:
-        cat = url.split('/')[3].replace('-',' ')
-        product = readSingleProduct(url_)
+        cat = url.split('/')[3].replace('-', ' ')
+        product, variants = readSingleProduct(url_)
         product['cat'] = cat
         urlProductsList.append(product)
-        if k > 5:
+        if not variants.empty:
+            frames = [variantsProductsList, variants]
+            variantsProductsList = pd.concat(frames)
+            print("variantsProductsList:::")
+            print(variantsProductsList)
+        k_prod += 1
+        if k_prod > 50:
             break
-        k+=1
     # except:
     #     handleErrorReadingProducts()
 
-    return urlProductsList
+    print('variantsProductsList:')
+    print(variantsProductsList)
+    return urlProductsList, variantsProductsList
 
 
 def handleErrorReadingProducts():
@@ -45,9 +57,11 @@ def handleErrorReadingProducts():
 
 
 def readSingleProduct(product):
+    global product_id
+
     #         'https://www.obi.pl/materialy-budowlane/akcesoria-budowlane/c/176',
     driver.get(product)
-    
+
     # FCKING COOKIES...
     cookies = driver.find_elements(By.XPATH, '/html/body/div[2]/div/div[1]/div[3]/button[3]')
     if len(cookies) > 0:
@@ -59,7 +73,9 @@ def readSingleProduct(product):
     # img_slider_divs = driver.find_element(By.CLASS_NAME, 'slick-track').find_elements(By.TAG_NAME, 'div')
 
     name = driver.find_element(By.CLASS_NAME, 'overview__heading').text
-    price = driver.find_element(By.XPATH, '//*[@id="AB_radio_wrapper"]/div[1]/div[2]/div[1]/div[2]/div[1]/span/strong/strong').text.replace(',','.').replace(' ','')
+    price = driver.find_element(By.XPATH,
+                                '//*[@id="AB_radio_wrapper"]/div[1]/div[2]/div[1]/div[2]/div[1]/span/strong/strong').text.replace(
+        ',', '.').replace(' ', '')
     div = driver.find_elements(By.CLASS_NAME, 'span-mobile12')[1]
     vat_string = div.find_element(By.CLASS_NAME, 'underline').text
 
@@ -70,37 +86,37 @@ def readSingleProduct(product):
     opis = driver.find_elements(By.CLASS_NAME, 'no-margin')
     opis = opis[0].text.replace('\n', ' ') if len(opis) > 0 else ''
 
-    height = height[0].text.replace(',','.') if len(height) != 0 else ''
-    width = width[0].text.replace(',','.') if len(width) != 0 else ''
-    weight = weight[0].text.replace(',','.') if len(weight) != 0 else ''
-    depth = depth[0].text.replace(',','.') if len(depth) != 0 else ''
+    height = height[0].text.replace(',', '.') if len(height) != 0 else ''
+    width = width[0].text.replace(',', '.') if len(width) != 0 else ''
+    weight = weight[0].text.replace(',', '.') if len(weight) != 0 else ''
+    depth = depth[0].text.replace(',', '.') if len(depth) != 0 else ''
 
-    print(height, width, weight, depth)
+    # print(height, width, weight, depth)
     combinations = driver.find_elements(By.XPATH,
                                         '//*[@id="Overview"]/div[2]/section[2]/form/div/div[1]/div/div[3]/div[1]')
 
-    print(combinations)
-    print('combinations len:' + str(len(combinations)))
+    # print(combinations)
+    # print('combinations len:' + str(len(combinations)))
     has_combination = True
 
     if len(combinations) == 0:
         has_combination = False
 
+    variant_list = []
     if has_combination:
         button_path = '/html/body/div[1]/section/article/section[1]/div[2]/section[2]/form/div/div[1]/div/div[3]/div/div/button'
         button = driver.find_element(By.XPATH, button_path)
-        # wcisnic guzik "warianty"
-        wait = WebDriverWait(driver, 2)
+        # click button "warianty"
+        wait = WebDriverWait(driver, 1)
         button = wait.until(EC.visibility_of_element_located((By.XPATH, button_path)))
         button.click()
-        variant_list = []
+
         variants = driver.find_elements(By.XPATH,
                                         '//*[@id="Overview"]/div[2]/section[2]/form/div/div[1]/div/div[3]/div/div/ul/li')
         for variant in variants:
             variant_list.append(variant.find_element(By.TAG_NAME, 'a').text)
-        print('variant list:')
+        print('variant list for combinations:')
         print(variant_list)
-
 
     driver.find_element(By.CLASS_NAME, 'ads-slider__link').click()
     scrollWholePageDown(driver)
@@ -108,14 +124,8 @@ def readSingleProduct(product):
     for div in img_divs:
         imgs.append(div.get_attribute('src'))
 
-
-
-
-
-    #print(driver.find_element(By.XPATH, '//*[@id="Overview"]/div[2]/section[2]/form/div/div[1]/div/div[3]/div/div/ul/li[1]/a').text)
-
     vat = 4
-    
+
     if vat_string == "VAT 23%":
         vat = 1
     elif vat_string == "VAT 8%":
@@ -123,21 +133,46 @@ def readSingleProduct(product):
     elif vat_string == "VAT 5%":
         vat = 3
 
+    product_amount = random.randint(0, 100)
     productItem = {
+        'id': product_id,
         'img': ','.join(imgs),
         'name': name,
         'price': float(price),
         'vat': vat,
-        'ammount': random.randint(0, 100),
+        'amount': product_amount,
         'height': height,
         'width': width,
         'depth': depth,
         'weight': weight,
         'describe': opis
     }
-    
-    print(productItem)
-    return productItem
+
+    # idProduktu, NazwaTypPozycja, WartoscPozycja, Ilosc
+    variants_list_of_dicts = []
+    var_counter = 0
+    for var in variant_list:
+        idProduktu = str(product_id)
+        NazwaTypPozycja = 'Wariant:select:' + str(var_counter)
+        WartoscPozycja = str(var) + ':' + str(var_counter)
+        Ilosc = str(product_amount)
+
+        var_dict = {
+            'id': idProduktu,
+            'NazwaTypPozycja': NazwaTypPozycja,
+            'WartoscPozycja': WartoscPozycja,
+            'Ilosc': Ilosc
+        }
+
+        variants_list_of_dicts.append(var_dict)
+        var_counter += 1
+
+    df_atr = pd.DataFrame(variants_list_of_dicts)
+    print(product_id)
+    print('head of atr:')
+    print(df_atr.head())
+    product_id += 1
+    return productItem, df_atr
 
 
 def scrollWholePageDown(driver):
@@ -152,27 +187,40 @@ def scrollWholePageDown(driver):
 
 def getDataUsingWebScrapping():
     urlList = [
-        'https://www.obi.pl/folie-budowlane-i-plandeki/lux-plandeka-120-g-m2-biala-3-m-x-4-m/p/4978318'
+        # dziala
         # 'https://www.obi.pl/materialy-budowlane/akcesoria-budowlane/c/176',
         # 'https://www.obi.pl/materialy-budowlane/akcesoria-budowlane/c/176?page=2',
         # 'https://www.obi.pl/materialy-budowlane/odprowadzenia-wody-i-drenaz/c/284',
         # 'https://www.obi.pl/tynk-zaprawa-i-cement/tynki/c/620',
         # 'https://www.obi.pl/tynk-zaprawa-i-cement/cement-i-wapno/c/828',
         # 'https://www.obi.pl/tynk-zaprawa-i-cement/stal-budowlana-i-kraty-budowlane/c/174',
+        'https://www.obi.pl/budowac/okno/c/300',
+
+        # niedziala
         # 'https://www.obi.pl/akcesoria-do-plytek/silikony-i-akryle/c/317',
         # 'https://www.obi.pl/akcesoria-do-plytek/silikony-i-akryle/c/317?page=2',
         # 'https://www.obi.pl/akcesoria-do-plytek/silikony-i-akryle/c/317?page=3',
         # 'https://www.obi.pl/akcesoria-do-plytek/silikony-i-akryle/c/317?page=4'
+
     ]
     productsList = []
+    variantsList = pd.DataFrame()
     for url in urlList:
-        newList = loadThePage(url)
+        newList, newVariants = loadThePage(url)
         productsList += newList
-        break
+
+        if not newVariants.empty:
+            frames = [variantsList, newVariants]
+            variantsList = pd.concat(frames)
 
     df = pd.DataFrame(productsList)
-    df.to_csv('OBI_products_1.csv', index=False, encoding='utf-8', sep='|')
+    df.to_csv('OBI_products_v_7.csv', index=False, encoding='utf-8', sep='|')
     print(df)
+
+    print('variantsList:')
+    print(variantsList)
+    # df_var = pd.DataFrame(variantsList)
+    variantsList.to_csv('OBI_products_atr_v_7.csv', index=False, encoding='utf-8', sep=';')
 
 
 def extractPriceTag(row):
@@ -259,8 +307,8 @@ def adjustCSVfile(filename):
     df = df.drop('price_netto_string', axis=1)
     df = df.drop('price_brutto_string', axis=1)
 
+    # df = addSizeColumn(df)
 
-    df = addSizeColumn(df)
     return df
 
 
@@ -270,14 +318,35 @@ def saveDataframe(df, filenumber):
 
     import numpy as np
     my_numpy = df.to_numpy()
-    np.savetxt('OBI_products_' + str(filenumber) + '_delimiter.csv', my_numpy, fmt='%s', delimiter='|', encoding='utf-8')
+    np.savetxt('OBI_products_' + str(filenumber) + '_delimiter.csv', my_numpy, fmt='%s', delimiter='|',
+               encoding='utf-8')
 
 
 if __name__ == '__main__':
-    urlval = 'https://www.obi.pl/folie-budowlane-i-plandeki/lux-plandeka-80-g-m2-zielona-3-m-x-4-m/p/2723906'
-    readSingleProduct(urlval)
-    #getDataUsingWebScrapping()
+    # urlval = 'https://www.obi.pl/folie-budowlane-i-plandeki/lux-plandeka-80-g-m2-zielona-3-m-x-4-m/p/2723906'
+    # readSingleProduct(urlval)
 
+    getDataUsingWebScrapping()
+
+    # dict_1 = {'v1': 1, "v2": 2}
+    # dict_2 = {'v1': 53, "v2": 3}
+    # dict_3 = {'v1': 2, "v2": 6}
+    #
+    # dict_list = []
+    # dict_list.append(dict_1)
+    # dict_list.append(dict_2)
+    # dict_list.append(dict_3)
+    # #print(dict_list)
+    # dict_list2 = []
+    # dict_list2.append(dict_1)
+    # dict_list2.append(dict_2)
+    # dict_list2.append(dict_3)
+    # #print(dict_list2)
+    #
+    # list_final = []
+    # list_final.append(dict_list)
+    # list_final.append(dict_list2)
+    # print(list_final)
 
     # df = adjustCSVfile('OBI_products_1.csv')
     # # saveDataframe(df,2)
@@ -300,5 +369,3 @@ if __name__ == '__main__':
 
     # print(df_final)
     # saveDataframe(df_final, 4)
-
-

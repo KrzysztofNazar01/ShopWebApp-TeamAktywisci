@@ -1,0 +1,14 @@
+id;NazwaTypPozycja;WartoscPozycja;Ilosc
+6;Wariant:select:0;1 m:0;76
+6;Wariant:select:1;1,6 m:1;76
+7;Wariant:select:0;0,5 m:0;42
+7;Wariant:select:1;1 m:1;42
+7;Wariant:select:2;2 m:2;42
+8;Wariant:select:0;0,5 m:0;42
+8;Wariant:select:1;1 m:1;42
+8;Wariant:select:2;2 m:2;42
+10;Wariant:select:0;15 st:0;65
+10;Wariant:select:1;30 st:1;65
+10;Wariant:select:2;45 st:2;65
+10;Wariant:select:3;67 st:3;65
+10;Wariant:select:4;87 st:4;65
