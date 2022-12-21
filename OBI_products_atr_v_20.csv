@@ -1,0 +1,46 @@
+id;NazwaTypPozycja;WartoscPozycja;Ilosc
+1;Wariant:select:0;152 cm:0;77
+1;Wariant:select:1;122 cm:1;77
+1;Wariant:select:2;92 cm:2;77
+1;Wariant:select:3;182 cm:3;77
+3;Wariant:select:0;122 cm:0;16
+3;Wariant:select:1;92 cm:1;16
+3;Wariant:select:2;182 cm:2;16
+3;Wariant:select:3;152 cm:3;16
+4;Wariant:select:0;152 cm:0;76
+4;Wariant:select:1;92 cm:1;76
+4;Wariant:select:2;182 cm:2;76
+4;Wariant:select:3;122 cm:3;76
+13;Wariant:select:0;92 cm:0;85
+13;Wariant:select:1;122 cm:1;85
+13;Wariant:select:2;152 cm:2;85
+13;Wariant:select:3;182 cm:3;85
+21;Wariant:select:0;122 cm:0;9
+21;Wariant:select:1;92 cm:1;9
+21;Wariant:select:2;152 cm:2;9
+21;Wariant:select:3;182 cm:3;9
+69;Wariant:select:0;3 x 4 m:0;15
+69;Wariant:select:1;4 x 5 m:1;15
+81;Wariant:select:0;4 x 5 m:0;64
+81;Wariant:select:1;3 x 4 m:1;64
+125;Wariant:select:0;1 m:0;49
+125;Wariant:select:1;1,6 m:1;49
+127;Wariant:select:0;3x11:0;3
+127;Wariant:select:1;3x12:1;3
+127;Wariant:select:2;3x14:2;3
+134;Wariant:select:0;40 l:0;68
+134;Wariant:select:1;60 l:1;68
+134;Wariant:select:2;80 l:2;68
+135;Wariant:select:0;65 l:0;37
+135;Wariant:select:1;40 l:1;37
+135;Wariant:select:2;90 l:2;37
+170;Wariant:select:0;3 x 5 m:0;7
+170;Wariant:select:1;3 x 10 m:1;7
+170;Wariant:select:2;3 x 15 m:2;7
+293;Wariant:select:0;SZ - 200 / 400:0;99
+293;Wariant:select:1;SZ - 300 / 600:1;99
+293;Wariant:select:2;SZ - 100 / 200:2;99
+294;Wariant:select:0;360 kg:0;72
+294;Wariant:select:1;720 kg:1;72
+338;Wariant:select:0;1200W:0;92
+338;Wariant:select:1;1500W:1;92

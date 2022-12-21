@@ -1,0 +1,6 @@
+id;NazwaTypPozycja;WartoscPozycja;Ilosc
+3;Wariant:select:0;SZ - 200 / 400:0;99
+3;Wariant:select:1;SZ - 300 / 600:1;99
+3;Wariant:select:2;SZ - 100 / 200:2;99
+4;Wariant:select:0;360 kg:0;72
+4;Wariant:select:1;720 kg:1;72

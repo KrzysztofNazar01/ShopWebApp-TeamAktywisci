@@ -1,0 +1,19 @@
+id;NazwaTypPozycja;WartoscPozycja;Ilosc
+22;Wariant:select:0;3 x 4 m:0;15
+22;Wariant:select:1;4 x 5 m:1;15
+34;Wariant:select:0;4 x 5 m:0;64
+34;Wariant:select:1;3 x 4 m:1;64
+78;Wariant:select:0;1 m:0;49
+78;Wariant:select:1;1,6 m:1;49
+80;Wariant:select:0;3x11:0;3
+80;Wariant:select:1;3x12:1;3
+80;Wariant:select:2;3x14:2;3
+87;Wariant:select:0;40 l:0;68
+87;Wariant:select:1;60 l:1;68
+87;Wariant:select:2;80 l:2;68
+88;Wariant:select:0;65 l:0;37
+88;Wariant:select:1;40 l:1;37
+88;Wariant:select:2;90 l:2;37
+123;Wariant:select:0;3 x 5 m:0;7
+123;Wariant:select:1;3 x 10 m:1;7
+123;Wariant:select:2;3 x 15 m:2;7
