@@ -1,0 +1,36 @@
+version: "3"
+services:
+  prestadb:
+    build: ./db
+    command: --default-authentication-plugin=mysql_native_password
+    environment:
+      - MYSQL_DATABASE=prestadb
+      - MYSQL_ROOT_PASSWORD=admin
+    networks:
+      - prestashop 
+  
+  prestashop:
+    image: ricopsych/harrystoj
+    restart: always
+    depends_on:
+      - prestadb 
+    ports: 
+      - "80:80"
+      - "443:443"
+    networks:
+      - prestashop
+
+  mail:
+    image: bytemark/smtp
+    restart: always
+    environment:
+      RELAY_HOST: smtp.student.pg.edu.pl
+      RELAY_PORT: 587
+      RELAY_USERNAME: s184546@student.pg.edu.pl
+      RELAY_PASSWORD: 
+    networks:
+      - prestashop
+
+
+networks:
+  prestashop:

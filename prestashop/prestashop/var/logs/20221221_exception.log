@@ -1,0 +1,6 @@
+*ERROR* 	v8.0.0	2022/12/21 - 00:03:05: Cannot select any valid SQL engine. at line 303 in file classes/db/Db.php
+*ERROR* 	v8.0.0	2022/12/21 - 00:03:06: Cannot select any valid SQL engine. at line 303 in file classes/db/Db.php
+*ERROR* 	v8.0.0	2022/12/21 - 00:09:46: Cannot select any valid SQL engine. at line 303 in file classes/db/Db.php
+*ERROR* 	v8.0.0	2022/12/21 - 00:21:40: Cannot select any valid SQL engine. at line 303 in file classes/db/Db.php
+*ERROR* 	v8.0.0	2022/12/21 - 00:21:45: Cannot select any valid SQL engine. at line 303 in file classes/db/Db.php
+*ERROR* 	v8.0.0	2022/12/21 - 00:21:46: Cannot select any valid SQL engine. at line 303 in file classes/db/Db.php
